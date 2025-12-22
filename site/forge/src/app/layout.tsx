@@ -68,6 +68,8 @@ export default function RootLayout({
           <div className="forge-footerLinks">
             Methodology &middot;{" "}
             <a href="/how-the-forge-works">How the Forge Works</a>
+            {" "} &middot;{" "}
+            <a href="https://buttondown.email/theforge">Join the Forgeletter</a>
           </div>
         </footer>
       </body>

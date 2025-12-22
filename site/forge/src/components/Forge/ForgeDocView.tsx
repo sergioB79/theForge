@@ -490,6 +490,35 @@ export default function ForgeDocView({
         </section>
       )}
 
+      <section className="forge-newsletter forge-newsletterInline">
+        <div className="forge-tag">THE FORGELETTER</div>
+        <h3 className="forge-newsletterTitle">If this lit something in you, join us.</h3>
+        <p className="forge-newsletterText">
+          New entries, rejected rites, and behind-the-anvil notes. No noise, just heat.
+        </p>
+        <form
+          className="forge-newsletterForm"
+          action="https://buttondown.email/api/emails/embed-subscribe/theforge"
+          method="post"
+          target="popupwindow"
+          onSubmit={() => {
+            window.open("https://buttondown.email/theforge", "popupwindow");
+          }}
+        >
+          <label className="forge-newsletterLabel" htmlFor="bd-email-inline">
+            Email
+          </label>
+          <input
+            id="bd-email-inline"
+            name="email"
+            type="email"
+            required
+            placeholder="you@example.com"
+          />
+          <button type="submit">Join the Forgeletter</button>
+        </form>
+      </section>
+
       {!isPerson && doc.inscription && (
         <section className={styles.inscription}>
           <h2 className={styles.inscriptionTitle}>INSCRIPTION</h2>

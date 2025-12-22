@@ -52,6 +52,36 @@ export default function Home() {
           <p>No rankings by popularity. No comfort. Only durable discipline.</p>
         </div>
       </section>
+
+      <section id="forgeletter" className="forge-newsletter">
+        <div className="forge-tag">THE FORGELETTER</div>
+        <h2 className="forge-newsletterTitle">Letters from the Forge</h2>
+        <p className="forge-newsletterText">
+          Get new entries, rejected rites, and behind-the-anvil thoughts. No noise, just
+          heat.
+        </p>
+        <form
+          className="forge-newsletterForm"
+          action="https://buttondown.email/api/emails/embed-subscribe/theforge"
+          method="post"
+          target="popupwindow"
+          onSubmit={() => {
+            window.open("https://buttondown.email/theforge", "popupwindow");
+          }}
+        >
+          <label className="forge-newsletterLabel" htmlFor="bd-email">
+            Email
+          </label>
+          <input
+            id="bd-email"
+            name="email"
+            type="email"
+            required
+            placeholder="you@example.com"
+          />
+          <button type="submit">Join the Forgeletter</button>
+        </form>
+      </section>
     </main>
   );
 }
