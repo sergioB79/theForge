@@ -502,9 +502,6 @@ export default function ForgeDocView({
           method="post"
           target="popupwindow"
         >
-          <label className="forge-newsletterLabel" htmlFor="bd-email-inline">
-            Email
-          </label>
           <input
             id="bd-email-inline"
             name="email"

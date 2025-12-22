@@ -66,9 +66,6 @@ export default function Home() {
           method="post"
           target="popupwindow"
         >
-          <label className="forge-newsletterLabel" htmlFor="bd-email">
-            Email
-          </label>
           <input
             id="bd-email"
             name="email"
