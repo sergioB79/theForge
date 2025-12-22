@@ -65,9 +65,6 @@ export default function Home() {
           action="https://buttondown.email/api/emails/embed-subscribe/theforge"
           method="post"
           target="popupwindow"
-          onSubmit={() => {
-            window.open("https://buttondown.email/theforge", "popupwindow");
-          }}
         >
           <label className="forge-newsletterLabel" htmlFor="bd-email">
             Email
