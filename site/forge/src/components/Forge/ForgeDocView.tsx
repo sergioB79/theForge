@@ -398,12 +398,12 @@ export default function ForgeDocView({
             <ul className={styles.bulletList}>
               {parseBullets(whyFeels).map((line) => (
                 <li key={line} className={styles.bulletItem}>
-                  {line}
+                  {renderInline(line)}
                 </li>
               ))}
             </ul>
           ) : (
-            <div className={styles.sectionBody}>{whyFeels}</div>
+            <div className={styles.sectionBody}>{renderInline(whyFeels)}</div>
           )}
         </section>
       )}
@@ -415,12 +415,12 @@ export default function ForgeDocView({
             <ul className={styles.bulletList}>
               {parseBullets(whyFails).map((line) => (
                 <li key={line} className={styles.bulletItem}>
-                  {line}
+                  {renderInline(line)}
                 </li>
               ))}
             </ul>
           ) : (
-            <div className={styles.sectionBody}>{whyFails}</div>
+            <div className={styles.sectionBody}>{renderInline(whyFails)}</div>
           )}
         </section>
       )}
@@ -428,14 +428,14 @@ export default function ForgeDocView({
       {isRejected && verdict && (
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>VERDICT</h2>
-          <div className={styles.sectionBody}>{verdict}</div>
+          <div className={styles.sectionBody}>{renderInline(verdict)}</div>
         </section>
       )}
 
       {isRejected && archive && (
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>ARCHIVE</h2>
-          <div className={styles.sectionBody}>{archive}</div>
+          <div className={styles.sectionBody}>{renderInline(archive)}</div>
         </section>
       )}
 
