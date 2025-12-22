@@ -1,0 +1,216 @@
+THE FORGE - Site Functionality, Inputs, Data Treatment, and Rendering
+====================================================================
+
+Scope
+-----
+This document describes how the site in G:\#THE FORGE - SITE works end to end.
+It covers inputs, data processing pipelines, and how content renders in the UI.
+
+
+1) Primary Inputs
+-----------------
+A) Subject lists (seed inputs)
+- input\movies.txt
+- input\books.txt
+- input\persons.txt
+- input\others.txt
+
+Each file contains one subject per line. These are the raw inputs to content
+generation scripts.
+
+B) Prompt templates
+- prompts\movie_prompt.txt
+- prompts\book_prompt.txt
+- prompts\person_prompt.txt
+- prompts\other_prompt.txt
+- prompts\invocation_prompt.txt
+
+These prompts define the required structure, classification fields, and
+constraints for generated Markdown.
+
+
+2) Content Generation Pipeline (out\*.md)
+-----------------------------------------
+A) Forge reviews generation
+Script: run_forge.py
+- Reads subject lists from input\*.txt.
+- Reads prompt templates from prompts\*.txt.
+- Calls OpenAI Responses API to generate Markdown for each subject.
+- Writes output to out\<domain>\<safe_name>.md.
+- Writes progress to out\forge_progress.jsonl.
+- Produces a batch report in out\reports\_REPORT.md.
+
+Key output requirement:
+Each Markdown file includes a CLASSIFICATION block with machine-readable
+fields like DOMAIN, TITLE/SUBJECT/NAME, FORGE STATUS, FORGE LEVEL, CATEGORY,
+and TAGS.
+
+B) Invocation injection (optional enhancement)
+Script: run_invocations.py
+- Scans existing out\**\*.md.
+- Generates a short INVOCATION paragraph using prompts\invocation_prompt.txt.
+- Injects it above the rest of the document with a separator line.
+- Can replace existing invocation blocks if run with --force.
+
+
+3) Import to Site Content (content\forge\...)
+----------------------------------------------
+Script: site\forge\scripts\import_from_out.py
+Purpose: move or copy the generated Markdown into the content tree used by
+the Next.js site.
+
+Process:
+- Reads out\**\*.md.
+- Parses the CLASSIFICATION block.
+- Normalizes domain values (movies, books, persons, others).
+- Normalizes status (passed or rejected).
+- Builds a stable slug from the title (and year, if present).
+- Copies or moves the file to:
+  content\forge\<domain>\<passed|rejected>\<slug>.md
+
+If FORGE STATUS is missing or unknown, the file is skipped to avoid
+polluting the content tree.
+
+
+4) Index Building (data\*.json)
+-------------------------------
+Script: site\forge\scripts\build_indexes.py
+Purpose: turn Markdown content into JSON indexes consumed by the UI.
+
+Inputs:
+- All Markdown files under content\forge\**\*.md.
+
+Parsing and normalization:
+- CLASSIFICATION parsing is forgiving (cleans keys/values).
+- Domain normalization matches movies/books/persons/others.
+- Status normalization: PASSED / REJECTED / UNKNOWN.
+- Level normalization: I, II, III, IV (with fallback to II).
+- Tags are split on semicolon, comma, or pipe and deduped.
+- Optional metadata: YEAR, COUNTRY, DIRECTOR, AUTHOR.
+- "others" titles are normalized by removing trailing parentheses.
+
+Deduplication:
+- For a given (status, slug) pair, the newest file wins.
+- If one version has an INVOCATION block and another does not, the one with
+  INVOCATION is preferred.
+
+Outputs:
+- data\forge_index.json (PASSED only)
+- data\archive_index.json (REJECTED only)
+- data\stats.json (totals and top categories/tags)
+
+Edges (affinity links):
+- For PASSED items only, edges are computed by shared tags.
+- Weight uses a Jaccard-like overlap, slightly boosted by item "heat."
+- Heat is derived from level: IV > III > II > I.
+- Each item stores up to 6 strongest edges.
+
+
+5) Site Rendering (Next.js)
+---------------------------
+The UI is implemented in site\forge as a Next.js app. It reads JSON indexes
+and Markdown files at request time (dynamic routes).
+
+Core data access:
+File: site\forge\src\lib\content.ts
+- getForgeIndex(): reads data\forge_index.json (PASSED items).
+- getArchiveIndex(): reads data\archive_index.json (REJECTED items).
+- getStats(): reads data\stats.json.
+- getForgeItemBySlug(): lookup across PASSED and REJECTED.
+- readForgeMarkdown(): reads the Markdown by path.
+
+Markdown parsing:
+File: site\forge\src\lib\forgeParse.ts
+- Detects INVOCATION blocks and extracts them.
+- Splits content by known section headers.
+- Extracts CLASSIFICATION fields.
+- Captures optional "Inscription" lines.
+- Returns a ForgeDoc object with:
+  - bodyIntro
+  - invocation
+  - sections (map of section -> text)
+  - classification (key/value map)
+  - hardMode (optional)
+  - inscription (optional)
+
+Page routing and rendering:
+
+Home (The Furnace)
+File: site\forge\src\app\page.tsx
+- Static landing page with CTA links to Crucible and Anvil.
+
+Crucible (passed canon list)
+File: site\forge\src\app\crucible\page.tsx
+- Reads forge_index.json.
+- Groups by domain (movies, books, persons, others).
+- Renders lists of passed items by domain.
+
+Anvil (random encounter)
+File: site\forge\src\app\anvil\page.tsx
+- Reads forge_index.json.
+- Picks a random passed item.
+- Renders a direct link to its review.
+
+Archive (rejected list)
+File: site\forge\src\app\archive\page.tsx
+- Reads archive_index.json.
+- Lists rejected items.
+
+Index (stats dashboard)
+File: site\forge\src\app\index\page.tsx
+- Reads stats.json.
+- Shows totals and top categories.
+
+Dossier (placeholder)
+File: site\forge\src\app\dossier\page.tsx
+- Static page placeholder for future dossier content.
+
+About
+File: site\forge\src\app\about\page.tsx
+- Static copy describing the system.
+
+Forge review pages
+Route: /forge/[domain]/[slug]
+File: site\forge\src\app\forge\[domain]\[slug]\page.tsx
+- Reads the item by slug (from forge_index and archive_index).
+- Reads the corresponding Markdown by sourcePath.
+- Parses Markdown into a ForgeDoc.
+- Computes suggestions by shared tags (top 2).
+- Renders the document with ForgeDocView.
+
+Document rendering logic:
+File: site\forge\src\components\Forge\ForgeDocView.tsx
+- Builds header chips from CLASSIFICATION (domain, category, level, status).
+- Renders title, metadata (year, director/author, country), and tags.
+- Renders invocation as standalone paragraphs.
+- Extracts key sections (pre-forge, palladin, components, instructions, legacy).
+- Parses component bullets into cards.
+- Handles "Inscription" as a separate block.
+- Shows classification table and hard mode justification.
+- Suggests related items based on shared tags.
+
+Navigation and layout:
+File: site\forge\src\app\layout.tsx
+- Global layout with navigation links.
+- BackButton (client) shows a "Back to Crucible" link on most pages.
+
+
+6) Rendering Data Flow Summary (request time)
+---------------------------------------------
+1) Next.js page requests data from JSON indexes.
+2) For a review page, the Markdown is loaded from content\forge\...
+3) forgeParse.ts extracts invocation, sections, and classification.
+4) ForgeDocView.tsx formats blocks into headings, lists, cards, and chips.
+5) Output HTML is rendered by Next.js using the current data.
+
+
+7) Where to Update Content
+--------------------------
+To add or refresh content:
+1) Update input\*.txt lists (subjects).
+2) Run run_forge.py to regenerate out\*.md.
+3) Optionally run run_invocations.py to add INVOCATION blocks.
+4) Run site\forge\scripts\import_from_out.py to populate content\forge\...
+5) Run site\forge\scripts\build_indexes.py to update data\*.json.
+
+The site reads the JSON and Markdown directly, so no database is required.

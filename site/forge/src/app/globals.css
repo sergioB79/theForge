@@ -1,0 +1,385 @@
+:root {
+  --forge-bg: #0e1114;
+  --forge-bg-2: #14181d;
+  --forge-line: #1f252b;
+  --forge-text: #e6e1d8;
+  --forge-text-muted: #b9b4aa;
+  --forge-text-dim: #8a8f94;
+  --forge-copper: #e7cc74;
+  --forge-rust: #8c2f1c;
+  --forge-amber: #e7cc74;
+  --forge-steel: #6e8fa3;
+  --forge-max: 1120px;
+  --forge-gutter: clamp(20px, 4vw, 56px);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body.forge-body {
+  color: var(--forge-text);
+  background-color: var(--forge-bg);
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(230, 225, 216, 0.04) 0,
+    rgba(230, 225, 216, 0.04) 1px,
+    transparent 1px,
+    transparent 6px
+  );
+  font-family: var(--font-forge-body), "Inter", sans-serif;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(231, 204, 116, 0.25);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.forge-link {
+  color: var(--forge-amber);
+}
+
+.forge-link:hover {
+  color: var(--forge-text);
+}
+
+.forge-prose p {
+  margin-bottom: 16px;
+  line-height: 1.7;
+}
+
+.forge-prose a {
+  color: var(--forge-amber);
+}
+
+.forge-prose a:hover {
+  color: var(--forge-text);
+}
+
+.forge-prose h1,
+.forge-prose h2,
+.forge-prose h3 {
+  margin-bottom: 14px;
+}
+
+.forge-prose .dossier-label {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.forge-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px var(--forge-gutter);
+  border-bottom: 1px solid var(--forge-line);
+  background: rgba(14, 17, 20, 0.7);
+  backdrop-filter: blur(6px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.forge-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--forge-text);
+}
+
+.forge-logo {
+  display: block;
+  height: 34px;
+  width: auto;
+  opacity: 0.9;
+}
+
+.forge-brandText {
+  font-size: 14px;
+  letter-spacing: 0.18em;
+  color: var(--forge-text-dim);
+}
+
+.forge-nav {
+  display: flex;
+  gap: 18px;
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.forge-nav a:hover {
+  color: var(--forge-amber);
+}
+
+.forge-shell {
+  max-width: var(--forge-max);
+  margin: 0 auto;
+  padding: 32px var(--forge-gutter) 96px;
+}
+
+.forge-back {
+  max-width: var(--forge-max);
+  margin: 0 auto;
+  padding: 18px var(--forge-gutter) 0;
+}
+
+.forge-back-link {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.forge-back-link:hover {
+  color: var(--forge-amber);
+}
+
+.forge-eyebrow {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.forge-title {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: clamp(36px, 5vw, 56px);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin-top: 16px;
+}
+
+.forge-lead {
+  font-size: clamp(16px, 2.2vw, 20px);
+  color: var(--forge-text-muted);
+  max-width: 860px;
+  margin-top: 18px;
+}
+
+.forge-card {
+  border: 1px solid var(--forge-line);
+  background: rgba(20, 24, 29, 0.7);
+  padding: 24px;
+}
+
+.forge-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.forge-grid-2 {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.forge-list {
+  list-style: none;
+  display: grid;
+  gap: 10px;
+}
+
+.forge-list a {
+  display: block;
+}
+
+.forge-list .forge-tag {
+  display: block;
+  margin-top: 4px;
+}
+
+.forge-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.forge-status {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.forge-status.passed {
+  color: var(--forge-copper);
+}
+
+.forge-status.rejected {
+  color: var(--forge-rust);
+}
+
+.forge-section-title {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.forge-section-subtitle {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+  margin-top: 18px;
+  margin-bottom: 8px;
+}
+
+.forge-chipGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.forge-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--forge-line);
+  background: rgba(231, 204, 116, 0.08);
+  color: var(--forge-text);
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: none;
+}
+
+.forge-chipLabel {
+  line-height: 1;
+}
+
+.forge-chipCount {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  background: rgba(231, 204, 116, 0.18);
+  color: var(--forge-amber);
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+
+.forge-statGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 14px;
+}
+
+.forge-stat {
+  border: 1px solid var(--forge-line);
+  border-radius: 12px;
+  padding: 14px 16px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.forge-statValue {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.06em;
+  color: var(--forge-amber);
+}
+
+.forge-statLabel {
+  margin-top: 6px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--forge-text-dim);
+}
+
+.forge-methodology {
+  margin-top: 18px;
+  font-size: 13px;
+  color: var(--forge-text-dim);
+}
+
+.forge-methodology a:hover {
+  color: var(--forge-amber);
+}
+
+.forge-footer {
+  border-top: 1px solid var(--forge-line);
+  padding: 24px var(--forge-gutter) 36px;
+  color: var(--forge-text-dim);
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.forge-footerBrand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.forge-logoSmall {
+  display: block;
+  height: 22px;
+  width: auto;
+  opacity: 0.7;
+}
+
+.forge-footerTagline {
+  color: var(--forge-text-dim);
+}
+
+.forge-footerLinks {
+  margin-top: 10px;
+}
+
+.forge-footer a:hover {
+  color: var(--forge-amber);
+}
+
+@media (max-width: 760px) {
+  .forge-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .forge-nav {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+}

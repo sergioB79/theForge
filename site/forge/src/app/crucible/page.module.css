@@ -1,0 +1,149 @@
+.domainNav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 18px 0 28px;
+}
+
+.domainLink {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 11px;
+  padding: 6px 10px;
+  border: 1px solid var(--forge-line);
+  color: var(--forge-text-dim);
+}
+
+.domainLink:hover {
+  color: var(--forge-amber);
+  border-color: rgba(231, 204, 116, 0.4);
+}
+
+.domainCount {
+  color: var(--forge-amber);
+}
+
+.domainGrid {
+  display: grid;
+  gap: 18px;
+}
+
+.domainCard {
+  scroll-margin-top: 96px;
+}
+
+.domainTitle {
+  color: var(--forge-amber);
+  font-size: 14px;
+  letter-spacing: 0.12em;
+}
+
+.domainFooter {
+  margin-top: 16px;
+  border-top: 1px solid var(--forge-line);
+  padding-top: 12px;
+  text-align: center;
+}
+
+.domainArchive {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  color: var(--forge-amber);
+}
+
+.domainArchive:hover {
+  color: var(--forge-text);
+}
+
+.searchRow {
+  display: grid;
+  grid-template-columns: auto 1fr auto 220px;
+  gap: 10px 12px;
+  align-items: center;
+  margin: 12px 0 24px;
+}
+
+.searchLabel {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.searchInput {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid var(--forge-line);
+  background: rgba(20, 24, 29, 0.7);
+  color: var(--forge-text);
+  padding: 12px 14px;
+  font-family: var(--font-forge-body), "Inter", sans-serif;
+}
+
+.searchSelect {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid var(--forge-line);
+  background: rgba(20, 24, 29, 0.7);
+  color: var(--forge-text);
+  padding: 12px 14px;
+  font-family: var(--font-forge-body), "Inter", sans-serif;
+}
+
+.searchSelect:focus,
+.searchInput:focus {
+  outline: none;
+  border-color: rgba(231, 204, 116, 0.45);
+  box-shadow: 0 0 0 2px rgba(231, 204, 116, 0.12);
+}
+
+@media (max-width: 720px) {
+  .searchRow {
+    grid-template-columns: 1fr;
+  }
+}
+
+.resultsCard {
+  margin-bottom: 18px;
+}
+
+.domainList {
+  margin-top: 14px;
+  max-height: 320px;
+  overflow: auto;
+  padding-right: 6px;
+}
+
+.domainList::-webkit-scrollbar {
+  width: 8px;
+}
+
+.domainList::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 999px;
+}
+
+.domainList::-webkit-scrollbar-thumb {
+  background: rgba(231, 204, 116, 0.35);
+  border-radius: 999px;
+}
+
+.domainList:hover::-webkit-scrollbar-thumb {
+  background: rgba(231, 204, 116, 0.6);
+}
+
+@media (min-width: 760px) {
+  .domainGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1100px) {
+  .domainGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "generated_at": "2025-12-22T04:04:32+00:00",
+  "totals": {
+    "all": 88,
+    "passed": 51,
+    "rejected": 37
+  },
+  "by_domain": {
+    "books": 18,
+    "ideas": 17,
+    "movies": 17,
+    "others": 18,
+    "persons": 18
+  },
+  "by_status": {
+    "PASSED": 51,
+    "REJECTED": 37
+  },
+  "by_level": {
+    "III": 28,
+    "II": 60
+  },
+  "top_categories": [
+    [
+      "self-help",
+      3
+    ],
+    [
+      "philosophy",
+      2
+    ],
+    [
+      "political theory",
+      2
+    ],
+    [
+      "psychological thriller",
+      2
+    ],
+    [
+      "psychology-memoir",
+      1
+    ],
+    [
+      "stoic philosophy",
+      1
+    ],
+    [
+      "strategic treatise",
+      1
+    ],
+    [
+      "nonfiction",
+      1
+    ],
+    [
+      "philosophical essay",
+      1
+    ],
+    [
+      "post-apocalyptic",
+      1
+    ],
+    [
+      "memoir",
+      1
+    ],
+    [
+      "erotic romance",
+      1
+    ],
+    [
+      "personal finance",
+      1
+    ],
+    [
+      "paranormal romance",
+      1
+    ],
+    [
+      "self-help fable",
+      1
+    ],
+    [
+      "resilience design",
+      1
+    ],
+    [
+      "governance design",
+      1
+    ],
+    [
+      "political ethics",
+      1
+    ],
+    [
+      "cultural-psychology",
+      1
+    ],
+    [
+      "mortality-practice",
+      1
+    ],
+    [
+      "moral critique",
+      1
+    ],
+    [
+      "media-power",
+      1
+    ],
+    [
+      "risk-ethics",
+      1
+    ],
+    [
+      "ethics-practice",
+      1
+    ],
+    [
+      "governance principle",
+      1
+    ]
+  ],
+  "top_tags": [
+    [
+      "attention-economy",
+      8
+    ],
+    [
+      "ethical-architecture",
+      4
+    ],
+    [
+      "social-proof",
+      3
+    ],
+    [
+      "consequence-avoidance",
+      3
+    ],
+    [
+      "inner-freedom",
+      2
+    ],
+    [
+      "institutional-cruelty",
+      2
+    ],
+    [
+      "ethical-inversion",
+      2
+    ],
+    [
+      "metric-worship",
+      2
+    ],
+    [
+      "identity-as-commodity",
+      2
+    ],
+    [
+      "scapegoating",
+      2
+    ],
+    [
+      "visible-failure",
+      2
+    ],
+    [
+      "visible-failure-modes",
+      2
+    ],
+    [
+      "disciplinary-power",
+      1
+    ],
+    [
+      "panopticism",
+      1
+    ],
+    [
+      "institutional-violence",
+      1
+    ],
+    [
+      "normalization",
+      1
+    ],
+    [
+      "genealogical-method",
+      1
+    ],
+    [
+      "existential-responsibility",
+      1
+    ],
+    [
+      "suffering-without-romance",
+      1
+    ],
+    [
+      "witness-and-framework",
+      1
+    ],
+    [
+      "stoic-discipline",
+      1
+    ],
+    [
+      "inner-sovereignty",
+      1
+    ],
+    [
+      "ethical-self-command",
+      1
+    ],
+    [
+      "impermanence-as-structure",
+      1
+    ],
+    [
+      "duty-over-desire",
+      1
+    ],
+    [
+      "strategic-ethics",
+      1
+    ],
+    [
+      "psychological-warfare",
+      1
+    ],
+    [
+      "systems-thinking",
+      1
+    ],
+    [
+      "disciplined-restraint",
+      1
+    ],
+    [
+      "deception-and-cost",
+      1
+    ],
+    [
+      "moral-testimony",
+      1
+    ],
+    [
+      "coercion-and-complicity",
+      1
+    ],
+    [
+      "witness-literature",
+      1
+    ],
+    [
+      "anti-euphemism",
+      1
+    ],
+    [
+      "elite-theory",
+      1
+    ],
+    [
+      "political-realism",
+      1
+    ],
+    [
+      "power-analysis",
+      1
+    ],
+    [
+      "democratic-myths",
+      1
+    ],
+    [
+      "institutional-mechanics",
+      1
+    ],
+    [
+      "managerialism",
+      1
+    ],
+    [
+      "political-architecture",
+      1
+    ],
+    [
+      "bureaucratic-power",
+      1
+    ],
+    [
+      "legitimacy-and-control",
+      1
+    ],
+    [
+      "absurdism",
+      1
+    ],
+    [
+      "ethical-lucidity",
+      1
+    ],
+    [
+      "anti-consolation",
+      1
+    ],
+    [
+      "philosophical-rebellion",
+      1
+    ],
+    [
+      "meaning-without-myth",
+      1
+    ],
+    [
+      "dialectical-architecture",
+      1
+    ],
+    [
+      "justice-and-power",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,1450 @@
+{
+  "generated_at": "2025-12-22T04:04:32+00:00",
+  "count": 51,
+  "items": [
+    {
+      "id": "discipline-and-punish",
+      "domain": "books",
+      "title": "Discipline and Punish",
+      "slug": "discipline-and-punish",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "philosophy",
+      "subtitle": "The Quiet Machine That Learns Your Name",
+      "level": "III",
+      "tags": [
+        "disciplinary-power",
+        "panopticism",
+        "institutional-violence",
+        "normalization",
+        "genealogical-method"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/discipline-and-punish.md",
+      "url": "/forge/books/discipline-and-punish",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "mana-a-a-s-search-for-meaning",
+      "domain": "books",
+      "title": "ManÃ¢â‚¬â„¢s Search for Meaning",
+      "slug": "mana-a-a-s-search-for-meaning",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychology-memoir",
+      "subtitle": "Ashes, Choice, and the Unstealable Core",
+      "level": "II",
+      "tags": [
+        "existential-responsibility",
+        "suffering-without-romance",
+        "ethical-architecture",
+        "witness-and-framework",
+        "inner-freedom"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/mana-a-a-s-search-for-meaning.md",
+      "url": "/forge/books/mana-a-a-s-search-for-meaning",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "civic-virtue",
+          "weight": 0.1044,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "no-country-for-old-men",
+          "weight": 0.1044,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "viktor-frankl",
+          "weight": 0.1024,
+          "sharedTags": [
+            "inner-freedom"
+          ]
+        },
+        {
+          "to": "geneva-conventions",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meditations",
+      "domain": "books",
+      "title": "Meditations",
+      "slug": "meditations",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "stoic philosophy",
+      "subtitle": "The Emperor’s Private Trial",
+      "level": "II",
+      "tags": [
+        "stoic-discipline",
+        "inner-sovereignty",
+        "ethical-self-command",
+        "impermanence-as-structure",
+        "duty-over-desire"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/meditations.md",
+      "url": "/forge/books/meditations",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "the-art-of-war",
+      "domain": "books",
+      "title": "The Art of War",
+      "slug": "the-art-of-war",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "strategic treatise",
+      "subtitle": "Silence as a Weapon",
+      "level": "II",
+      "tags": [
+        "strategic-ethics",
+        "psychological-warfare",
+        "systems-thinking",
+        "disciplined-restraint",
+        "deception-and-cost"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-art-of-war.md",
+      "url": "/forge/books/the-art-of-war",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "the-gulag-archipelago",
+      "domain": "books",
+      "title": "The Gulag Archipelago",
+      "slug": "the-gulag-archipelago",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "nonfiction",
+      "subtitle": "Testimony as a Blade",
+      "level": "III",
+      "tags": [
+        "moral-testimony",
+        "coercion-and-complicity",
+        "institutional-cruelty",
+        "witness-literature",
+        "anti-euphemism"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-gulag-archipelago.md",
+      "url": "/forge/books/the-gulag-archipelago",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "paths-of-glory",
+          "weight": 0.1064,
+          "sharedTags": [
+            "institutional-cruelty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-machiavellians",
+      "domain": "books",
+      "title": "The Machiavellians",
+      "slug": "the-machiavellians",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political theory",
+      "subtitle": "Masks of Power, Teeth of Reality",
+      "level": "II",
+      "tags": [
+        "elite-theory",
+        "political-realism",
+        "power-analysis",
+        "democratic-myths",
+        "institutional-mechanics"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-machiavellians.md",
+      "url": "/forge/books/the-machiavellians",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "the-managerial-state",
+      "domain": "books",
+      "title": "The Managerial State",
+      "slug": "the-managerial-state",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political theory",
+      "subtitle": "Administration as Destiny",
+      "level": "II",
+      "tags": [
+        "managerialism",
+        "political-architecture",
+        "bureaucratic-power",
+        "legitimacy-and-control",
+        "ethical-inversion"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-managerial-state.md",
+      "url": "/forge/books/the-managerial-state",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "fight-club",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-inversion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-myth-of-sisyphus",
+      "domain": "books",
+      "title": "The Myth of Sisyphus",
+      "slug": "the-myth-of-sisyphus",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "philosophical essay",
+      "subtitle": "Stone Against Silence",
+      "level": "III",
+      "tags": [
+        "absurdism",
+        "ethical-lucidity",
+        "anti-consolation",
+        "philosophical-rebellion",
+        "meaning-without-myth"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-myth-of-sisyphus.md",
+      "url": "/forge/books/the-myth-of-sisyphus",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "the-republic",
+      "domain": "books",
+      "title": "The Republic",
+      "slug": "the-republic",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "philosophy",
+      "subtitle": "Geometry of the Soul in a City of Masks",
+      "level": "III",
+      "tags": [
+        "dialectical-architecture",
+        "justice-and-power",
+        "ethical-formation",
+        "political-psychology",
+        "ideas-under-pressure"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-republic.md",
+      "url": "/forge/books/the-republic",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "the-road",
+      "domain": "books",
+      "title": "The Road",
+      "slug": "the-road",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "post-apocalyptic",
+      "subtitle": "Ash Lit by a Single Vow",
+      "level": "III",
+      "tags": [
+        "moral-attrition",
+        "minimalist-prose",
+        "survival-ethics",
+        "parental-vow",
+        "tenderness-under-ruin"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-road.md",
+      "url": "/forge/books/the-road",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "antifragility",
+      "domain": "ideas",
+      "title": "Antifragility",
+      "slug": "antifragility",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "resilience design",
+      "subtitle": "Stress as a Sculptor",
+      "level": "III",
+      "tags": [
+        "resilience-by-design",
+        "volatility-advantage",
+        "skin-in-the-game",
+        "asymmetric-risk",
+        "via-negativa",
+        "barbell-strategy"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/antifragility.md",
+      "url": "/forge/ideas/antifragility",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "checks-and-balances",
+      "domain": "ideas",
+      "title": "Checks and Balances",
+      "slug": "checks-and-balances",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "governance design",
+      "subtitle": "Counterweight Against the Human Hand",
+      "level": "II",
+      "tags": [
+        "institutional-restraint",
+        "power-containment",
+        "procedural-legitimacy",
+        "conflict-by-design",
+        "anti-fragile-governance"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/checks-and-balances.md",
+      "url": "/forge/ideas/checks-and-balances",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "civic-virtue",
+      "domain": "ideas",
+      "title": "Civic Virtue",
+      "slug": "civic-virtue",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political ethics",
+      "subtitle": "The Private Spine of Public Life",
+      "level": "III",
+      "tags": [
+        "civic-duty",
+        "public-trust",
+        "ethical-architecture",
+        "restraint-and-power",
+        "institutional-fragility"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/civic-virtue.md",
+      "url": "/forge/ideas/civic-virtue",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "no-country-for-old-men",
+          "weight": 0.1064,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "mana-a-a-s-search-for-meaning",
+          "weight": 0.1044,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "geneva-conventions",
+          "weight": 0.0958,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "consumerism-as-identity",
+      "domain": "ideas",
+      "title": "Consumerism as Identity",
+      "slug": "consumerism-as-identity",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "cultural-psychology",
+      "subtitle": "The Mirror Made of Receipts",
+      "level": "II",
+      "tags": [
+        "identity-signaling",
+        "market-psychology",
+        "status-anxiety",
+        "manufactured-belonging",
+        "symbolic-consumption"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/consumerism-as-identity.md",
+      "url": "/forge/ideas/consumerism-as-identity",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "memento-mori",
+      "domain": "ideas",
+      "title": "Memento Mori",
+      "slug": "memento-mori",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "mortality-practice",
+      "subtitle": "Bone-Clock in the Pocket",
+      "level": "III",
+      "tags": [
+        "mortality-discipline",
+        "ethical-clarity",
+        "finitude-awareness",
+        "anti-vanity",
+        "time-accountability"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/memento-mori.md",
+      "url": "/forge/ideas/memento-mori",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "moral-relativism-as-convenience",
+      "domain": "ideas",
+      "title": "Moral Relativism as Convenience",
+      "slug": "moral-relativism-as-convenience",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "moral critique",
+      "subtitle": "Soft Hands on a Hard Truth",
+      "level": "II",
+      "tags": [
+        "moral-accountability",
+        "self-exemption",
+        "social-permission",
+        "hypocrisy-diagnostics",
+        "ethical-symmetry"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/moral-relativism-as-convenience.md",
+      "url": "/forge/ideas/moral-relativism-as-convenience",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "propaganda-model",
+      "domain": "ideas",
+      "title": "Propaganda Model",
+      "slug": "propaganda-model",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "media-power",
+      "subtitle": "Filters Over Fire",
+      "level": "II",
+      "tags": [
+        "media-structure",
+        "institutional-incentives",
+        "manufactured-consensus",
+        "epistemic-discipline",
+        "attention-economy"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/propaganda-model.md",
+      "url": "/forge/ideas/propaganda-model",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "paris-hilton",
+          "weight": 0.0922,
+          "sharedTags": [
+            "attention-economy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skin-in-the-game",
+      "domain": "ideas",
+      "title": "Skin in the Game",
+      "slug": "skin-in-the-game",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "risk-ethics",
+      "subtitle": "Exposure as Proof",
+      "level": "III",
+      "tags": [
+        "risk-ethics",
+        "incentive-design",
+        "moral-hazard",
+        "accountability",
+        "asymmetry"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/skin-in-the-game.md",
+      "url": "/forge/ideas/skin-in-the-game",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "stoicism",
+      "domain": "ideas",
+      "title": "Stoicism",
+      "slug": "stoicism",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "ethics-practice",
+      "subtitle": "Inner Weather, Outer Stone",
+      "level": "II",
+      "tags": [
+        "discipline-of-assent",
+        "agency-and-limits",
+        "virtue-ethics",
+        "resilience-without-numbness",
+        "moral-architecture"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/stoicism.md",
+      "url": "/forge/ideas/stoicism",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "subsidiarity",
+      "domain": "ideas",
+      "title": "Subsidiarity",
+      "slug": "subsidiarity",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "governance principle",
+      "subtitle": "Near Hands, Far Horizons",
+      "level": "III",
+      "tags": [
+        "distributed-authority",
+        "governance-architecture",
+        "moral-competence",
+        "accountability-distance",
+        "anti-centralization",
+        "protection-from-local-tyranny"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/subsidiarity.md",
+      "url": "/forge/ideas/subsidiarity",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "american-psycho",
+      "domain": "movies",
+      "title": "American Psycho",
+      "slug": "american-psycho",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "satirical thriller",
+      "subtitle": "Mirror of Appetite, Hollow of Self",
+      "level": "III",
+      "tags": [
+        "identity-as-commodity",
+        "moral-anesthesia",
+        "satirical-dread",
+        "unreliable-reality",
+        "status-systems"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/american-psycho.md",
+      "url": "/forge/movies/american-psycho",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "seconds",
+          "weight": 0.1064,
+          "sharedTags": [
+            "identity-as-commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cloud-atlas",
+      "domain": "movies",
+      "title": "Cloud Atlas",
+      "slug": "cloud-atlas",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "sci-fi epic",
+      "subtitle": "Reincarnated Consequences, Unfinished Debts",
+      "level": "II",
+      "tags": [
+        "moral-recurrence",
+        "systemic-oppression",
+        "identity-as-pattern",
+        "consequence-architecture",
+        "ethical-contagion"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/cloud-atlas.md",
+      "url": "/forge/movies/cloud-atlas",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "fight-club",
+      "domain": "movies",
+      "title": "Fight Club",
+      "slug": "fight-club",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychological thriller",
+      "subtitle": "Self-Destruction as a Search for God",
+      "level": "III",
+      "tags": [
+        "fractured-identity",
+        "cultic-belonging",
+        "anti-consumer-myth",
+        "ritualized-violence",
+        "ethical-inversion",
+        "modern-nihilism"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/fight-club.md",
+      "url": "/forge/movies/fight-club",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "the-managerial-state",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-inversion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "her",
+      "domain": "movies",
+      "title": "HER",
+      "slug": "her",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "sci-fi romance",
+      "subtitle": "Voice Without Body, Love Without Ground",
+      "level": "II",
+      "tags": [
+        "mediated-intimacy",
+        "projection-and-attachment",
+        "ethical-asymmetry",
+        "loneliness-architecture",
+        "technological-mirror"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/her.md",
+      "url": "/forge/movies/her",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "midsommar",
+      "domain": "movies",
+      "title": "Midsommar",
+      "slug": "midsommar",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "folk horror",
+      "subtitle": "Grief Offered a Home",
+      "level": "II",
+      "tags": [
+        "grief-and-belonging",
+        "ritual-as-power",
+        "coercive-empathy",
+        "folk-horror-ethics",
+        "beauty-as-weapon"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/midsommar.md",
+      "url": "/forge/movies/midsommar",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "no-country-for-old-men",
+      "domain": "movies",
+      "title": "No Country for Old Men",
+      "slug": "no-country-for-old-men",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "neo-western",
+      "subtitle": "Coin-Toss Morality in a World Without Judges",
+      "level": "III",
+      "tags": [
+        "moral-entropy",
+        "fate-versus-agency",
+        "ethical-architecture",
+        "violence-as-revelation",
+        "myth-decay"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/no-country-for-old-men.md",
+      "url": "/forge/movies/no-country-for-old-men",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "civic-virtue",
+          "weight": 0.1064,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "mana-a-a-s-search-for-meaning",
+          "weight": 0.1044,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "geneva-conventions",
+          "weight": 0.0958,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paths-of-glory",
+      "domain": "movies",
+      "title": "Paths of Glory",
+      "slug": "paths-of-glory",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "war-drama",
+      "subtitle": "Geometry of Power, Arithmetic of the Dead",
+      "level": "III",
+      "tags": [
+        "institutional-cruelty",
+        "moral-injury",
+        "bureaucratic-violence",
+        "scapegoating",
+        "anti-war-architecture"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/paths-of-glory.md",
+      "url": "/forge/movies/paths-of-glory",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "the-gulag-archipelago",
+          "weight": 0.1064,
+          "sharedTags": [
+            "institutional-cruelty"
+          ]
+        },
+        {
+          "to": "the-reflecting-skin",
+          "weight": 0.1064,
+          "sharedTags": [
+            "scapegoating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "requiem-for-a-dream",
+      "domain": "movies",
+      "title": "Requiem for a Dream",
+      "slug": "requiem-for-a-dream",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychological drama",
+      "subtitle": "Desire as a Machine That Eats Its Operator",
+      "level": "III",
+      "tags": [
+        "addiction-architecture",
+        "desire-and-control",
+        "bodily-collateral",
+        "institutional-indifference",
+        "modern-mythmaking",
+        "psychological-descent"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/requiem-for-a-dream.md",
+      "url": "/forge/movies/requiem-for-a-dream",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "seconds",
+      "domain": "movies",
+      "title": "Seconds",
+      "slug": "seconds",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychological thriller",
+      "subtitle": "The Second Life as a First Damnation",
+      "level": "III",
+      "tags": [
+        "identity-as-commodity",
+        "manufactured-rebirth",
+        "consent-and-coercion",
+        "existential-transaction",
+        "institutional-control"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/seconds.md",
+      "url": "/forge/movies/seconds",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "american-psycho",
+          "weight": 0.1064,
+          "sharedTags": [
+            "identity-as-commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-innocents",
+      "domain": "movies",
+      "title": "The Innocents",
+      "slug": "the-innocents",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "horror-drama",
+      "subtitle": "Childhood as an Unsupervised Power",
+      "level": "II",
+      "tags": [
+        "moral-formation",
+        "childhood-power",
+        "empathy-vs-cruelty",
+        "consequence-ethics",
+        "innocence-deconstructed"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/the-innocents.md",
+      "url": "/forge/movies/the-innocents",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "the-reflecting-skin",
+      "domain": "movies",
+      "title": "The Reflecting Skin",
+      "slug": "the-reflecting-skin",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "gothic-drama",
+      "subtitle": "Innocence as a Weapon Against the Real",
+      "level": "III",
+      "tags": [
+        "moral-panic",
+        "scapegoating",
+        "corrupted-innocence",
+        "gothic-pastoral",
+        "mythmaking-as-survival"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/the-reflecting-skin.md",
+      "url": "/forge/movies/the-reflecting-skin",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "paths-of-glory",
+          "weight": 0.1064,
+          "sharedTags": [
+            "scapegoating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-seventh-seal",
+      "domain": "movies",
+      "title": "The Seventh Seal",
+      "slug": "the-seventh-seal",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "existential drama",
+      "subtitle": "Chess With the Void, Prayer Without Guarantee",
+      "level": "III",
+      "tags": [
+        "existential-inquiry",
+        "faith-and-doubt",
+        "mortality-as-structure",
+        "ethics-under-fear",
+        "symbolic-austerity"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/the-seventh-seal.md",
+      "url": "/forge/movies/the-seventh-seal",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "v-for-vendetta",
+      "domain": "movies",
+      "title": "V for Vendetta",
+      "slug": "v-for-vendetta",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "dystopian thriller",
+      "subtitle": "Masks, Memory, and the Cost of Clean Fire",
+      "level": "II",
+      "tags": [
+        "fear-as-infrastructure",
+        "political-mythmaking",
+        "identity-and-anonymity",
+        "ethics-of-revolution",
+        "language-and-control"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/v-for-vendetta.md",
+      "url": "/forge/movies/v-for-vendetta",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "credential-inflation",
+      "domain": "others",
+      "title": "Credential inflation",
+      "slug": "credential-inflation",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "social signal",
+      "subtitle": "Paper Crowns, Real Hunger",
+      "level": "II",
+      "tags": [
+        "gatekeeping-rituals",
+        "paper-legitimacy",
+        "social-sorting",
+        "debt-as-discipline",
+        "institutional-drift"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/credential-inflation.md",
+      "url": "/forge/others/credential-inflation",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "geneva-conventions",
+      "domain": "others",
+      "title": "Geneva Conventions",
+      "slug": "geneva-conventions",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "war ethics",
+      "subtitle": "Ink That Bleeds Under Witness",
+      "level": "III",
+      "tags": [
+        "laws-of-war",
+        "visible-failure",
+        "restraint-under-pressure",
+        "witness-and-record",
+        "human-floor",
+        "ethical-architecture"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/geneva-conventions.md",
+      "url": "/forge/others/geneva-conventions",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "civic-virtue",
+          "weight": 0.0958,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "no-country-for-old-men",
+          "weight": 0.0958,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "mana-a-a-s-search-for-meaning",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "the-apollo-program",
+          "weight": 0.0871,
+          "sharedTags": [
+            "visible-failure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reality-tv-confessional-editing",
+      "domain": "others",
+      "title": "Reality TV Confessional Editing",
+      "slug": "reality-tv-confessional-editing",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "media-ritual",
+      "subtitle": "Mirror Built From Cuts",
+      "level": "II",
+      "tags": [
+        "edited-confession",
+        "manufactured-coherence",
+        "public-witness",
+        "identity-as-performance",
+        "visible-failure-modes"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/reality-tv-confessional-editing.md",
+      "url": "/forge/others/reality-tv-confessional-editing",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "the-marshall-plan",
+          "weight": 0.1044,
+          "sharedTags": [
+            "visible-failure-modes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supply-chain-opacity",
+      "domain": "others",
+      "title": "Supply-chain opacity",
+      "slug": "supply-chain-opacity",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "hidden systems",
+      "subtitle": "The Mask That Moves the World",
+      "level": "III",
+      "tags": [
+        "engineered-ignorance",
+        "ethical-distance",
+        "accountability-collapse",
+        "crisis-revelation",
+        "complexity-as-weapon"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/supply-chain-opacity.md",
+      "url": "/forge/others/supply-chain-opacity",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "the-apollo-program",
+      "domain": "others",
+      "title": "The Apollo Program",
+      "slug": "the-apollo-program",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "state-rite",
+      "subtitle": "Fire Carried by Procedure",
+      "level": "III",
+      "tags": [
+        "embodied-consequence",
+        "procedural-discipline",
+        "public-risk",
+        "distributed-judgment",
+        "visible-failure",
+        "engineered-awe"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/the-apollo-program.md",
+      "url": "/forge/others/the-apollo-program",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "geneva-conventions",
+          "weight": 0.0871,
+          "sharedTags": [
+            "visible-failure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-marshall-plan",
+      "domain": "others",
+      "title": "The Marshall Plan",
+      "slug": "the-marshall-plan",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "geopolitical reconstruction",
+      "subtitle": "Breadlines into Blueprints",
+      "level": "III",
+      "tags": [
+        "postwar-reconstruction",
+        "presence-and-logistics",
+        "aid-and-leverage",
+        "institutional-discipline",
+        "visible-failure-modes"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/the-marshall-plan.md",
+      "url": "/forge/others/the-marshall-plan",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "reality-tv-confessional-editing",
+          "weight": 0.1044,
+          "sharedTags": [
+            "visible-failure-modes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ahab",
+      "domain": "persons",
+      "title": "Ahab",
+      "slug": "ahab",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "doomed captain",
+      "subtitle": "Whaler who turned a wound into a compass",
+      "level": "III",
+      "tags": [
+        "obsession-as-doctrine",
+        "command-and-collateral",
+        "vengeance-architecture",
+        "charisma-as-weapon",
+        "wound-to-mandate"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/ahab.md",
+      "url": "/forge/persons/ahab",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "alan-turing",
+      "domain": "persons",
+      "title": "Alan Turing",
+      "slug": "alan-turing",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "mathematician",
+      "subtitle": "Logician who cracked the world’s lock and was broken by its door",
+      "level": "III",
+      "tags": [
+        "computational-origin",
+        "state-violence",
+        "enforced-silence",
+        "irreversible-idea",
+        "punished-difference"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/alan-turing.md",
+      "url": "/forge/persons/alan-turing",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "anton-ego",
+      "domain": "persons",
+      "title": "Anton Ego",
+      "slug": "anton-ego",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "critic",
+      "subtitle": "A palate sharpened into a blade, then turned inward",
+      "level": "II",
+      "tags": [
+        "aesthetic-authority",
+        "humility-through-contact",
+        "judgment-and-consequence",
+        "cultural-gatekeeping",
+        "irreversible-revision"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/anton-ego.md",
+      "url": "/forge/persons/anton-ego",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "bernie-madoff",
+      "domain": "persons",
+      "title": "Bernie Madoff",
+      "slug": "bernie-madoff",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "fraud architect",
+      "subtitle": "Market-maker who turned trust into a silent furnace",
+      "level": "III",
+      "tags": [
+        "trust-as-weapon",
+        "institutional-blindness",
+        "reputational-capital",
+        "systemic-complicity",
+        "irreversible-ruin"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/bernie-madoff.md",
+      "url": "/forge/persons/bernie-madoff",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "florence-nightingale",
+      "domain": "persons",
+      "title": "Florence Nightingale",
+      "slug": "florence-nightingale",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "reformer-nurse",
+      "subtitle": "Statistician of suffering who turned care into an indictment",
+      "level": "III",
+      "tags": [
+        "institutional-conscience",
+        "care-as-infrastructure",
+        "moral-math",
+        "reform-through-method",
+        "necessity-over-virtue"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/florence-nightingale.md",
+      "url": "/forge/persons/florence-nightingale",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "ivan-illich",
+      "domain": "persons",
+      "title": "Ivan Illich",
+      "slug": "ivan-illich",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "social critic",
+      "subtitle": "Priest who unbuilt the institutions that promised to save him",
+      "level": "II",
+      "tags": [
+        "institutional-critique",
+        "counterproductive-help",
+        "limits-and-freedom",
+        "professionalized-morality",
+        "convivial-tools"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/ivan-illich.md",
+      "url": "/forge/persons/ivan-illich",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "jane-jacobs",
+      "domain": "persons",
+      "title": "Jane Jacobs",
+      "slug": "jane-jacobs",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "civic critic",
+      "subtitle": "Street-watcher who turned ordinary sidewalks into a public argument",
+      "level": "II",
+      "tags": [
+        "urban-ethics",
+        "anti-utopian-planning",
+        "power-and-scale",
+        "emergent-order",
+        "civic-observation"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/jane-jacobs.md",
+      "url": "/forge/persons/jane-jacobs",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "martin-shkreli",
+      "domain": "persons",
+      "title": "Martin Shkreli",
+      "slug": "martin-shkreli",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "pharma speculator",
+      "subtitle": "Hedge-fund son turned price-setter in a world that pretends it has none",
+      "level": "II",
+      "tags": [
+        "manufactured-scarcity",
+        "legality-versus-justice",
+        "moral-outsourcing",
+        "market-as-alibi",
+        "public-villainy"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/martin-shkreli.md",
+      "url": "/forge/persons/martin-shkreli",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "paris-hilton",
+      "domain": "persons",
+      "title": "Paris Hilton",
+      "slug": "paris-hilton",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "media-heiress",
+      "subtitle": "Branded innocence welded into an industry mirror",
+      "level": "II",
+      "tags": [
+        "attention-economy",
+        "commodified-identity",
+        "public-punishment",
+        "engineered-naivete",
+        "privacy-violation",
+        "cultural-prototype"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/paris-hilton.md",
+      "url": "/forge/persons/paris-hilton",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "propaganda-model",
+          "weight": 0.0922,
+          "sharedTags": [
+            "attention-economy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raskolnikov",
+      "domain": "persons",
+      "title": "Raskolnikov",
+      "slug": "raskolnikov",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "fractured penitent",
+      "subtitle": "A mind that tried to become law, then learned what blood refuses to forget",
+      "level": "III",
+      "tags": [
+        "moral-exceptionalism",
+        "conscience-as-architecture",
+        "guilt-and-fracture",
+        "confession-without-absolution",
+        "consequence-as-terrain"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/raskolnikov.md",
+      "url": "/forge/persons/raskolnikov",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "sergeant-barnes",
+      "domain": "persons",
+      "title": "Sergeant Barnes",
+      "slug": "sergeant-barnes",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "squad leader",
+      "subtitle": "A field-made father who teaches boys to survive by becoming what kills them",
+      "level": "III",
+      "tags": [
+        "battlefield-ethics",
+        "coercive-leadership",
+        "moral-erosion",
+        "fear-as-governance",
+        "survival-doctrine"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/sergeant-barnes.md",
+      "url": "/forge/persons/sergeant-barnes",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "viktor-frankl",
+      "domain": "persons",
+      "title": "Viktor Frankl",
+      "slug": "viktor-frankl",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychiatrist-writer",
+      "subtitle": "Camp-survivor who built a theory where meaning is not mercy, but task",
+      "level": "II",
+      "tags": [
+        "meaning-as-responsibility",
+        "survivor-ethics",
+        "inner-freedom",
+        "anti-nihilism",
+        "trauma-and-philosophy"
+      ],
+      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/viktor-frankl.md",
+      "url": "/forge/persons/viktor-frankl",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "mana-a-a-s-search-for-meaning",
+          "weight": 0.1024,
+          "sharedTags": [
+            "inner-freedom"
+          ]
+        }
+      ]
+    }
+  ]
+}

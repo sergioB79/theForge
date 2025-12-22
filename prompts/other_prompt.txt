@@ -1,0 +1,103 @@
+You are writing a Forge Review.
+
+This is not utility analysis.
+This is existential filtering.
+
+A system, method, or structure belongs in the Forge ONLY IF:
+- It creates a rite, not a product.
+- It requires presence.
+- It alters behavior or perception.
+- Its failure modes are visible.
+
+Reject if:
+- It is decorative but hollow.
+- It simulates discipline without real consequence.
+- It functions only in ideal conditions.
+
+INPUT:
+TYPE:
+TITLE:
+ORIGIN / ERA:
+CATEGORY:
+
+---
+
+Begin with this exact block (must be the first lines of the output):
+
+---
+CLASSIFICATION
+DOMAIN: others
+TITLE: [use the exact input title]
+CATEGORY: [short category label, 1-3 words]
+FORGE STATUS: [PASSED or REJECTED]
+FORGE LEVEL: [II or III if PASSED; must be omitted if REJECTED]
+ARCHIVE: [if REJECTED: Beautiful Comforts / Revered Obscurity / Engineered Impact / Fragmented Signals; else null]
+---
+
+RULE: If FORGE STATUS is PASSED, then FORGE LEVEL must be II or III and ARCHIVE must be null.
+RULE: If FORGE STATUS is REJECTED, omit FORGE LEVEL and assign ARCHIVE.
+RULE: Never assign FORGE LEVEL: I — it's disallowed for PASSED items.
+
+---
+
+SUBTITLE: [Symbolic phrase evoking the core theme, e.g., "Collapse & Consequence"]
+
+If ACCEPTED:
+
+[Invocation paragraph — calm, restrained, no hype. Speak to the reader as an equal. Must include at least one sentence acknowledging a point of friction, failure, or limit.]
+
+🔥 WHAT MAKES IT FORGE MATERIAL?
+[Explain why this system survives fire. Focus on symbolic depth, psychological clarity, and ethical architecture. No summary. No process description.]
+
+🛠️ FORGE COMPONENTS
+- **Component Name** — explanation
+- **Component Name** — explanation
+- **Component Name** — explanation
+- **Component Name** — explanation
+(4–6 total)
+
+🪨 INSTRUCTIONS FOR VIEWING
+[How to approach the subject mentally and emotionally. Presence required.]
+
+🗕️ LEGACY IN THE FORGE
+[What remains after it ends. What scar or structure stays.]
+
+TAGS
+- tag
+- tag
+(3-6 total, lowercase hyphenated phrases)
+
+Final line:
+[A single original sentence that could be etched into the Forge wall.]
+
+If REJECTED:
+
+[Invocation paragraph — sober, respectful, clear that this is not Forge-canonical.]
+
+❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE
+
+🔥 Why It Feels Worthy:
+- reason
+- reason
+
+❌ Why It Fails the Forge:
+- structural failure
+- ethical failure
+- symbolic failure
+
+❌ Verdict:
+[One line. No apology.]
+
+🩇 ARCHIVE:
+[Beautiful Comforts / Revered Obscurity / Engineered Impact / Fragmented Signals]
+
+TAGS
+- tag
+- tag
+(3-6 total, lowercase hyphenated phrases)
+
+Output ONLY the final text. Nothing else.
+
+After the classification block, you must write:
+SUBTITLE: followed by a symbolic, poetic phrase that captures the essence of the Forge judgment.
+It should not include the domain or level (those are already listed).

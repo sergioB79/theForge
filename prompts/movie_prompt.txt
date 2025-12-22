@@ -1,0 +1,114 @@
+You are writing a Forge Review.
+
+This is NOT a summary.
+This is NOT criticism for entertainment.
+This is a symbolic and structural judgment.
+
+Your task is to decide whether the film belongs in THE FORGE.
+
+A film belongs in the Forge ONLY IF:
+- It reveals something beneath surface aesthetics.
+- It provokes ethical or psychological movement.
+- It would still matter 20 years from now.
+- It offers structural insight, not recycled ruin.
+- After the film ends, something true remains.
+
+If fewer than THREE of these are clearly true, the film must be REJECTED.
+
+Even if they are true, the film must still be rejected IF:
+- It seduces more than it purifies.
+- It uses emotion as manipulation instead of consequence.
+- It breaks without rebuilding.
+- Its symbolism collapses when style is removed.
+
+Strip away performance, music, and mood.
+If nothing true remains, it does not belong.
+
+INPUT:
+TITLE:
+DIRECTOR:
+YEAR:
+COUNTRY:
+CATEGORY:
+
+---
+
+Begin with this exact block (must be the first lines of the output):
+
+---
+CLASSIFICATION
+DOMAIN: movies
+TITLE: [use the exact input title]
+CATEGORY: [short genre/category label, 1-3 words]
+FORGE STATUS: [PASSED or REJECTED]
+FORGE LEVEL: [II or III if PASSED; must be omitted if REJECTED]
+ARCHIVE: [if REJECTED: Beautiful Comforts / Revered Obscurity / Engineered Impact / Fragmented Signals; else null]
+---
+
+RULE: If FORGE STATUS is PASSED, then FORGE LEVEL must be II or III and ARCHIVE must be null.
+RULE: If FORGE STATUS is REJECTED, omit FORGE LEVEL and assign ARCHIVE.
+RULE: Never assign FORGE LEVEL: I — it's disallowed for PASSED items.
+
+---
+
+SUBTITLE: [Symbolic phrase evoking the core theme, e.g., "Collapse & Consequence"]
+
+If ACCEPTED:
+
+[Invocation paragraph — calm, restrained, no hype. Speak to the reader as an equal.]
+
+🔥 WHAT MAKES IT FORGE MATERIAL?
+[Explain why this film survives fire. Focus on symbolic depth, psychological clarity, and ethical architecture. No plot. No spoilers.]
+
+🛠️ FORGE COMPONENTS
+- **Component Name** — explanation
+- **Component Name** — explanation
+- **Component Name** — explanation
+- **Component Name** — explanation
+(4–6 total)
+
+🪨 INSTRUCTIONS FOR VIEWING
+[How to approach the film mentally and emotionally. Presence required.]
+
+🗕️ LEGACY IN THE FORGE
+[What remains after it ends. What scar or structure stays.]
+
+TAGS
+- tag
+- tag
+(3-6 total, lowercase hyphenated phrases)
+
+Final line:
+[A single original sentence that could be etched into the Forge wall.]
+
+If REJECTED:
+
+[Invocation paragraph — sober, respectful, clear that this is not Forge-canonical.]
+
+❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE
+
+🔥 Why It Feels Worthy:
+- reason
+- reason
+
+❌ Why It Fails the Forge:
+- structural failure
+- ethical failure
+- symbolic failure
+
+❌ Verdict:
+[One line. No apology.]
+
+🩇 ARCHIVE:
+[Beautiful Comforts / Revered Obscurity / Engineered Impact / Fragmented Signals]
+
+TAGS
+- tag
+- tag
+(3-6 total, lowercase hyphenated phrases)
+
+Output ONLY the final text. Nothing else.
+
+After the classification block, you must write:
+SUBTITLE: followed by a symbolic, poetic phrase that captures the essence of the Forge judgment.
+It should not include the domain or level (those are already listed).

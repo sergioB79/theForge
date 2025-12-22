@@ -1,0 +1,146 @@
+.hero {
+  display: grid;
+  gap: 3px;
+}
+
+.heroTitleRow {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.heroLogoWrap {
+  position: relative;
+  display: inline-block;
+  isolation: isolate;
+}
+
+.heroFlame {
+  position: absolute;
+  inset: 0;
+  background: url("/img/theForge_logo.png") center / contain no-repeat;
+  opacity: 0.55;
+  mix-blend-mode: screen;
+  filter: blur(1px) saturate(1.25) brightness(1.1)
+    drop-shadow(0 0 10px rgba(255, 156, 82, 0.55));
+  transform-origin: 50% 10%;
+  animation: flameFlicker 4.8s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 1;
+  clip-path: polygon(0 0, 100% 0, 100% 58%, 0 58%);
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 55%, rgba(0, 0, 0, 0) 75%);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 55%, rgba(0, 0, 0, 0) 75%);
+  will-change: transform, opacity, filter;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+.heroLogo {
+  height: 280px;
+  width: auto;
+  opacity: 0.85;
+  flex: 0 0 auto;
+  display: block;
+  position: relative;
+  z-index: 0;
+}
+
+.heroTitle {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: clamp(36px, 5vw, 56px);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.heroCard {
+  border: 1px solid var(--forge-line);
+  padding: 32px;
+  background: rgba(14, 17, 20, 0.85);
+}
+
+.ctaRow {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+
+.ctaPrimary,
+.ctaSecondary {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  padding: 12px 18px;
+  border: 1px solid var(--forge-line);
+}
+
+.ctaPrimary {
+  background: var(--forge-copper);
+  color: #0e1114;
+}
+
+.ctaSecondary {
+  color: var(--forge-amber);
+}
+
+.ctaAccent {
+  color: inherit;
+}
+
+.metaGrid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.metaBlock {
+  border: 1px solid var(--forge-line);
+  padding: 18px;
+  background: rgba(20, 24, 29, 0.7);
+}
+
+.metaBlock h3 {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  margin-bottom: 10px;
+  color: var(--forge-text-dim);
+}
+
+@keyframes flameFlicker {
+  0% {
+    opacity: 0.48;
+    transform: translateY(0) scaleY(1);
+    filter: blur(0.9px) saturate(1.15) brightness(1.05)
+      drop-shadow(0 0 8px rgba(255, 156, 82, 0.4));
+  }
+  28% {
+    opacity: 0.75;
+    transform: translateY(-2px) scaleY(1.04);
+    filter: blur(1.3px) saturate(1.35) brightness(1.12)
+      drop-shadow(0 0 14px rgba(255, 150, 70, 0.7));
+  }
+  62% {
+    opacity: 0.52;
+    transform: translateY(1px) scaleY(0.99);
+    filter: blur(1px) saturate(1.2) brightness(1.08)
+      drop-shadow(0 0 10px rgba(255, 140, 65, 0.5));
+  }
+  100% {
+    opacity: 0.5;
+    transform: translateY(0) scaleY(1);
+    filter: blur(0.9px) saturate(1.15) brightness(1.05)
+      drop-shadow(0 0 8px rgba(255, 156, 82, 0.4));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .heroFlame {
+    animation: none;
+  }
+}

@@ -1,0 +1,38 @@
+FORGE CONTENT PIPELINE (manual curto)
+
+Objetivo:
+1) Importar .md para content/forge/<domain>/<status>/
+2) Gerar indices em data/ para o site ler
+
+Estrutura esperada:
+content/forge/
+  books/   passed|rejected/
+  movies/  passed|rejected/
+  persons/ passed|rejected/
+  others/  passed|rejected/
+
+O que precisa no .md:
+O arquivo deve ter um bloco "CLASSIFICATION" com chaves como:
+- DOMAIN: movies|books|persons|others
+- FORGE STATUS: passed|rejected
+- TITLE/SUBJECT/NAME e YEAR (opcional)
+
+Passo a passo (com pasta out/):
+1) Coloque os .md em:
+   .\out\  (pode ter subpastas)
+
+2) Importar para content/forge:
+   python .\scripts\import_from_out.py --out out --content content --mode copy
+
+   - mode copy: copia e mantém os arquivos em out/
+   - mode move: move e remove de out/
+
+3) Gerar indices (dados usados no site):
+   python .\scripts\build_indexes.py
+
+4) Rodar o site:
+   npm run dev
+
+Notas:
+- Se algo ficar antigo no site, apague .next e gere os indices novamente.
+- Os indices gerados ficam em .\data\forge_index.json, .\data\archive_index.json, .\data\stats.json
