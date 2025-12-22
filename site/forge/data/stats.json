@@ -1,29 +1,33 @@
 {
-  "generated_at": "2025-12-22T05:43:16+00:00",
+  "generated_at": "2025-12-22T08:54:58+00:00",
   "totals": {
-    "all": 88,
-    "passed": 51,
-    "rejected": 37
+    "all": 106,
+    "passed": 62,
+    "rejected": 44
   },
   "by_domain": {
-    "books": 18,
+    "books": 21,
     "ideas": 17,
-    "movies": 17,
-    "others": 18,
-    "persons": 18
+    "movies": 23,
+    "others": 21,
+    "persons": 24
   },
   "by_status": {
-    "PASSED": 51,
-    "REJECTED": 37
+    "PASSED": 62,
+    "REJECTED": 44
   },
   "by_level": {
-    "III": 28,
-    "II": 60
+    "III": 33,
+    "II": 73
   },
   "top_categories": [
     [
       "self-help",
-      3
+      4
+    ],
+    [
+      "psychological thriller",
+      4
     ],
     [
       "philosophy",
@@ -34,7 +38,7 @@
       2
     ],
     [
-      "psychological thriller",
+      "existential drama",
       2
     ],
     [
@@ -58,6 +62,10 @@
       1
     ],
     [
+      "sociological theory",
+      1
+    ],
+    [
       "post-apocalyptic",
       1
     ],
@@ -71,6 +79,10 @@
     ],
     [
       "personal finance",
+      1
+    ],
+    [
+      "commercial thriller",
       1
     ],
     [
@@ -108,24 +120,12 @@
     [
       "media-power",
       1
-    ],
-    [
-      "risk-ethics",
-      1
-    ],
-    [
-      "ethics-practice",
-      1
-    ],
-    [
-      "governance principle",
-      1
     ]
   ],
   "top_tags": [
     [
       "attention-economy",
-      8
+      9
     ],
     [
       "ethical-architecture",
@@ -133,6 +133,10 @@
     ],
     [
       "social-proof",
+      3
+    ],
+    [
+      "visible-failure",
       3
     ],
     [
@@ -152,6 +156,10 @@
       2
     ],
     [
+      "ethical-ambiguity",
+      2
+    ],
+    [
       "metric-worship",
       2
     ],
@@ -161,10 +169,6 @@
     ],
     [
       "scapegoating",
-      2
-    ],
-    [
-      "visible-failure",
       2
     ],
     [
@@ -316,11 +320,7 @@
       1
     ],
     [
-      "dialectical-architecture",
-      1
-    ],
-    [
-      "justice-and-power",
+      "social-performance",
       1
     ]
   ]

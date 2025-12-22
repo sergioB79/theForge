@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T05:43:16+00:00",
-  "count": 51,
+  "generated_at": "2025-12-22T08:54:58+00:00",
+  "count": 62,
   "items": [
     {
       "id": "discipline-and-punish",
@@ -238,6 +238,38 @@
       "url": "/forge/books/the-myth-of-sisyphus",
       "heat": 0.72,
       "edges": []
+    },
+    {
+      "id": "the-presentation-of-self-in-everyday-life",
+      "domain": "books",
+      "title": "The Presentation of Self in Everyday Life",
+      "slug": "the-presentation-of-self-in-everyday-life",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "sociological theory",
+      "subtitle": "Masks That Grow Into Skin",
+      "level": "II",
+      "tags": [
+        "social-performance",
+        "self-and-mask",
+        "ethical-ambiguity",
+        "interaction-rituals",
+        "quiet-demolition"
+      ],
+      "sourcePath": "content/forge/books/passed/the-presentation-of-self-in-everyday-life.md",
+      "url": "/forge/books/the-presentation-of-self-in-everyday-life",
+      "heat": 0.48,
+      "edges": [
+        {
+          "to": "parasite",
+          "weight": 0.1044,
+          "sharedTags": [
+            "ethical-ambiguity"
+          ]
+        }
+      ]
     },
     {
       "id": "the-republic",
@@ -743,6 +775,38 @@
       ]
     },
     {
+      "id": "parasite",
+      "domain": "movies",
+      "title": "Parasite",
+      "slug": "parasite",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "social thriller",
+      "subtitle": "Stairs Between Hungers",
+      "level": "III",
+      "tags": [
+        "class-architecture",
+        "ethical-ambiguity",
+        "social-parasitism",
+        "domestic-labyrinth",
+        "dream-and-delusion"
+      ],
+      "sourcePath": "content/forge/movies/passed/parasite.md",
+      "url": "/forge/movies/parasite",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "the-presentation-of-self-in-everyday-life",
+          "weight": 0.1044,
+          "sharedTags": [
+            "ethical-ambiguity"
+          ]
+        }
+      ]
+    },
+    {
       "id": "paths-of-glory",
       "domain": "movies",
       "title": "Paths of Glory",
@@ -780,6 +844,30 @@
           ]
         }
       ]
+    },
+    {
+      "id": "red-desert",
+      "domain": "movies",
+      "title": "Red Desert",
+      "slug": "red-desert",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "modernist alienation",
+      "subtitle": "Corrosion of Sense in an Engineered World",
+      "level": "III",
+      "tags": [
+        "industrial-alienation",
+        "psychological-fragility",
+        "ethics-of-progress",
+        "modernist-cinema",
+        "perception-and-environment"
+      ],
+      "sourcePath": "content/forge/movies/passed/red-desert.md",
+      "url": "/forge/movies/red-desert",
+      "heat": 0.72,
+      "edges": []
     },
     {
       "id": "requiem-for-a-dream",
@@ -839,6 +927,30 @@
       ]
     },
     {
+      "id": "the-conversation",
+      "domain": "movies",
+      "title": "The Conversation",
+      "slug": "the-conversation",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychological thriller",
+      "subtitle": "The Listener Devoured by What He Hears",
+      "level": "III",
+      "tags": [
+        "surveillance-and-guilt",
+        "psychological-dissolution",
+        "ethics-of-listening",
+        "privacy-and-exposure",
+        "1970s-paranoia-transcended"
+      ],
+      "sourcePath": "content/forge/movies/passed/the-conversation.md",
+      "url": "/forge/movies/the-conversation",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
       "id": "the-innocents",
       "domain": "movies",
       "title": "The Innocents",
@@ -859,6 +971,54 @@
       ],
       "sourcePath": "content/forge/movies/passed/the-innocents.md",
       "url": "/forge/movies/the-innocents",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "the-lives-of-others",
+      "domain": "movies",
+      "title": "The Lives of Others",
+      "slug": "the-lives-of-others",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political drama",
+      "subtitle": "Surveillance, Conscience, and the Weight of Listening",
+      "level": "II",
+      "tags": [
+        "surveillance-and-conscience",
+        "authoritarian-systems",
+        "moral-awakening",
+        "art-under-repression",
+        "ethical-responsibility"
+      ],
+      "sourcePath": "content/forge/movies/passed/the-lives-of-others.md",
+      "url": "/forge/movies/the-lives-of-others",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "the-passenger",
+      "domain": "movies",
+      "title": "The Passenger",
+      "slug": "the-passenger",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "existential drama",
+      "subtitle": "Identity Unhoused, Truth In Transit",
+      "level": "II",
+      "tags": [
+        "identity-and-erasure",
+        "ethical-escape",
+        "existential-cinema",
+        "political-undercurrent",
+        "observer-vs-participant"
+      ],
+      "sourcePath": "content/forge/movies/passed/the-passenger.md",
+      "url": "/forge/movies/the-passenger",
       "heat": 0.48,
       "edges": []
     },
@@ -991,6 +1151,13 @@
       "heat": 0.72,
       "edges": [
         {
+          "to": "the-printing-press",
+          "weight": 0.0958,
+          "sharedTags": [
+            "visible-failure"
+          ]
+        },
+        {
           "to": "civic-virtue",
           "weight": 0.0958,
           "sharedTags": [
@@ -1101,6 +1268,13 @@
       "heat": 0.72,
       "edges": [
         {
+          "to": "the-printing-press",
+          "weight": 0.0958,
+          "sharedTags": [
+            "visible-failure"
+          ]
+        },
+        {
           "to": "geneva-conventions",
           "weight": 0.0871,
           "sharedTags": [
@@ -1137,6 +1311,45 @@
           "weight": 0.1044,
           "sharedTags": [
             "visible-failure-modes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-printing-press",
+      "domain": "others",
+      "title": "The Printing Press",
+      "slug": "the-printing-press",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "technological rite",
+      "subtitle": "Ink, Noise, and the Unraveling of Silence",
+      "level": "III",
+      "tags": [
+        "media-rites",
+        "knowledge-and-power",
+        "technological-thresholds",
+        "visible-failure",
+        "altered-trust"
+      ],
+      "sourcePath": "content/forge/others/passed/the-printing-press.md",
+      "url": "/forge/others/the-printing-press",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "geneva-conventions",
+          "weight": 0.0958,
+          "sharedTags": [
+            "visible-failure"
+          ]
+        },
+        {
+          "to": "the-apollo-program",
+          "weight": 0.0958,
+          "sharedTags": [
+            "visible-failure"
           ]
         }
       ]
@@ -1238,6 +1451,30 @@
       "edges": []
     },
     {
+      "id": "e-f-schumacher",
+      "domain": "persons",
+      "title": "E.F. Schumacher",
+      "slug": "e-f-schumacher",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "economic heretic",
+      "subtitle": "The planner who walked out of the machine carrying a handful of soil",
+      "level": "II",
+      "tags": [
+        "postwar-economics",
+        "expert-turned-critic",
+        "limits-and-scale",
+        "spiritual-economy",
+        "complicity-and-conversion"
+      ],
+      "sourcePath": "content/forge/persons/passed/e-f-schumacher.md",
+      "url": "/forge/persons/e-f-schumacher",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
       "id": "florence-nightingale",
       "domain": "persons",
       "title": "Florence Nightingale",
@@ -1259,6 +1496,30 @@
       "sourcePath": "content/forge/persons/passed/florence-nightingale.md",
       "url": "/forge/persons/florence-nightingale",
       "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "frank-grimes",
+      "domain": "persons",
+      "title": "Frank Grimes",
+      "slug": "frank-grimes",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "thwarted striver",
+      "subtitle": "A man of exposed wiring in a world built of rubber.",
+      "level": "II",
+      "tags": [
+        "moral-dislocation",
+        "comedy-as-cruelty",
+        "effort-vs-luck",
+        "fatal-integrity",
+        "systemic-indifference"
+      ],
+      "sourcePath": "content/forge/persons/passed/frank-grimes.md",
+      "url": "/forge/persons/frank-grimes",
+      "heat": 0.48,
       "edges": []
     },
     {
@@ -1306,6 +1567,30 @@
       ],
       "sourcePath": "content/forge/persons/passed/jane-jacobs.md",
       "url": "/forge/persons/jane-jacobs",
+      "heat": 0.48,
+      "edges": []
+    },
+    {
+      "id": "marie-curie",
+      "domain": "persons",
+      "title": "Marie Curie",
+      "slug": "marie-curie",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "scientist-martyr",
+      "subtitle": "She measured the light that hollowed her bones.",
+      "level": "II",
+      "tags": [
+        "scientific-martyrdom",
+        "cost-of-progress",
+        "body-as-instrument",
+        "invisible-damage",
+        "devotion-and-fanaticism"
+      ],
+      "sourcePath": "content/forge/persons/passed/marie-curie.md",
+      "url": "/forge/persons/marie-curie",
       "heat": 0.48,
       "edges": []
     },
@@ -1387,6 +1672,30 @@
       ],
       "sourcePath": "content/forge/persons/passed/raskolnikov.md",
       "url": "/forge/persons/raskolnikov",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "samurai-jack",
+      "domain": "persons",
+      "title": "Samurai Jack",
+      "slug": "samurai-jack",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "dislocated warrior",
+      "subtitle": "A lone blade walking the distance between duty and erasure",
+      "level": "III",
+      "tags": [
+        "tragic-hero-template",
+        "temporal-dislocation",
+        "duty-as-obsession",
+        "anti-redemption-arc",
+        "ethical-paradox"
+      ],
+      "sourcePath": "content/forge/persons/passed/samurai-jack.md",
+      "url": "/forge/persons/samurai-jack",
       "heat": 0.72,
       "edges": []
     },

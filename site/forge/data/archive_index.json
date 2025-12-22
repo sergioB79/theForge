@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T05:43:16+00:00",
-  "count": 37,
+  "generated_at": "2025-12-22T08:54:58+00:00",
+  "count": 44,
   "items": [
     {
       "id": "eat-pray-love",
@@ -95,6 +95,29 @@
       "heat": 0.48
     },
     {
+      "id": "the-da-vinci-code",
+      "domain": "books",
+      "title": "The Da Vinci Code",
+      "slug": "the-da-vinci-code",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "commercial thriller",
+      "subtitle": "Symbols Without Weight, Secrets Without Wounds",
+      "level": "II",
+      "tags": [
+        "commercial-thriller",
+        "conspiracy-myth",
+        "symbolic-surface",
+        "ethical-evasion",
+        "engineered-pace"
+      ],
+      "sourcePath": "content/forge/books/rejected/the-da-vinci-code.md",
+      "url": "/forge/books/the-da-vinci-code",
+      "heat": 0.48
+    },
+    {
       "id": "the-secret",
       "domain": "books",
       "title": "The Secret",
@@ -138,6 +161,29 @@
       ],
       "sourcePath": "content/forge/books/rejected/the-subtle-art-of-not-giving-a-f-ck.md",
       "url": "/forge/books/the-subtle-art-of-not-giving-a-f-ck",
+      "heat": 0.48
+    },
+    {
+      "id": "think-and-grow-rich",
+      "domain": "books",
+      "title": "Think and Grow Rich",
+      "slug": "think-and-grow-rich",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "self-help",
+      "subtitle": "Alchemy Without Ashes",
+      "level": "II",
+      "tags": [
+        "success-mythology",
+        "prosperity-gospel-adjacent",
+        "motivational-engineering",
+        "ethical-blind-spots",
+        "aspirational-rhetoric"
+      ],
+      "sourcePath": "content/forge/books/rejected/think-and-grow-rich.md",
+      "url": "/forge/books/think-and-grow-rich",
       "heat": 0.48
     },
     {
@@ -371,6 +417,29 @@
       "heat": 0.48
     },
     {
+      "id": "joker",
+      "domain": "movies",
+      "title": "Joker",
+      "slug": "joker",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "psychological thriller",
+      "subtitle": "A Mirror That Stares But Does Not See",
+      "level": "II",
+      "tags": [
+        "villain-origin-myth",
+        "mental-illness-spectacle",
+        "social-anger-aestheticized",
+        "engineered-controversy",
+        "style-over-structure"
+      ],
+      "sourcePath": "content/forge/movies/rejected/joker.md",
+      "url": "/forge/movies/joker",
+      "heat": 0.48
+    },
+    {
       "id": "movie-43",
       "domain": "movies",
       "title": "Movie 43",
@@ -578,6 +647,29 @@
       "heat": 0.48
     },
     {
+      "id": "influencer-courses",
+      "domain": "others",
+      "title": "Influencer courses",
+      "slug": "influencer-courses",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "commodified pedagogy",
+      "subtitle": "Perfume of Mastery, Absence of Fire",
+      "level": "II",
+      "tags": [
+        "simulated-ritual",
+        "behavior-marketing",
+        "extractive-pedagogy",
+        "digital-snake-oil",
+        "commodified-discipline"
+      ],
+      "sourcePath": "content/forge/others/rejected/influencer-courses-generic-funnels.md",
+      "url": "/forge/others/influencer-courses",
+      "heat": 0.48
+    },
+    {
       "id": "mandatory-endless-meetings",
       "domain": "others",
       "title": "Mandatory Endless Meetings",
@@ -716,6 +808,29 @@
       "heat": 0.48
     },
     {
+      "id": "thought-leader-quote-accounts",
+      "domain": "others",
+      "title": "Thought-leader quote accounts",
+      "slug": "thought-leader-quote-accounts",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "parasocial curation",
+      "subtitle": "Echoes Without Embers",
+      "level": "II",
+      "tags": [
+        "social-media-rituals",
+        "simulated-wisdom",
+        "consequence-free-discipline",
+        "contextless-quotes",
+        "parasocial-guidance"
+      ],
+      "sourcePath": "content/forge/others/rejected/thought-leader-quote-accounts.md",
+      "url": "/forge/others/thought-leader-quote-accounts",
+      "heat": 0.48
+    },
+    {
       "id": "alexis-de-tocqueville",
       "domain": "persons",
       "title": "Alexis de Tocqueville",
@@ -762,6 +877,29 @@
       "heat": 0.48
     },
     {
+      "id": "dan-bilzerian",
+      "domain": "persons",
+      "title": "Dan Bilzerian",
+      "slug": "dan-bilzerian",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "lifestyle influencer",
+      "subtitle": "A hollow crown built from rented light and borrowed noise",
+      "level": "II",
+      "tags": [
+        "spectacle-capital",
+        "brand-as-person",
+        "algorithmic-masculinity",
+        "risk-as-aesthetic",
+        "fame-without-depth"
+      ],
+      "sourcePath": "content/forge/persons/rejected/dan-bilzerian.md",
+      "url": "/forge/persons/dan-bilzerian",
+      "heat": 0.48
+    },
+    {
       "id": "frank",
       "domain": "persons",
       "title": "Frank",
@@ -805,6 +943,29 @@
       ],
       "sourcePath": "content/forge/persons/rejected/jake-paul.md",
       "url": "/forge/persons/jake-paul",
+      "heat": 0.48
+    },
+    {
+      "id": "kim-kardashian",
+      "domain": "persons",
+      "title": "Kim Kardashian",
+      "slug": "kim-kardashian",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "media industrialist",
+      "subtitle": "A mirror built from algorithms, selling reflections as destiny",
+      "level": "II",
+      "tags": [
+        "attention-economy",
+        "celebrity-industrial-complex",
+        "commodified-self",
+        "engineered-image",
+        "spectacle-without-reckoning"
+      ],
+      "sourcePath": "content/forge/persons/rejected/kim-kardashian.md",
+      "url": "/forge/persons/kim-kardashian",
       "heat": 0.48
     },
     {
