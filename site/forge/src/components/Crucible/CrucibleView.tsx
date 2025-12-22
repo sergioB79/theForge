@@ -147,7 +147,7 @@ export default function CrucibleView({
                 </ul>
               <div className={styles.domainFooter}>
                 <a className={styles.domainArchive} href={`/archive?domain=${domain}`}>
-                  Ver rejeitados ({rejectedByDomain[domain] || 0})
+                  View rejected ({rejectedByDomain[domain] || 0})
                 </a>
               </div>
               </div>
