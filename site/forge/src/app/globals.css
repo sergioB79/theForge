@@ -320,13 +320,14 @@ a {
   border: 1px solid rgba(231, 204, 116, 0.9);
   background: var(--forge-amber);
   color: #0e1114;
-  padding: 12px 18px;
+  padding: 10px 18px;
   font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-size: 12px;
   cursor: pointer;
   box-shadow: 0 10px 24px rgba(231, 204, 116, 0.16);
+  justify-self: center;
 }
 
 .forge-newsletterForm button:hover {
