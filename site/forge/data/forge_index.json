@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T04:04:32+00:00",
+  "generated_at": "2025-12-22T05:43:16+00:00",
   "count": 51,
   "items": [
     {
@@ -21,7 +21,7 @@
         "normalization",
         "genealogical-method"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/discipline-and-punish.md",
+      "sourcePath": "content/forge/books/passed/discipline-and-punish.md",
       "url": "/forge/books/discipline-and-punish",
       "heat": 0.72,
       "edges": []
@@ -45,7 +45,7 @@
         "witness-and-framework",
         "inner-freedom"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/mana-a-a-s-search-for-meaning.md",
+      "sourcePath": "content/forge/books/passed/mana-a-a-s-search-for-meaning.md",
       "url": "/forge/books/mana-a-a-s-search-for-meaning",
       "heat": 0.48,
       "edges": [
@@ -98,7 +98,7 @@
         "impermanence-as-structure",
         "duty-over-desire"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/meditations.md",
+      "sourcePath": "content/forge/books/passed/meditations.md",
       "url": "/forge/books/meditations",
       "heat": 0.48,
       "edges": []
@@ -122,7 +122,7 @@
         "disciplined-restraint",
         "deception-and-cost"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-art-of-war.md",
+      "sourcePath": "content/forge/books/passed/the-art-of-war.md",
       "url": "/forge/books/the-art-of-war",
       "heat": 0.48,
       "edges": []
@@ -146,7 +146,7 @@
         "witness-literature",
         "anti-euphemism"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-gulag-archipelago.md",
+      "sourcePath": "content/forge/books/passed/the-gulag-archipelago.md",
       "url": "/forge/books/the-gulag-archipelago",
       "heat": 0.72,
       "edges": [
@@ -178,7 +178,7 @@
         "democratic-myths",
         "institutional-mechanics"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-machiavellians.md",
+      "sourcePath": "content/forge/books/passed/the-machiavellians.md",
       "url": "/forge/books/the-machiavellians",
       "heat": 0.48,
       "edges": []
@@ -202,7 +202,7 @@
         "legitimacy-and-control",
         "ethical-inversion"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-managerial-state.md",
+      "sourcePath": "content/forge/books/passed/the-managerial-state.md",
       "url": "/forge/books/the-managerial-state",
       "heat": 0.48,
       "edges": [
@@ -234,7 +234,7 @@
         "philosophical-rebellion",
         "meaning-without-myth"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-myth-of-sisyphus.md",
+      "sourcePath": "content/forge/books/passed/the-myth-of-sisyphus.md",
       "url": "/forge/books/the-myth-of-sisyphus",
       "heat": 0.72,
       "edges": []
@@ -258,7 +258,7 @@
         "political-psychology",
         "ideas-under-pressure"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-republic.md",
+      "sourcePath": "content/forge/books/passed/the-republic.md",
       "url": "/forge/books/the-republic",
       "heat": 0.72,
       "edges": []
@@ -282,7 +282,7 @@
         "parental-vow",
         "tenderness-under-ruin"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/books/passed/the-road.md",
+      "sourcePath": "content/forge/books/passed/the-road.md",
       "url": "/forge/books/the-road",
       "heat": 0.72,
       "edges": []
@@ -307,7 +307,7 @@
         "via-negativa",
         "barbell-strategy"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/antifragility.md",
+      "sourcePath": "content/forge/ideas/passed/antifragility.md",
       "url": "/forge/ideas/antifragility",
       "heat": 0.72,
       "edges": []
@@ -331,7 +331,7 @@
         "conflict-by-design",
         "anti-fragile-governance"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/checks-and-balances.md",
+      "sourcePath": "content/forge/ideas/passed/checks-and-balances.md",
       "url": "/forge/ideas/checks-and-balances",
       "heat": 0.48,
       "edges": []
@@ -355,7 +355,7 @@
         "restraint-and-power",
         "institutional-fragility"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/civic-virtue.md",
+      "sourcePath": "content/forge/ideas/passed/civic-virtue.md",
       "url": "/forge/ideas/civic-virtue",
       "heat": 0.72,
       "edges": [
@@ -401,7 +401,7 @@
         "manufactured-belonging",
         "symbolic-consumption"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/consumerism-as-identity.md",
+      "sourcePath": "content/forge/ideas/passed/consumerism-as-identity.md",
       "url": "/forge/ideas/consumerism-as-identity",
       "heat": 0.48,
       "edges": []
@@ -425,7 +425,7 @@
         "anti-vanity",
         "time-accountability"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/memento-mori.md",
+      "sourcePath": "content/forge/ideas/passed/memento-mori.md",
       "url": "/forge/ideas/memento-mori",
       "heat": 0.72,
       "edges": []
@@ -449,7 +449,7 @@
         "hypocrisy-diagnostics",
         "ethical-symmetry"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/moral-relativism-as-convenience.md",
+      "sourcePath": "content/forge/ideas/passed/moral-relativism-as-convenience.md",
       "url": "/forge/ideas/moral-relativism-as-convenience",
       "heat": 0.48,
       "edges": []
@@ -473,7 +473,7 @@
         "epistemic-discipline",
         "attention-economy"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/propaganda-model.md",
+      "sourcePath": "content/forge/ideas/passed/propaganda-model.md",
       "url": "/forge/ideas/propaganda-model",
       "heat": 0.48,
       "edges": [
@@ -505,7 +505,7 @@
         "accountability",
         "asymmetry"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/skin-in-the-game.md",
+      "sourcePath": "content/forge/ideas/passed/skin-in-the-game.md",
       "url": "/forge/ideas/skin-in-the-game",
       "heat": 0.72,
       "edges": []
@@ -529,7 +529,7 @@
         "resilience-without-numbness",
         "moral-architecture"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/stoicism.md",
+      "sourcePath": "content/forge/ideas/passed/stoicism.md",
       "url": "/forge/ideas/stoicism",
       "heat": 0.48,
       "edges": []
@@ -554,7 +554,7 @@
         "anti-centralization",
         "protection-from-local-tyranny"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/ideas/passed/subsidiarity.md",
+      "sourcePath": "content/forge/ideas/passed/subsidiarity.md",
       "url": "/forge/ideas/subsidiarity",
       "heat": 0.72,
       "edges": []
@@ -578,7 +578,7 @@
         "unreliable-reality",
         "status-systems"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/american-psycho.md",
+      "sourcePath": "content/forge/movies/passed/american-psycho.md",
       "url": "/forge/movies/american-psycho",
       "heat": 0.72,
       "edges": [
@@ -610,7 +610,7 @@
         "consequence-architecture",
         "ethical-contagion"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/cloud-atlas.md",
+      "sourcePath": "content/forge/movies/passed/cloud-atlas.md",
       "url": "/forge/movies/cloud-atlas",
       "heat": 0.48,
       "edges": []
@@ -635,7 +635,7 @@
         "ethical-inversion",
         "modern-nihilism"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/fight-club.md",
+      "sourcePath": "content/forge/movies/passed/fight-club.md",
       "url": "/forge/movies/fight-club",
       "heat": 0.72,
       "edges": [
@@ -667,7 +667,7 @@
         "loneliness-architecture",
         "technological-mirror"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/her.md",
+      "sourcePath": "content/forge/movies/passed/her.md",
       "url": "/forge/movies/her",
       "heat": 0.48,
       "edges": []
@@ -691,7 +691,7 @@
         "folk-horror-ethics",
         "beauty-as-weapon"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/midsommar.md",
+      "sourcePath": "content/forge/movies/passed/midsommar.md",
       "url": "/forge/movies/midsommar",
       "heat": 0.48,
       "edges": []
@@ -715,7 +715,7 @@
         "violence-as-revelation",
         "myth-decay"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/no-country-for-old-men.md",
+      "sourcePath": "content/forge/movies/passed/no-country-for-old-men.md",
       "url": "/forge/movies/no-country-for-old-men",
       "heat": 0.72,
       "edges": [
@@ -761,7 +761,7 @@
         "scapegoating",
         "anti-war-architecture"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/paths-of-glory.md",
+      "sourcePath": "content/forge/movies/passed/paths-of-glory.md",
       "url": "/forge/movies/paths-of-glory",
       "heat": 0.72,
       "edges": [
@@ -801,7 +801,7 @@
         "modern-mythmaking",
         "psychological-descent"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/requiem-for-a-dream.md",
+      "sourcePath": "content/forge/movies/passed/requiem-for-a-dream.md",
       "url": "/forge/movies/requiem-for-a-dream",
       "heat": 0.72,
       "edges": []
@@ -825,7 +825,7 @@
         "existential-transaction",
         "institutional-control"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/seconds.md",
+      "sourcePath": "content/forge/movies/passed/seconds.md",
       "url": "/forge/movies/seconds",
       "heat": 0.72,
       "edges": [
@@ -857,7 +857,7 @@
         "consequence-ethics",
         "innocence-deconstructed"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/the-innocents.md",
+      "sourcePath": "content/forge/movies/passed/the-innocents.md",
       "url": "/forge/movies/the-innocents",
       "heat": 0.48,
       "edges": []
@@ -881,7 +881,7 @@
         "gothic-pastoral",
         "mythmaking-as-survival"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/the-reflecting-skin.md",
+      "sourcePath": "content/forge/movies/passed/the-reflecting-skin.md",
       "url": "/forge/movies/the-reflecting-skin",
       "heat": 0.72,
       "edges": [
@@ -913,7 +913,7 @@
         "ethics-under-fear",
         "symbolic-austerity"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/the-seventh-seal.md",
+      "sourcePath": "content/forge/movies/passed/the-seventh-seal.md",
       "url": "/forge/movies/the-seventh-seal",
       "heat": 0.72,
       "edges": []
@@ -937,7 +937,7 @@
         "ethics-of-revolution",
         "language-and-control"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/movies/passed/v-for-vendetta.md",
+      "sourcePath": "content/forge/movies/passed/v-for-vendetta.md",
       "url": "/forge/movies/v-for-vendetta",
       "heat": 0.48,
       "edges": []
@@ -961,7 +961,7 @@
         "debt-as-discipline",
         "institutional-drift"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/credential-inflation.md",
+      "sourcePath": "content/forge/others/passed/credential-inflation.md",
       "url": "/forge/others/credential-inflation",
       "heat": 0.48,
       "edges": []
@@ -986,7 +986,7 @@
         "human-floor",
         "ethical-architecture"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/geneva-conventions.md",
+      "sourcePath": "content/forge/others/passed/geneva-conventions.md",
       "url": "/forge/others/geneva-conventions",
       "heat": 0.72,
       "edges": [
@@ -1039,7 +1039,7 @@
         "identity-as-performance",
         "visible-failure-modes"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/reality-tv-confessional-editing.md",
+      "sourcePath": "content/forge/others/passed/reality-tv-confessional-editing.md",
       "url": "/forge/others/reality-tv-confessional-editing",
       "heat": 0.48,
       "edges": [
@@ -1071,7 +1071,7 @@
         "crisis-revelation",
         "complexity-as-weapon"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/supply-chain-opacity.md",
+      "sourcePath": "content/forge/others/passed/supply-chain-opacity.md",
       "url": "/forge/others/supply-chain-opacity",
       "heat": 0.72,
       "edges": []
@@ -1096,7 +1096,7 @@
         "visible-failure",
         "engineered-awe"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/the-apollo-program.md",
+      "sourcePath": "content/forge/others/passed/the-apollo-program.md",
       "url": "/forge/others/the-apollo-program",
       "heat": 0.72,
       "edges": [
@@ -1128,7 +1128,7 @@
         "institutional-discipline",
         "visible-failure-modes"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/others/passed/the-marshall-plan.md",
+      "sourcePath": "content/forge/others/passed/the-marshall-plan.md",
       "url": "/forge/others/the-marshall-plan",
       "heat": 0.72,
       "edges": [
@@ -1160,7 +1160,7 @@
         "charisma-as-weapon",
         "wound-to-mandate"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/ahab.md",
+      "sourcePath": "content/forge/persons/passed/ahab.md",
       "url": "/forge/persons/ahab",
       "heat": 0.72,
       "edges": []
@@ -1184,7 +1184,7 @@
         "irreversible-idea",
         "punished-difference"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/alan-turing.md",
+      "sourcePath": "content/forge/persons/passed/alan-turing.md",
       "url": "/forge/persons/alan-turing",
       "heat": 0.72,
       "edges": []
@@ -1208,7 +1208,7 @@
         "cultural-gatekeeping",
         "irreversible-revision"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/anton-ego.md",
+      "sourcePath": "content/forge/persons/passed/anton-ego.md",
       "url": "/forge/persons/anton-ego",
       "heat": 0.48,
       "edges": []
@@ -1232,7 +1232,7 @@
         "systemic-complicity",
         "irreversible-ruin"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/bernie-madoff.md",
+      "sourcePath": "content/forge/persons/passed/bernie-madoff.md",
       "url": "/forge/persons/bernie-madoff",
       "heat": 0.72,
       "edges": []
@@ -1256,7 +1256,7 @@
         "reform-through-method",
         "necessity-over-virtue"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/florence-nightingale.md",
+      "sourcePath": "content/forge/persons/passed/florence-nightingale.md",
       "url": "/forge/persons/florence-nightingale",
       "heat": 0.72,
       "edges": []
@@ -1280,7 +1280,7 @@
         "professionalized-morality",
         "convivial-tools"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/ivan-illich.md",
+      "sourcePath": "content/forge/persons/passed/ivan-illich.md",
       "url": "/forge/persons/ivan-illich",
       "heat": 0.48,
       "edges": []
@@ -1304,7 +1304,7 @@
         "emergent-order",
         "civic-observation"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/jane-jacobs.md",
+      "sourcePath": "content/forge/persons/passed/jane-jacobs.md",
       "url": "/forge/persons/jane-jacobs",
       "heat": 0.48,
       "edges": []
@@ -1328,7 +1328,7 @@
         "market-as-alibi",
         "public-villainy"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/martin-shkreli.md",
+      "sourcePath": "content/forge/persons/passed/martin-shkreli.md",
       "url": "/forge/persons/martin-shkreli",
       "heat": 0.48,
       "edges": []
@@ -1353,7 +1353,7 @@
         "privacy-violation",
         "cultural-prototype"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/paris-hilton.md",
+      "sourcePath": "content/forge/persons/passed/paris-hilton.md",
       "url": "/forge/persons/paris-hilton",
       "heat": 0.48,
       "edges": [
@@ -1385,7 +1385,7 @@
         "confession-without-absolution",
         "consequence-as-terrain"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/raskolnikov.md",
+      "sourcePath": "content/forge/persons/passed/raskolnikov.md",
       "url": "/forge/persons/raskolnikov",
       "heat": 0.72,
       "edges": []
@@ -1409,7 +1409,7 @@
         "fear-as-governance",
         "survival-doctrine"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/sergeant-barnes.md",
+      "sourcePath": "content/forge/persons/passed/sergeant-barnes.md",
       "url": "/forge/persons/sergeant-barnes",
       "heat": 0.72,
       "edges": []
@@ -1433,7 +1433,7 @@
         "anti-nihilism",
         "trauma-and-philosophy"
       ],
-      "sourcePath": "G:/#THE FORGE - SITE/site/forge/content/forge/persons/passed/viktor-frankl.md",
+      "sourcePath": "content/forge/persons/passed/viktor-frankl.md",
       "url": "/forge/persons/viktor-frankl",
       "heat": 0.48,
       "edges": [

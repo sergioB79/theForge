@@ -339,7 +339,10 @@ def main() -> None:
         slug = slugify(f"{title}-{year}" if year else title)
         iid = slug
 
-        source_path = fp.as_posix()
+        try:
+            source_path = fp.relative_to(root).as_posix()
+        except ValueError:
+            source_path = fp.as_posix()
         url = md_to_url(domain, slug)
         heat = level_to_heat(level)
 
