@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T08:54:58+00:00",
-  "count": 44,
+  "generated_at": "2025-12-22T10:03:39+00:00",
+  "count": 76,
   "items": [
     {
       "id": "eat-pray-love",
@@ -188,25 +188,25 @@
     },
     {
       "id": "twilight",
-      "domain": "books",
+      "domain": "movies",
       "title": "Twilight",
       "slug": "twilight",
       "status": "REJECTED",
       "year": null,
       "country": null,
       "creator": null,
-      "category": "paranormal romance",
-      "subtitle": "Velvet Hunger, Unbroken Glass",
+      "category": "supernatural romance",
+      "subtitle": "Glitter on an Empty Chalice",
       "level": "II",
       "tags": [
-        "romantic-mythmaking",
-        "adolescent-longing",
-        "safe-danger",
-        "mood-driven-prose",
-        "power-without-reckoning"
+        "teen-romance",
+        "supernatural-fantasy",
+        "power-as-desire",
+        "cultural-phenomenon",
+        "emotional-engineering"
       ],
-      "sourcePath": "content/forge/books/rejected/twilight.md",
-      "url": "/forge/books/twilight",
+      "sourcePath": "content/forge/movies/rejected/twilight.md",
+      "url": "/forge/movies/twilight",
       "heat": 0.48
     },
     {
@@ -325,6 +325,75 @@
       "heat": 0.48
     },
     {
+      "id": "game-theory",
+      "domain": "ideas",
+      "title": "Game Theory",
+      "slug": "game-theory",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "strategic logic",
+      "subtitle": "Glass Moves on a Human Board",
+      "level": "II",
+      "tags": [
+        "rational-choice",
+        "strategic-interaction",
+        "formal-models",
+        "instrumental-reason",
+        "social-engineering"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/game-theory.md",
+      "url": "/forge/ideas/game-theory",
+      "heat": 0.48
+    },
+    {
+      "id": "goodhart-s-law",
+      "domain": "ideas",
+      "title": "Goodhart’s Law",
+      "slug": "goodhart-s-law",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "metrics & control",
+      "subtitle": "When Measures Devour What They Mirror",
+      "level": "II",
+      "tags": [
+        "systems-failure",
+        "metrics-and-power",
+        "institutional-critique",
+        "optimization-pathologies",
+        "modern-bureaucracy"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/goodhart-s-law.md",
+      "url": "/forge/ideas/goodhart-s-law",
+      "heat": 0.48
+    },
+    {
+      "id": "hanlon-s-razor",
+      "domain": "ideas",
+      "title": "Hanlon’s Razor",
+      "slug": "hanlon-s-razor",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "heuristic",
+      "subtitle": "Excusing the Blade by Blaming the Wind",
+      "level": "II",
+      "tags": [
+        "cognitive-heuristics",
+        "ethical-discernment",
+        "responsibility",
+        "institutional-harm",
+        "comforting-skepticism"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/hanlon-s-razor.md",
+      "url": "/forge/ideas/hanlon-s-razor",
+      "heat": 0.48
+    },
+    {
       "id": "hustle-culture-as-virtue",
       "domain": "ideas",
       "title": "“Hustle Culture” as Virtue",
@@ -394,6 +463,144 @@
       "heat": 0.48
     },
     {
+      "id": "prisoner-s-dilemma",
+      "domain": "ideas",
+      "title": "Prisoner’s Dilemma",
+      "slug": "prisoner-s-dilemma",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "strategic logic",
+      "subtitle": "Choices in a Vacuum, Blood in the World",
+      "level": "II",
+      "tags": [
+        "game-theoretic-models",
+        "rational-choice",
+        "abstraction-limits",
+        "ethics-of-cooperation",
+        "engineered-worldviews"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/prisoner-s-dilemma.md",
+      "url": "/forge/ideas/prisoner-s-dilemma",
+      "heat": 0.48
+    },
+    {
+      "id": "sunk-cost-fallacy-as-trap",
+      "domain": "ideas",
+      "title": "Sunk Cost Fallacy (as trap)",
+      "slug": "sunk-cost-fallacy-as-trap",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "cognitive bias",
+      "subtitle": "Chains Forged from Yesterday’s Fire",
+      "level": "II",
+      "tags": [
+        "cognitive-bias",
+        "decision-theory",
+        "optimization-culture",
+        "abandonment-vs-loyalty",
+        "psychological-traps"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/sunk-cost-fallacy-as-trap.md",
+      "url": "/forge/ideas/sunk-cost-fallacy-as-trap",
+      "heat": 0.48
+    },
+    {
+      "id": "the-overton-window",
+      "domain": "ideas",
+      "title": "The Overton Window",
+      "slug": "the-overton-window",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political cognition",
+      "subtitle": "Frames That Move So We Don’t Have To",
+      "level": "II",
+      "tags": [
+        "political-strategy",
+        "opinion-management",
+        "memetic-tools",
+        "elite-framing",
+        "moral-evasion"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/the-overton-window.md",
+      "url": "/forge/ideas/the-overton-window",
+      "heat": 0.48
+    },
+    {
+      "id": "tragedy-of-the-commons",
+      "domain": "ideas",
+      "title": "Tragedy of the Commons",
+      "slug": "tragedy-of-the-commons",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "collective failure",
+      "subtitle": "When the pasture is simple and the world is not",
+      "level": "II",
+      "tags": [
+        "economic-parables",
+        "governance-and-power",
+        "human-nature-claims",
+        "institutional-design",
+        "scarcity-and-abundance"
+      ],
+      "sourcePath": "content/forge/ideas/rejected/tragedy-of-the-commons.md",
+      "url": "/forge/ideas/tragedy-of-the-commons",
+      "heat": 0.48
+    },
+    {
+      "id": "battlefield-earth",
+      "domain": "movies",
+      "title": "Battlefield Earth",
+      "slug": "battlefield-earth",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "sci-fi action",
+      "subtitle": "Neon Ruins on a Cardboard Planet",
+      "level": "II",
+      "tags": [
+        "camp-sci-fi",
+        "failed-allegory",
+        "spectacle-over-substance",
+        "shallow-symbolism",
+        "corporate-dystopia"
+      ],
+      "sourcePath": "content/forge/movies/rejected/battlefield-earth.md",
+      "url": "/forge/movies/battlefield-earth",
+      "heat": 0.48
+    },
+    {
+      "id": "everything-everywhere-all-at-once",
+      "domain": "movies",
+      "title": "Everything Everywhere All at Once",
+      "slug": "everything-everywhere-all-at-once",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "multiverse dramedy",
+      "subtitle": "Glittering Cosmos, Hollow Center",
+      "level": "II",
+      "tags": [
+        "multiverse-spectacle",
+        "engineered-catharsis",
+        "family-melodrama",
+        "symbolic-overload",
+        "pop-philosophy"
+      ],
+      "sourcePath": "content/forge/movies/rejected/everything-everywhere-all-at-once.md",
+      "url": "/forge/movies/everything-everywhere-all-at-once",
+      "heat": 0.48
+    },
+    {
       "id": "good-time",
       "domain": "movies",
       "title": "Good Time",
@@ -414,6 +621,29 @@
       ],
       "sourcePath": "content/forge/movies/rejected/good-time.md",
       "url": "/forge/movies/good-time",
+      "heat": 0.48
+    },
+    {
+      "id": "jack-and-jill",
+      "domain": "movies",
+      "title": "Jack and Jill",
+      "slug": "jack-and-jill",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "studio comedy",
+      "subtitle": "Laughter Without Ashes",
+      "level": "II",
+      "tags": [
+        "studio-comedy",
+        "spectacle-over-substance",
+        "emotional-manipulation",
+        "symbolic-vacuum",
+        "celebrity-vehicle"
+      ],
+      "sourcePath": "content/forge/movies/rejected/jack-and-jill.md",
+      "url": "/forge/movies/jack-and-jill",
       "heat": 0.48
     },
     {
@@ -463,6 +693,29 @@
       "heat": 0.48
     },
     {
+      "id": "sex-and-the-city-2",
+      "domain": "movies",
+      "title": "Sex and the City 2",
+      "slug": "sex-and-the-city-2",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "romantic comedy",
+      "subtitle": "Glitter Over the Empty Hearth",
+      "level": "II",
+      "tags": [
+        "consumer-fantasy",
+        "romantic-escapism",
+        "stalled-character-growth",
+        "soft-ethics",
+        "style-over-structure"
+      ],
+      "sourcePath": "content/forge/movies/rejected/sex-and-the-city-2.md",
+      "url": "/forge/movies/sex-and-the-city-2",
+      "heat": 0.48
+    },
+    {
       "id": "the-emoji-movie",
       "domain": "movies",
       "title": "The Emoji Movie",
@@ -486,6 +739,52 @@
       "heat": 0.48
     },
     {
+      "id": "the-fast-and-the-furious",
+      "domain": "movies",
+      "title": "The Fast and the Furious",
+      "slug": "the-fast-and-the-furious",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "action-crime",
+      "subtitle": "Burnt Rubber, Hollow Oaths",
+      "level": "II",
+      "tags": [
+        "action-spectacle",
+        "surface-loyalty",
+        "car-culture-myth",
+        "engineered-thrills",
+        "genre-comfort"
+      ],
+      "sourcePath": "content/forge/movies/rejected/the-fast-and-the-furious.md",
+      "url": "/forge/movies/the-fast-and-the-furious",
+      "heat": 0.48
+    },
+    {
+      "id": "the-hangover-part-ii",
+      "domain": "movies",
+      "title": "The Hangover Part II",
+      "slug": "the-hangover-part-ii",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "studio comedy",
+      "subtitle": "Repetition Without Reckoning",
+      "level": "II",
+      "tags": [
+        "studio-comedy",
+        "repetition-without-growth",
+        "consequence-as-punchline",
+        "formula-driven-structure",
+        "post-2000s-bro-cinema"
+      ],
+      "sourcePath": "content/forge/movies/rejected/the-hangover-part-ii.md",
+      "url": "/forge/movies/the-hangover-part-ii",
+      "heat": 0.48
+    },
+    {
       "id": "transformers-revenge-of-the-fallen",
       "domain": "movies",
       "title": "Transformers: Revenge of the Fallen",
@@ -506,6 +805,29 @@
       ],
       "sourcePath": "content/forge/movies/rejected/transformers-revenge-of-the-fallen.md",
       "url": "/forge/movies/transformers-revenge-of-the-fallen",
+      "heat": 0.48
+    },
+    {
+      "id": "ai-will-save-us-narratives",
+      "domain": "others",
+      "title": "“AI will save us” narratives",
+      "slug": "ai-will-save-us-narratives",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "techno-salvation myths",
+      "subtitle": "Silver Algorithms over a Rusted World",
+      "level": "II",
+      "tags": [
+        "techno-utopianism",
+        "displaced-agency",
+        "secular-salvation",
+        "accountability-erosion",
+        "narrative-failure"
+      ],
+      "sourcePath": "content/forge/others/rejected/ai-will-save-us-narratives.md",
+      "url": "/forge/others/ai-will-save-us-narratives",
       "heat": 0.48
     },
     {
@@ -624,6 +946,52 @@
       "heat": 0.48
     },
     {
+      "id": "corporate-buzzword-rebrands",
+      "domain": "others",
+      "title": "Corporate Buzzword Rebrands",
+      "slug": "corporate-buzzword-rebrands",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "linguistic theater",
+      "subtitle": "Tongues of Smoke Where Fire Should Be",
+      "level": "II",
+      "tags": [
+        "corporate-language",
+        "symbolic-erosion",
+        "soft-control",
+        "failed-ritual",
+        "institutional-theater"
+      ],
+      "sourcePath": "content/forge/others/rejected/corporate-buzzword-rebrands.md",
+      "url": "/forge/others/corporate-buzzword-rebrands",
+      "heat": 0.48
+    },
+    {
+      "id": "corporate-values-statements",
+      "domain": "others",
+      "title": "Corporate values statements",
+      "slug": "corporate-values-statements",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "institutional rites",
+      "subtitle": "Words Without Weather",
+      "level": "II",
+      "tags": [
+        "corporate-rituals",
+        "symbolic-disconnect",
+        "ethics-as-brand",
+        "institutional-language",
+        "managed-perception"
+      ],
+      "sourcePath": "content/forge/others/rejected/corporate-values-statements.md",
+      "url": "/forge/others/corporate-values-statements",
+      "heat": 0.48
+    },
+    {
       "id": "crypto-hype-cycles",
       "domain": "others",
       "title": "Crypto hype cycles",
@@ -647,6 +1015,29 @@
       "heat": 0.48
     },
     {
+      "id": "gamified-habit-trackers",
+      "domain": "others",
+      "title": "Gamified habit trackers",
+      "slug": "gamified-habit-trackers",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "behavioral tools",
+      "subtitle": "Bright Badges, Hollow Consequence",
+      "level": "II",
+      "tags": [
+        "behavioral-design",
+        "quantified-self",
+        "simulated-discipline",
+        "digital-rituals",
+        "interface-morality"
+      ],
+      "sourcePath": "content/forge/others/rejected/gamified-habit-trackers.md",
+      "url": "/forge/others/gamified-habit-trackers",
+      "heat": 0.48
+    },
+    {
       "id": "influencer-courses",
       "domain": "others",
       "title": "Influencer courses",
@@ -667,6 +1058,98 @@
       ],
       "sourcePath": "content/forge/others/rejected/influencer-courses-generic-funnels.md",
       "url": "/forge/others/influencer-courses",
+      "heat": 0.48
+    },
+    {
+      "id": "influencer-giveaway-loops",
+      "domain": "others",
+      "title": "Influencer Giveaway Loops",
+      "slug": "influencer-giveaway-loops",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "social mechanics",
+      "subtitle": "Bright Circles, Hollow Centers",
+      "level": "II",
+      "tags": [
+        "attention-economy",
+        "transactional-rituals",
+        "hollow-generosity",
+        "social-gamification",
+        "asymmetrical-consequence"
+      ],
+      "sourcePath": "content/forge/others/rejected/influencer-giveaway-loops.md",
+      "url": "/forge/others/influencer-giveaway-loops",
+      "heat": 0.48
+    },
+    {
+      "id": "legal-boilerplate-language",
+      "domain": "others",
+      "title": "Legal boilerplate language",
+      "slug": "legal-boilerplate-language",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "institutional speech",
+      "subtitle": "Parchment Shields Against Real Fire",
+      "level": "II",
+      "tags": [
+        "institutional-language",
+        "liability-architecture",
+        "invisible-power",
+        "non-rites",
+        "legal-infrastructure"
+      ],
+      "sourcePath": "content/forge/others/rejected/legal-boilerplate-language.md",
+      "url": "/forge/others/legal-boilerplate-language",
+      "heat": 0.48
+    },
+    {
+      "id": "limited-time-only-dark-patterns",
+      "domain": "others",
+      "title": "“Limited Time Only” Dark Patterns",
+      "slug": "limited-time-only-dark-patterns",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "manipulative design",
+      "subtitle": "The Clock That Lies",
+      "level": "II",
+      "tags": [
+        "dark-patterns",
+        "artificial-scarcity",
+        "behavioral-manipulation",
+        "failed-ritual",
+        "distrust-economy"
+      ],
+      "sourcePath": "content/forge/others/rejected/limited-time-only-dark-patterns.md",
+      "url": "/forge/others/limited-time-only-dark-patterns",
+      "heat": 0.48
+    },
+    {
+      "id": "loot-boxes",
+      "domain": "others",
+      "title": "Loot Boxes",
+      "slug": "loot-boxes",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "gamified inducements",
+      "subtitle": "Bright Doors, Empty Thresholds",
+      "level": "II",
+      "tags": [
+        "behavioral-extraction",
+        "anti-ritual",
+        "gamified-gambling",
+        "symbolic-hollowing",
+        "consumer-psychology"
+      ],
+      "sourcePath": "content/forge/others/rejected/loot-boxes.md",
+      "url": "/forge/others/loot-boxes",
       "heat": 0.48
     },
     {
@@ -762,6 +1245,29 @@
       "heat": 0.48
     },
     {
+      "id": "outrage-algorithm-feeds",
+      "domain": "others",
+      "title": "Outrage-Algorithm Feeds",
+      "slug": "outrage-algorithm-feeds",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "behavioral systems",
+      "subtitle": "Heat Without Hearth",
+      "level": "II",
+      "tags": [
+        "attention-extraction",
+        "simulated-ritual",
+        "asymmetrical-consequence",
+        "disembodied-anger",
+        "behavioral-infrastructure"
+      ],
+      "sourcePath": "content/forge/others/rejected/outrage-algorithm-feeds.md",
+      "url": "/forge/others/outrage-algorithm-feeds",
+      "heat": 0.48
+    },
+    {
       "id": "performance-reviews",
       "domain": "others",
       "title": "Performance reviews",
@@ -782,6 +1288,29 @@
       ],
       "sourcePath": "content/forge/others/rejected/performance-reviews.md",
       "url": "/forge/others/performance-reviews",
+      "heat": 0.48
+    },
+    {
+      "id": "performative-dei-workshops",
+      "domain": "others",
+      "title": "Performative DEI workshops",
+      "slug": "performative-dei-workshops",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "hollow ritual",
+      "subtitle": "Empty Chants Before an Unmoved Door",
+      "level": "II",
+      "tags": [
+        "corporate-ritual",
+        "simulated-accountability",
+        "ethics-in-name-only",
+        "institutional-theater",
+        "risk-averse-structures"
+      ],
+      "sourcePath": "content/forge/others/rejected/performative-dei-workshops.md",
+      "url": "/forge/others/performative-dei-workshops",
       "heat": 0.48
     },
     {
@@ -808,6 +1337,97 @@
       "heat": 0.48
     },
     {
+      "id": "productivity-dashboards-without-agency",
+      "domain": "others",
+      "title": "Productivity dashboards without agency",
+      "slug": "productivity-dashboards-without-agency",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "hollow discipline",
+      "subtitle": "Mirrors That Refuse to Reflect You",
+      "level": "II",
+      "tags": [
+        "metric-obsession",
+        "simulated-ritual",
+        "hollow-discipline",
+        "surveillance-aesthetics",
+        "agency-erasure"
+      ],
+      "sourcePath": "content/forge/others/rejected/productivity-dashboards-without-agency.md",
+      "url": "/forge/others/productivity-dashboards-without-agency",
+      "heat": 0.48
+    },
+    {
+      "id": "pseudo-stoicism-content",
+      "domain": "others",
+      "title": "Pseudo-stoicism content",
+      "slug": "pseudo-stoicism-content",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "hollow practice",
+      "subtitle": "Polished Armor, Empty Stance",
+      "level": "II",
+      "tags": [
+        "hollow-discipline",
+        "algorithmic-masculinity",
+        "performative-detachment",
+        "de-fanged-philosophy"
+      ],
+      "sourcePath": "content/forge/others/rejected/pseudo-stoicism-content.md",
+      "url": "/forge/others/pseudo-stoicism-content",
+      "heat": 0.48
+    },
+    {
+      "id": "rating-systems",
+      "domain": "others",
+      "title": "Rating systems",
+      "slug": "rating-systems",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "behavioral-metrics",
+      "subtitle": "Scales Without Weight",
+      "level": "II",
+      "tags": [
+        "quantification-of-value",
+        "algorithmic-governance",
+        "asymmetrical-judgment",
+        "symbolic-thinning",
+        "platform-mediated-trust"
+      ],
+      "sourcePath": "content/forge/others/rejected/rating-systems.md",
+      "url": "/forge/others/rating-systems",
+      "heat": 0.48
+    },
+    {
+      "id": "spiritual-coaching-funnels",
+      "domain": "others",
+      "title": "Spiritual coaching funnels",
+      "slug": "spiritual-coaching-funnels",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "commodified praxis",
+      "subtitle": "Algorithms of Awakening Sold by the Lead",
+      "level": "II",
+      "tags": [
+        "monetized-spirituality",
+        "simulated-initiation",
+        "asymmetric-risk",
+        "commodified-trust",
+        "behavior-design"
+      ],
+      "sourcePath": "content/forge/others/rejected/spiritual-coaching-funnels.md",
+      "url": "/forge/others/spiritual-coaching-funnels",
+      "heat": 0.48
+    },
+    {
       "id": "thought-leader-quote-accounts",
       "domain": "others",
       "title": "Thought-leader quote accounts",
@@ -828,6 +1448,75 @@
       ],
       "sourcePath": "content/forge/others/rejected/thought-leader-quote-accounts.md",
       "url": "/forge/others/thought-leader-quote-accounts",
+      "heat": 0.48
+    },
+    {
+      "id": "vision-boards",
+      "domain": "others",
+      "title": "Vision boards",
+      "slug": "vision-boards",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "aspirational tools",
+      "subtitle": "Paper Altars to Unrisked Futures",
+      "level": "II",
+      "tags": [
+        "aspirational-imagery",
+        "low-consequence-practice",
+        "self-soothing-ritual",
+        "consumer-spirituality",
+        "decorative-discipline"
+      ],
+      "sourcePath": "content/forge/others/rejected/vision-boards.md",
+      "url": "/forge/others/vision-boards",
+      "heat": 0.48
+    },
+    {
+      "id": "wikipedia",
+      "domain": "others",
+      "title": "Wikipedia",
+      "slug": "wikipedia",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "open knowledge",
+      "subtitle": "The Library That Erases Its Own Footprints",
+      "level": "II",
+      "tags": [
+        "collaborative-knowledge",
+        "digital-infrastructure",
+        "diffuse-accountability",
+        "soft-discipline",
+        "information-commons"
+      ],
+      "sourcePath": "content/forge/others/rejected/wikipedia.md",
+      "url": "/forge/others/wikipedia",
+      "heat": 0.48
+    },
+    {
+      "id": "adam-smith",
+      "domain": "persons",
+      "title": "Adam Smith",
+      "slug": "adam-smith",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political economist",
+      "subtitle": "Architect of an invisible order that still pretends it has no blood on its hands",
+      "level": "II",
+      "tags": [
+        "classical-economics",
+        "market-mythology",
+        "moral-psychology",
+        "ideological-icon",
+        "invisible-hand"
+      ],
+      "sourcePath": "content/forge/persons/rejected/adam-smith.md",
+      "url": "/forge/persons/adam-smith",
       "heat": 0.48
     },
     {
@@ -969,6 +1658,29 @@
       "heat": 0.48
     },
     {
+      "id": "logan-paul",
+      "domain": "persons",
+      "title": "Logan Paul",
+      "slug": "logan-paul",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "spectacle entrepreneur",
+      "subtitle": "A mirror ball chasing its own reflection through louder and louder rooms",
+      "level": "II",
+      "tags": [
+        "influencer-capitalism",
+        "spectacle-and-penance",
+        "algorithmic-morality",
+        "brand-managed-contrition",
+        "noise-without-core"
+      ],
+      "sourcePath": "content/forge/persons/rejected/logan-paul.md",
+      "url": "/forge/persons/logan-paul",
+      "heat": 0.48
+    },
+    {
       "id": "nelson-mandela",
       "domain": "persons",
       "title": "Nelson Mandela",
@@ -989,6 +1701,29 @@
       ],
       "sourcePath": "content/forge/persons/rejected/nelson-mandela.md",
       "url": "/forge/persons/nelson-mandela",
+      "heat": 0.48
+    },
+    {
+      "id": "raymond-aron",
+      "domain": "persons",
+      "title": "Raymond Aron",
+      "slug": "raymond-aron",
+      "status": "REJECTED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "political thinker",
+      "subtitle": "The cautious sentinel who kept watch while the fire passed him by",
+      "level": "II",
+      "tags": [
+        "cold-war-intellect",
+        "anti-totalitarian-liberalism",
+        "measured-judgment",
+        "institutional-critic",
+        "symbolic-insufficiency"
+      ],
+      "sourcePath": "content/forge/persons/rejected/raymond-aron.md",
+      "url": "/forge/persons/raymond-aron",
       "heat": 0.48
     },
     {

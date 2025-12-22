@@ -1,33 +1,45 @@
 {
-  "generated_at": "2025-12-22T08:54:58+00:00",
+  "generated_at": "2025-12-22T10:03:39+00:00",
   "totals": {
-    "all": 106,
-    "passed": 62,
-    "rejected": 44
+    "all": 199,
+    "passed": 123,
+    "rejected": 76
   },
   "by_domain": {
-    "books": 21,
-    "ideas": 17,
-    "movies": 23,
-    "others": 21,
-    "persons": 24
+    "books": 30,
+    "movies": 53,
+    "ideas": 27,
+    "others": 45,
+    "persons": 44
   },
   "by_status": {
-    "PASSED": 62,
-    "REJECTED": 44
+    "PASSED": 123,
+    "REJECTED": 76
   },
   "by_level": {
-    "III": 33,
-    "II": 73
+    "II": 129,
+    "III": 70
   },
   "top_categories": [
+    [
+      "psychological thriller",
+      5
+    ],
+    [
+      "political theorist",
+      5
+    ],
     [
       "self-help",
       4
     ],
     [
-      "psychological thriller",
-      4
+      "political philosophy",
+      3
+    ],
+    [
+      "dystopian fiction",
+      2
     ],
     [
       "philosophy",
@@ -38,8 +50,32 @@
       2
     ],
     [
+      "strategic logic",
+      2
+    ],
+    [
+      "political drama",
+      2
+    ],
+    [
+      "psychological drama",
+      2
+    ],
+    [
+      "existential thriller",
+      2
+    ],
+    [
       "existential drama",
       2
+    ],
+    [
+      "studio comedy",
+      2
+    ],
+    [
+      "political-economy",
+      1
     ],
     [
       "psychology-memoir",
@@ -62,7 +98,15 @@
       1
     ],
     [
+      "political-philosophical history",
+      1
+    ],
+    [
       "sociological theory",
+      1
+    ],
+    [
+      "political treatise",
       1
     ],
     [
@@ -70,78 +114,78 @@
       1
     ],
     [
-      "memoir",
+      "philosophy-of-science",
       1
     ],
     [
-      "erotic romance",
-      1
-    ],
-    [
-      "personal finance",
-      1
-    ],
-    [
-      "commercial thriller",
-      1
-    ],
-    [
-      "paranormal romance",
-      1
-    ],
-    [
-      "self-help fable",
-      1
-    ],
-    [
-      "resilience design",
-      1
-    ],
-    [
-      "governance design",
-      1
-    ],
-    [
-      "political ethics",
-      1
-    ],
-    [
-      "cultural-psychology",
-      1
-    ],
-    [
-      "mortality-practice",
-      1
-    ],
-    [
-      "moral critique",
-      1
-    ],
-    [
-      "media-power",
+      "political economy",
       1
     ]
   ],
   "top_tags": [
     [
       "attention-economy",
-      9
+      10
     ],
     [
       "ethical-architecture",
+      5
+    ],
+    [
+      "visible-failure",
+      5
+    ],
+    [
+      "ethical-ambiguity",
       4
+    ],
+    [
+      "structural-violence",
+      3
+    ],
+    [
+      "ethics-under-pressure",
+      3
+    ],
+    [
+      "systems-thinking",
+      3
+    ],
+    [
+      "political-realism",
+      3
+    ],
+    [
+      "epistemic-discipline",
+      3
+    ],
+    [
+      "moral-responsibility",
+      3
     ],
     [
       "social-proof",
       3
     ],
     [
-      "visible-failure",
+      "faith-and-doubt",
+      3
+    ],
+    [
+      "simulated-ritual",
       3
     ],
     [
       "consequence-avoidance",
       3
+    ],
+    [
+      "political-economy",
+      2
+    ],
+    [
+      "political-anatomy",
+      2
     ],
     [
       "inner-freedom",
@@ -156,7 +200,23 @@
       2
     ],
     [
-      "ethical-ambiguity",
+      "institutional-design",
+      2
+    ],
+    [
+      "moral-architecture",
+      2
+    ],
+    [
+      "power-and-law",
+      2
+    ],
+    [
+      "optimization-culture",
+      2
+    ],
+    [
+      "asymmetric-risk",
       2
     ],
     [
@@ -164,7 +224,31 @@
       2
     ],
     [
+      "rational-choice",
+      2
+    ],
+    [
+      "institutional-critique",
+      2
+    ],
+    [
       "identity-as-commodity",
+      2
+    ],
+    [
+      "ethical-sacrifice",
+      2
+    ],
+    [
+      "ritualized-violence",
+      2
+    ],
+    [
+      "failed-savior",
+      2
+    ],
+    [
+      "ethics-of-desire",
       2
     ],
     [
@@ -172,156 +256,72 @@
       2
     ],
     [
+      "moral-erosion",
+      2
+    ],
+    [
+      "ethical-horror",
+      2
+    ],
+    [
+      "masculine-fragility",
+      2
+    ],
+    [
+      "spectacle-over-substance",
+      2
+    ],
+    [
+      "studio-comedy",
+      2
+    ],
+    [
+      "style-over-structure",
+      2
+    ],
+    [
+      "public-shaming",
+      2
+    ],
+    [
       "visible-failure-modes",
       2
     ],
     [
-      "disciplinary-power",
-      1
+      "systemic-complicity",
+      2
     ],
     [
-      "panopticism",
-      1
+      "ethics-of-power",
+      2
     ],
     [
-      "institutional-violence",
-      1
+      "attention-extraction",
+      2
     ],
     [
-      "normalization",
-      1
+      "failed-ritual",
+      2
     ],
     [
-      "genealogical-method",
-      1
+      "institutional-theater",
+      2
     ],
     [
-      "existential-responsibility",
-      1
+      "institutional-language",
+      2
     ],
     [
-      "suffering-without-romance",
-      1
+      "simulated-discipline",
+      2
     ],
     [
-      "witness-and-framework",
-      1
+      "asymmetrical-consequence",
+      2
     ],
     [
-      "stoic-discipline",
-      1
-    ],
-    [
-      "inner-sovereignty",
-      1
-    ],
-    [
-      "ethical-self-command",
-      1
-    ],
-    [
-      "impermanence-as-structure",
-      1
-    ],
-    [
-      "duty-over-desire",
-      1
-    ],
-    [
-      "strategic-ethics",
-      1
-    ],
-    [
-      "psychological-warfare",
-      1
-    ],
-    [
-      "systems-thinking",
-      1
-    ],
-    [
-      "disciplined-restraint",
-      1
-    ],
-    [
-      "deception-and-cost",
-      1
-    ],
-    [
-      "moral-testimony",
-      1
-    ],
-    [
-      "coercion-and-complicity",
-      1
-    ],
-    [
-      "witness-literature",
-      1
-    ],
-    [
-      "anti-euphemism",
-      1
-    ],
-    [
-      "elite-theory",
-      1
-    ],
-    [
-      "political-realism",
-      1
-    ],
-    [
-      "power-analysis",
-      1
-    ],
-    [
-      "democratic-myths",
-      1
-    ],
-    [
-      "institutional-mechanics",
-      1
-    ],
-    [
-      "managerialism",
-      1
-    ],
-    [
-      "political-architecture",
-      1
-    ],
-    [
-      "bureaucratic-power",
-      1
-    ],
-    [
-      "legitimacy-and-control",
-      1
-    ],
-    [
-      "absurdism",
-      1
-    ],
-    [
-      "ethical-lucidity",
-      1
-    ],
-    [
-      "anti-consolation",
-      1
-    ],
-    [
-      "philosophical-rebellion",
-      1
-    ],
-    [
-      "meaning-without-myth",
-      1
-    ],
-    [
-      "social-performance",
-      1
+      "hollow-discipline",
+      2
     ]
   ]
 }
