@@ -172,6 +172,20 @@ a {
   color: var(--forge-text);
 }
 
+.forge-prose .dossier-back {
+  display: inline-block;
+  margin-top: 6px;
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--forge-amber);
+}
+
+.forge-prose .dossier-back:hover {
+  color: var(--forge-text);
+}
+
 .forge-prose .dossier-footer {
   margin-top: 28px;
   color: var(--forge-text-muted);
