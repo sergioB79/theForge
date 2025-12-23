@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A field-made father who teaches boys to survive by becoming what kills them
 
+
+INFO:
+A battlefield patriarch who raises boys into weapons, then resents what they become.
+Treats conscience like excess kit to be ditched when the march gets difficult.
+Turns protection into possession, teaching that survival justifies every order and omission.
+His squad becomes a closed system where fear is currency and obedience the only shelter.
+
 You don’t enter the Forge because you’re feared or followed. You enter because your decisions harden into a permanent weather system around other people. Barnes survives fire because he treats morality as a luxury item—then watches the receipt come due.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

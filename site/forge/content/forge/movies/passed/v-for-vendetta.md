@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Masks, Memory, and the Cost of Clean Fire
 
+
+INFO:
+A dystopian thriller that uses spectacle to interrogate fear, obedience, and state power.
+Focuses on how safety becomes currency and how language is twisted to mask cruelty.
+Explores anonymity as both liberation and abdication through the enduring image of the mask.
+Highlights the quiet mechanics of complicity, showing tyranny built from ordinary, frightened choices.
+
 It belongs here—not because it is flawless, but because it attempts to turn spectacle into a moral instrument. Strip away the music, the choreography, the iconography: the remaining structure is still a question with teeth—what does a society owe the frightened, and what do the frightened become when they outsource conscience to authority?
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

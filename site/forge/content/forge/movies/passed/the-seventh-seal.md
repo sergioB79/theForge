@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Chess With the Void, Prayer Without Guarantee
 
+
+INFO:
+An unhurried meditation on faith where silence from above becomes the loudest character onscreen.
+Uses a simple game and a wandering journey to anatomize doubt, courage, and self-deception.
+Transforms apocalypse into an interior audit, measuring who people become when certainty evaporates.
+Endures because its questions outlive fashion, technology, and any single theological or philosophical frame.
+
 It belongs because it does not ask for admiration; it asks for reckoning. Strip away the period texture, the performances, the iconic images—what remains is a clean skeleton of inquiry: how a human being behaves when the universe refuses to answer, and how morality changes when certainty is no longer available.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

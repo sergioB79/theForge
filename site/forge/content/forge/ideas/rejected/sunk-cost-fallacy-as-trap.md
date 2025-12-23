@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Chains Forged from Yesterday’s Fire
 
+
+INFO:
+Explores our tendency to keep feeding yesterday’s fires, mistaking sunk effort for destiny.
+Shows how the bias is real yet too managerial and thin for world-building work.
+Critiques its focus on resource misallocation while ignoring loyalty, narrative, and identity structures.
+Warns that overuse can legitimize cold abandonment, shaming entangled people as merely irrational.
+
 This idea stands just outside the gates: sharp, useful, widely invoked—but too clean, too managerial to bear the full weight of the Forge. It names a real trap, but it lives mostly as a warning label, not as a world-builder.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

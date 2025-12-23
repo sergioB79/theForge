@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Silence as a Weapon
 
+
+INFO:
+A terse, system-level view of conflict that treats war as catastrophic, not heroic.
+Uses compressed maxims that behave like constraints, forcing readers to infer logic and cost.
+Characters become roles under pressure, exposing how judgment reshapes states, armies, and civilians.
+Leaves a lingering obligation: to question any plan that treats human damage as abstract.
+
 The text does not ask to be admired. It asks to be used—then questioned—because what it offers is not comfort but a disciplined lens on conflict, cost, and control.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

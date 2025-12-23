@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The man who carved a hole in certainty and stepped into it himself.
 
+
+INFO:
+Portrait of a man who weaponizes questions until both he and his city break.
+Tracks the collision of private conscience with public order, curiosity with murderous impatience.
+Shows how sincere inquiry hardens into provocation, and integrity mutates into perceived aggression.
+The irreversible cost is not just his death, but a city maimed by its own verdict.
+
 He stands not as a marble bust but as an exposed nerve: a life organized around a question that eventually devoured its bearer. To look at him is not to study a “founder of philosophy,” but to confront what happens when interrogation becomes a vocation and the city decides it has heard enough.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

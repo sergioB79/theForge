@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Street-watcher who turned ordinary sidewalks into a public argument
 
+
+INFO:
+Profile of the sidewalk theorist who rewired urban debate by privileging eyes over diagrams.
+Traces how her neighborhood attention became political leverage against top-down certainty and grand plans.
+Examines the costs of her anti-blueprint stance, including limits, misreadings, and unintended weaponization.
+Shows how her distrust of the view from above permanently altered governance, planning, and urban innocence.
+
 She enters here without pedestal. Not as a mascot for “community,” but as a mind that refused the clean diagram and paid for that refusal in friction, exile, and a lifetime of being used as a slogan by people who did not read her.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

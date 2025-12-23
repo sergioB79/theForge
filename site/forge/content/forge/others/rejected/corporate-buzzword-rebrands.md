@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Tongues of Smoke Where Fire Should Be
 
+
+INFO:
+Explores how corporate jargon updates erode shared meaning without constituting a true rite.
+Examines language changes that redirect attention while leaving underlying power structures largely untouched.
+Argues these shifts lack thresholds of commitment, enabling performative assent instead of genuine transformation.
+Suggests their primary function is obscuring responsibility, not marking real organizational passage or change.
+
 This subject stands near the Forge but does not enter. Corporate buzzword rebrands are not trivial in their effects—people lose clarity, projects tilt sideways, and meaning erodes—but the structure itself is evasive, designed to avoid true exposure. We acknowledge the small frictions and confusions it creates, yet those are side-effects, not the core of a rite.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Architect of an invisible order that still pretends it has no blood on its hands
 
+
+INFO:
+Revered as a founding voice of capitalism, his legacy hides unsettling moral dissonance.
+We confront not the man, but a sanitized emblem of market righteousness.
+The soothing myth of an invisible hand veils the violence of structured inequality.
+His split between sympathy and self-interest rarely appears as lived, consequential fracture.
+
 Adam Smith is spoken of in reverent tones, his name used as a shorthand charm for markets, freedom, and rational exchange. Here we do not dispute that he changed the world; we ask whether his figure, as commonly held, can survive the conditions of the Forge. What stands before us is not a wounded traveler but a polished statue—smoothed by textbook summaries, caricatured by admirers and critics alike, too convenient to be truly dangerous.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Priest who unbuilt the institutions that promised to save him
 
+
+INFO:
+Profile of a radical priest turned social critic who distrusted institutionalized care and progress.
+Explores how help becomes harmful once systems must grow to justify their existence.
+Uses Illich as a sharp instrument to question professionalism, managed virtue, and compulsory dependency.
+Traces the irreversible loss of innocence after seeing institutions produce opposite of their promises.
+
 He enters without applause and without contempt: not to be liked, not to be copied, but to be handled like a sharp tool whose edge never stops asking who is bleeding and who is calling it care.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

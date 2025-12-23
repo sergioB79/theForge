@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Alchemy Without Ashes
 
+
+INFO:
+A landmark of motivational literature, packaging desire, belief, and persistence as quasi-mystical success engines.
+Its persuasive structure depends on circular testimonials, rewarding unquestioning faith rather than rigorous examination or doubt.
+Ethically, it instrumentalizes hardship, minimizing structural constraints and systemic injustice in favor of individual will.
+The resulting worldview is rhetorically powerful yet philosophically thin, insufficient for the Forge's interrogative demands.
+
 This is a foundational artifact of motivational culture, powerful in reach and persistence, but its inner machinery is tuned for aspiration, not combustion. It instructs, it galvanizes, it sells a worldview; it does not willingly enter the kind of moral and psychological pressure the Forge requires.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

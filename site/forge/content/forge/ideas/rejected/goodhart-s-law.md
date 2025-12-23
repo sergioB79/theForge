@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: When Measures Devour What They Mirror
 
+
+INFO:
+Examines how optimization against proxies corrodes systems, from bureaucracies to algorithms and institutions.
+Treats the law as a sharp diagnostic instrument, not a foundation for living or building.
+Argues its power is parasitic on deeper goals, supplying critique but no constructive architecture.
+Warns that overreliance breeds moral thinness and fashionable cynicism masquerading as sophisticated realism.
+
 This is a precise and dangerous tool, but not a pillar. It belongs with instruments, not foundations. We treat it with respect, and then we put it back in the toolbox.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

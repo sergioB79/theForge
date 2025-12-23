@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Velvet Hunger, Unbroken Glass
 
+
+INFO:
+Paranormal romance juggernaut that crystallizes teenage longing into glossy, consumable myth.
+Excels at sustained mood and emotional clarity, keeping readers warmly tethered to its world.
+Ultimately privileges reassurance over risk, leaving its darkness untransformed and largely unexamined.
+Best suited for the Archive, under Beautiful Comforts, rather than the Forge proper.
+
 This book is widely read for a reason: it offers a controlled ache, a safe darkness, and a simple emotional thermostat. But the Forge is not a hall for cultural weather; it is a kiln for works whose language and structure change the reader’s internal geometry.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

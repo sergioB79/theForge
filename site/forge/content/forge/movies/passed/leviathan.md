@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Power, Emptiness, and the Slow Drowning of a Soul
 
+
+INFO:
+A severe, sea-battered drama where institutions close in on one exhausted man.
+Shows how power borrows religious language while hollowing out both faith and justice from within.
+Traces the psyche sliding from defiance to numb acquiescence as law yields to myth.
+Endures as a stark diagram of ordinary complicity inside sanctified, self-perpetuating corruption.
+
 This film steps into the Forge not as spectacle but as an x-ray of a society and a man crushed under structures too large to name. Its frame is austere, its pace tidal, but beneath the grey sea and bureaucratic rituals is a lucid anatomy of power, faith, and human unmaking that does not depend on fashion, performance, or shock to endure.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

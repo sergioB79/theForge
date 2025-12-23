@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Inner Weather, Outer Stone
 
+
+INFO:
+Stoicism here is treated as a discipline of agency, not an aesthetic pose.
+The piece tracks how attention, judgment, and choice quietly manufacture your character every ordinary day.
+It explains tools like control dichotomies and assent discipline as practical mental infrastructure, not slogans.
+Readers get a demanding but portable ethic for staying inwardly responsive while remaining outwardly reliable.
+
 Stoicism is not a pose or a vocabulary. It is a working arrangement with reality: what you owe to the world, what the world owes to you, and what neither side can negotiate.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

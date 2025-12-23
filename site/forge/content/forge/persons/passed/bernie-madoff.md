@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Market-maker who turned trust into a silent furnace
 
+
+INFO:
+A soft-spoken broker who built a furnace from deference, credentials, and unasked questions.
+His genius was not returns, but engineering a trust loop that audited itself into silence.
+Investors, regulators, and peers coauthored the damage by choosing comfort over confrontation for decades.
+He reminds us that systemic fraud is less a glitch than a rewarded operating mode.
+
 There is no need to enlarge him into myth. The Forge admits him because he demonstrates how ordinary credibility can be weaponized, how soft-spoken competence can become an extraction tool, and how entire rooms can choose comfort over verification until consequence arrives without a door to escape through.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

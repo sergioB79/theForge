@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Private Spine of Public Life
 
+
+INFO:
+Explores the hidden habits that keep a shared civic world from quietly collapsing.
+Treats virtue as an ongoing negotiation between appetite, restraint, and the common good.
+Asks what integrity looks like when no one is watching and rewards run the other way.
+Offers a vocabulary for people who carry public obligations without ceremony or applause.
+
 Civic virtue is not a slogan for good citizens. It is the quiet load-bearing structure beneath any shared world, felt most clearly when it is absent and nothing holds.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

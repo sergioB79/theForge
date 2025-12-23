@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Bright Doors, Empty Thresholds
 
+
+INFO:
+Examines loot boxes as compelling yet hollow engines of monetized chance and compulsion.
+Argues their ritual-like suspense mimics meaningful risk while evacuating shared stakes and presence.
+Shows how revenue-optimized loops replace arcs of growth, community, and accountable consequence.
+Concludes that despite psychological power, their structure cannot sustain genuinely meaning-bearing experiences.
+
 Loot boxes arrive dressed in ritual clothing—anticipation, reveal, reward—but beneath the velvet curtain there is mostly circuitry and extraction. This is a sober refusal: not because they lack power, but because that power is pointed away from presence, away from shared stakes, and into the quiet, private compulsion of monetized chance.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

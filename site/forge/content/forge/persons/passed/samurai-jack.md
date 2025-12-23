@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A lone blade walking the distance between duty and erasure
 
+
+INFO:
+A swordsman stranded outside his rightful era, surviving inside an endlessly deferred conclusion.
+Every victory threatens his existence, demanding he unmake relationships, cultures, and fragile futures.
+We study his persistence as both sacred vow and malfunctioning program looping past human limits.
+Your task is to judge whether his unfinished life is redemption, self-erasure, or shared collateral.
+
 In this file we do not honor the warrior; we observe the experiment: what remains of a human pattern when time, home, and ordinary endings are all stripped away. Samurai Jack is not here as nostalgia, style, or heroism. He stands as an ongoing equation—duty against despair, mercy against futility—run again and again until the numbers cut into the page. You are not asked to like him. You are asked to decide whether a life spent almost entirely in the middle of an unfinished act is a form of courage, or a failure that glows.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

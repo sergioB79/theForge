@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Predator That Learns to Feel
 
+
+INFO:
+Existential sci fi that swaps invasion spectacle for a slow, disturbing moral awakening.
+Uses an alien perspective to dissect bodies, gendered danger, and the meaning of empathy.
+Narrative strips away exposition so every gesture feels like a philosophical experiment in meat.
+Ideal for Forge: durable questions about consciousness, vulnerability, and ethical perception over time.
+
 The film stands like a cold instrument lowered into human darkness, refusing comfort while asking what, if anything, makes us more than moving flesh. It watches us as an alien might, then slowly inverts the gaze until the inhuman presence begins to fracture under the pressure of contact, vulnerability, and recognition.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

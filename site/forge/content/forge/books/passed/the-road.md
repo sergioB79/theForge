@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Ash Lit by a Single Vow
 
+
+INFO:
+Post-apocalyptic realism stripped to bone, where survival is secondary to moral combustion.
+The prose is lean, pressure-tested, forcing readers to inhabit hunger, cold, and dread.
+Every scene functions as an ethical crucible, testing love, mercy, and the cost of hope.
+Ideal for Forge writers exploring language as weight, not ornament, and consequence as theme.
+
 A stripped world is not the point here; the point is what remains when every external reason to be good is removed. This book meets you without ornament and asks you, plainly, what you would still protect when protection is irrational.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

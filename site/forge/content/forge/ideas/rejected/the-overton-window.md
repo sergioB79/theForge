@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Frames That Move So We Don’t Have To
 
+
+INFO:
+Explores a popular diagram for shifting public opinion without embracing its simplifications.
+Examines how this frame flattens institutions, subcultures, and incentives into one vague axis.
+Argues the concept enables strategic manipulation while obscuring ethical responsibility for moving boundaries.
+Proposes retiring it as a master theory while salvaging its limited tactical usefulness.
+
 This idea stands close to the fire but not in it. It is sharp, useful, and often weaponized, yet too light in its own bones to be held as Forge-canonical. What follows is a respectful setting-down, not a dismissal of its practical power.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

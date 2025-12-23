@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: The Clock That Lies
 
+
+INFO:
+Analyzes manipulative countdown tactics that simulate scarcity to pressure rushed, less reflective decisions.
+Shows how dishonest timers collapse under transparency, failing the Forge standard of structural integrity.
+Argues these designs weaponize attention non-consensually, casting users as targets instead of participants.
+Explores how fake urgency hollows symbols of time and finitude, draining them of genuine meaning.
+
 This belongs near the Forge, but not in it. It has teeth and consequence, yet its architecture is too hollow to withstand the kind of scrutiny the Forge demands. We can respect its power while refusing to sanctify its methods.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

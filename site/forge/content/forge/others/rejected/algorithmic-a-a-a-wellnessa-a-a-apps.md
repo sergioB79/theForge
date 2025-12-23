@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Soft Metrics, No Blood
 
+
+INFO:
+Explores wellness apps that promise stability through metrics, streaks, and guided digital routines.
+Interrogates how these tools, despite soothing interfaces, dissolve when life grows unpredictable.
+Argues that algorithmic prompts lack shared accountability, shifting consequences onto isolated, compliant users.
+Contrasts real rites of practice with gamified progress, where recorded success replaces embodied transformation.
+
 These apps often arrive with good intentions and a clean interface, and they can offer a kind of steadiness to people who feel scattered. But they do not enter the Forge as rites; they enter as cushions—pleasant, persuasive, and rarely accountable to the lives they claim to shape.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

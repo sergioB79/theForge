@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A mother who fed justice with fire and left burn-marks on her daughters and her enemies alike
 
+
+INFO:
+Examines Pankhurst as a force who chose abrasion, escalation, and deliberate political damage.
+Follows her transformation from moral persuasion to planned lawbreaking, hunger strikes, and arson.
+Tracks the collateral costs of her certainty: broken alliances, imprisoned bodies, estranged daughters.
+Asks when justice-driven harm stops liberating and starts mirroring the violence it opposes.
+
 In the Forge she stands not as a statue of progress, but as a figure lit from below: a woman who chose abrasion over acceptance, who split her own world—family, movement, nation—in order to crack a larger structure. To read her here is not to thank her, but to examine what happens when righteousness wields harm as an instrument and refuses to put it down even when it cuts the hand that holds it.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

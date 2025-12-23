@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Mirror Made of Receipts
 
+
+INFO:
+Examines how purchases become proxies for selfhood when inner identity feels unstable.
+Shows consumer behavior as attachment, signaling, and anxiety management, not just simple greed or comfort.
+Explores how markets manufacture selves, shaping belonging, status, and even private rituals of consolation.
+Reveals why people fiercely defend their possessions, treating threats to objects as threats to identity.
+
 You don’t have to agree with this idea to feel it working. You only have to watch how quickly a person defends what they buy, how they curate what they own, and how fear rises when the symbols are taken away. This isn’t an argument against comfort. It’s a lens for seeing what comfort is asked to carry.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

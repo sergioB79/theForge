@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Emperor’s Private Trial
 
+
+INFO:
+A Roman emperor writes for no audience, yet every sentence interrogates the reader.
+The book functions as an austere laboratory of character under pressure, not consolation.
+Form mirrors practice: short returns, self-corrections, and repetitions enact daily moral drill.
+Readers are forced to relocate success from external outcomes to inner consent and effort.
+
 A notebook was never meant to be scripture. This one becomes it by refusing to perform. You aren’t invited to admire Marcus Aurelius—you’re invited to stand where he stood: inside duty, inside disgust, inside the daily labor of not becoming your worst self.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

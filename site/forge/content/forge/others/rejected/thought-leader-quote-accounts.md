@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Echoes Without Embers
 
+
+INFO:
+Examines social accounts that package profound quotes into endlessly consumable, low-friction content streams.
+Explores how these feeds simulate introspection while demanding no commitment, sacrifice, or behavioral change.
+Argues the real issue is structural: design for skimming, not practice, community, or shared ordeal.
+Considers whether such parasocial curation can ever become a scaffold for lived transformation, not decoration.
+
 These accounts deserve a clear look, not contempt. They gather fragments of hard-won insight and arrange them into bright, consumable tiles. The problem is not that they are false, but that they ask nothing of the one who reads them; no skin, no risk, no altered day. They offer the appearance of reflection without the friction of a rite, and when they fail, almost nothing in the reader’s life fails with them.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Repetition Without Reckoning
 
+
+INFO:
+Broadly entertaining sequel that copies its predecessor so closely it erases genuine stakes.
+Uses blackout mystery structure as mechanical engine, not as a way to deepen character.
+Flirts with guilt, consequence, and cultural dislocation, then retreats into throwaway shock humor.
+Harm, trauma, and local context are mined for gags, not examined as meaningful pressures.
+
 This film sits outside the Forge—competent in its machinery, commercially honed, intermittently effective as spectacle and joke, but not built to leave anything essential standing when the noise is stripped away.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

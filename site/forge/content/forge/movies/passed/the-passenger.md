@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Identity Unhoused, Truth In Transit
 
+
+INFO:
+A wandering journalist assumes another mans identity, chasing freedom through deserts, borders, and borrowed lives.
+His escape from career, marriage, and name exposes an older web of debts and unfinished histories.
+Each patient, drifting shot becomes an argument about responsibility, complicity, and the fantasy of self-erasure.
+What begins as existential travelogue ends as an ethical dead end, quietly and irrevocably closing in.
+
 There is a certain kind of film that does not impress itself on you so much as slowly vacate the ground under your feet. The Passenger is one of these: patient, spare, more interested in the structure of a life than in the spectacle of a plot. What remains, once its images and music are stripped away, is a provocation about identity, responsibility, and the quiet violence of escape.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

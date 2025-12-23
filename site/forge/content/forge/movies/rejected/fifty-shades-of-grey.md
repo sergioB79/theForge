@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Satin Contracts, Hollow Consent
 
+
+INFO:
+Erotic romance film using BDSM aesthetics to stage a fantasy of dangerous intimacy.
+Explores confusion between being desired and being possessed, but rarely interrogates that tension.
+Consent, contracts, and punishment appear as stylish props rather than transformative ethical commitments.
+Lacks a coherent inner arc or symbolic architecture that could sustain Forge-level moral inquiry.
+
 This film is not Forge-canonical. It has cultural noise, recognizability, and a few recurring motifs that gesture toward power and desire—but when the mood is stripped away, it does not leave a durable ethical or psychological structure behind.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

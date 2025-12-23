@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Bait Without Blood
 
+
+INFO:
+Explores clickbait as an attention hack that generates heat without building lasting practice.
+Contrasts rapid behavioral shifts with absence of a sustaining container or repeatable rite.
+Details structural, ethical, and symbolic failures rooted in asymmetry and hidden consequences.
+Argues clickbait simulates stakes while carefully avoiding real moments of personal reckoning.
+
 Clickbait headlines know the doorways of the mind and how to lean on them. They do not ask for your presence; they steal it, then vanish before you can notice what was taken. This is not Forge-canonical, because the heat they generate is borrowed and the cost is paid somewhere offstage.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

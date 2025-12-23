@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Mirrors That Refuse to Reflect You
 
+
+INFO:
+Explores metric-driven productivity systems that simulate discipline while quietly removing human agency and choice.
+These dashboards choreograph attention and behavior, yet leave no real hinge for transformative decisions.
+Progress bars and daily check-ins soothe anxious systems, masking misalignment between numbers and lived reality.
+Within the Forge, such tools remain decorative mirrors, incapable of reflecting or reshaping an accountable self.
+
 This subject stands close to the heat but does not cross into the Forge. It borrows the language of discipline and the appearance of structure, yet withholds the one requirement that makes any rite real: the capacity to choose, to respond, to be altered with consequence. We acknowledge its allure and the comfort it offers to systems that fear uncertainty, but it cannot be taken as canonical here.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

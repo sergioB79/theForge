@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Bright Badges, Hollow Consequence
 
+
+INFO:
+Examines gamified habit apps that promise transformation through streaks, badges, and soft discipline.
+Finds their influence fragile, vanishing when life becomes chaotic or attention drifts elsewhere.
+Argues their real revelations occur in abandonment, outside the designed reward loops and metrics.
+Concludes that without shared stakes or consequence, they cannot meet the Forges threshold.
+
 This stands at the edge of the Forge but does not cross the threshold. Gamified habit trackers dress intention in color, metrics, and reward loops, yet they keep most of the true risk and revelation offstage. They can spark brief awakenings, but their deepest work happens only when they are broken, ignored, or uninstalled—and that liminal space is precisely where they lose their claimed power.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

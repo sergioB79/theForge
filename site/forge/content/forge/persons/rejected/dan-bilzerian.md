@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: A hollow crown built from rented light and borrowed noise
 
+
+INFO:
+A case study in spectacle without substance, loud where it should be irrevocably marked.
+His narrative loops like an advertisement reel, resetting instead of accepting genuine consequence.
+Other people are reduced to set dressing, and risk becomes a staged commodity, never true hazard.
+Useful not as a model for living, but as a symptom of cultural hollowness.
+
 The figure before us is not taken into the Forge. His image is immense, his residue shallow; what he offers the eye evaporates when brought near heat. We record him not as a pillar but as a symptom—useful for diagnosis, not for endurance.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

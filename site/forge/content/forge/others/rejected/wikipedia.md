@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: The Library That Erases Its Own Footprints
 
+
+INFO:
+A global reference engine that quietly underpins debates, lesson plans, and dinner-table arguments.
+It trains casual users to check citations, yet rarely asks them to stake anything personal.
+Participation in editing and governance is optional, detachable from everyday use of its knowledge.
+Its drama stays in talk pages and edit wars, not in transformative demand on the reader.
+
 Wikipedia deserves a bow of the head: a planetary index of attention, a negotiated ledger of what we say is real. It has changed how we argue, how we prepare, how we bluff expertise. Yet the Forge is not an awards hall for influence; it is a threshold for structures that demand presence, risk, and transformation. Wikipedia operates as infrastructure, not initiation. Its failures may be dramatic, but they rarely insist that the reader be changed in order to proceed.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

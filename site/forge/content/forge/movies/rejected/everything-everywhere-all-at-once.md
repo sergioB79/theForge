@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Glittering Cosmos, Hollow Center
 
+
+INFO:
+Interrogates a hyped multiverse spectacle, testing what remains once maximalism is removed.
+Finds a moving family melodrama whose emotional weight leans on speed and gimmickry.
+Engages nihilism, regret, and generational rupture, yet resolves them in formulaic affirmation.
+Argues that inventive style and engineered catharsis are insufficient for true canonical standing.
+
 This film arrives with the charge of an event and the sincerity of personal myth, yet the Forge asks what remains when spectacle, speed, and sentiment are stripped away. What stands here is a deft, emotionally earnest construction that bends genre and family melodrama into a kaleidoscope, but its power rests too heavily on velocity, gimmick, and engineered catharsis to be held as canonical fire.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

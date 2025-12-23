@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Exposure as Proof
 
+
+INFO:
+An idea that relocates ethics from abstract principles to the distribution of downside risk.
+Challenges expertise that is insulated from consequences, redefining credibility as proportional to personal exposure.
+Reframes leadership, policy, and advice as morally legitimate only when skin is genuinely in the game.
+Offers a sharp diagnostic for asymmetries in power, incentives, and trust in modern institutions.
+
 You don’t get to speak from outside the blast radius forever. This idea enters quietly and then refuses to leave, because it doesn’t ask what you know—it asks what you will absorb when the thing you recommend breaks.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

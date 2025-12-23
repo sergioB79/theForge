@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Witness of thinking, who followed evil into its banality and never found her way back unchanged
 
+
+INFO:
+A refugee from both homeland and orthodoxy, she made exile her permanent address.
+Her analysis of totalitarianism and evil strips away alibis modern people cherish most.
+Reading her means risking your own categories of innocence, responsibility, and political belonging.
+Her misjudgments and blind spots are inseparable from the courage of her most piercing insights.
+
 She belongs here not as a saint of thought, but as someone who walked too close to the machinery of modern evil and returned with language that cuts everyone who touches it. Approach her as you would approach a hard question you know will cost you something to answer.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Self-Destruction as a Search for God
 
+
+INFO:
+Explores how modern alienation mutates into ideology, turning private shame into public crusade.
+Uses the narrator split to dramatize responsibility dodged, then reimported as righteous certainty.
+Traces the conversion of intimacy into hierarchy, asking what we sacrifice to feel authentically alive.
+Dissects how the desire to be remade becomes consent to be controlled, even destroyed.
+
 Fight Club enters the Forge not as provocation-for-its-own-sake, but as an anatomy: of hunger mistaken for freedom, of pain mistaken for truth, of emptiness mistaken for destiny. Strip away the soundtrack, the swagger, the violence-as-style, and its spine remains—a structural parable about how a fractured self recruits an ideology to avoid responsibility for its own desire.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Wishcraft Without Witness
 
+
+INFO:
+This book promises life control through thoughts alone, offering comfort but little true structure.
+Instead of rigorous self-inquiry, it leans on repetition, affirmation, and faith in unseen mechanisms.
+Its framing subtly relocates responsibility for suffering onto individuals, moralizing misfortune as misalignment.
+Attractive for its simplicity and hopefulness, it ultimately confuses soothing narrative with accountable explanation.
+
 This text is not Forge-canonical. It offers a certain kind of private relief, but relief is not the same as architecture.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

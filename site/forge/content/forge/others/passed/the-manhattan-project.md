@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Fire Invented Faster Than We Could Grow a Soul
 
+
+INFO:
+A crucible where mathematical precision fused with political fear to scar the century.
+Transforms apocalypse from rare prophecy into mundane infrastructure humming beneath everyday life.
+A ritual of secrecy forcing personal conscience into collision with vast institutional momentum.
+Remains relevant wherever technological brilliance outruns our capacity for shared moral accountability.
+
 The Manhattan Project belongs here because it is not an artifact but a crossing: a moment when human presence, calculation, and fear combined into a lasting wound. It was a rite of entry into an era where annihilation became a daily background condition. Its limits and errors were not theoretical; they were burned into cities, into policy, into the collective nervous system of the species. Those scars are why it cannot be treated as mere history or technology.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

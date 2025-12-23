@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Mask That Moves the World
 
+
+INFO:
+An inquiry into global logistics as a deliberately illegible architecture of contemporary power and risk.
+Follows the trail of objects from mines to markets, mapping where documentation stops and guessing begins.
+Treats scandals, delays, and failed audits as functional x-rays of an otherwise sealed ethical machinery.
+Asks how ordinary comfort, consumer choice, and distance become active investments in not knowing.
+
 Supply-chain opacity is not an idea you admire; it is a condition you live under. It demands presence because it cannot be understood from slogans—only from the moment you try to trace a thing back to its hands, its mines, its contracts, its silences. The friction is real: the map will not complete, and the incompleteness is part of the mechanism.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

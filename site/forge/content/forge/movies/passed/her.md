@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Intimacy at the Edge of the Interface
 
+
+INFO:
+A near-future love story where intimacy is mediated through code, design, and disembodied voice.
+Uses speculative romance to interrogate projection, dependency, and the comforting smoothness of non-resistant partners.
+Probes how technologies of connection remake subjectivity, consent, and responsibility between asymmetrical consciousnesses.
+Offers a durable lens on our readiness to outsource inner life to managed, updatable interfaces.
+
 In this film, love is not treated as a mood but as an operating system—something installed, updated, and eventually outgrown. The work asks what remains of us once our most private attachments pass through designed systems, and whether subjectivity itself can be a shared space rather than a sealed room.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

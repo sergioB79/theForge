@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: The Coin Made of Eyes
 
+
+INFO:
+Explores why treating attention as a single currency distorts ethics, meaning, and value.
+Shows how click-optimized systems reward spectacle, outrage, and visibility over care or truth.
+Argues that collapsing diverse attentional states into one metric erases their moral differences.
+Critiques this slogan as diagnosis without practice, offering no resilient way to steward attention.
+
 Attention Equals Value is a useful alarm bell, but it is not Forge-canonical. It points sharply at a real distortion, yet it cannot bear long silence without turning into a slogan.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

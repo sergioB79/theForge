@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Machine and the Fear That Built It
 
+
+INFO:
+A relentless treatise that strips politics to fear, survival, and the machinery of power.
+Each definition of will, covenant, and right becomes a gear in Hobbes uncompromising mechanism.
+Readers must wrestle directly with arguments, not atmospherics, confronting liberty as a calculated gamble.
+Its chill lingers whenever you encounter authority, revealing how dread underwrites even ordinary obedience.
+
 This is a book made of arguments instead of scenes, but it bruises like a novel. Hobbes does not decorate; he dismantles. He takes the human animal, strips it of illusions, and from that nakedness constructs a terrifying, coherent machine meant to save us from ourselves. You do not read *Leviathan* for comfort. You read it to understand the cost of order, and where your own fear is secretly doing the thinking.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

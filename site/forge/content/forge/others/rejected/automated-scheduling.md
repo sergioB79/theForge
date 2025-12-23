@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Friction Removed, Meaning Thinned
 
+
+INFO:
+Examines automated scheduling as a coordination engine that erases friction yet hollows meaning.
+Shows how delegated presence outsources confronting, negotiating, and remembering, leaving character unworked.
+Argues it simulates respect while privileging flexible, powerful calendars and institutional leverage.
+Concludes that thinning commitment into slots and links disqualifies it from the Forge.
+
 Automated scheduling promises relief from the small violences of coordination. It can feel like a civilizing layer over chaos—fewer messages, fewer misunderstandings, fewer delays. But it does not enter the Forge as a rite; it enters as an optimization.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

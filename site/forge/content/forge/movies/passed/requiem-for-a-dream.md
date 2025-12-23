@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Desire as a Machine That Eats Its Operator
 
+
+INFO:
+A relentless portrait of longing that treats hope as currency in a rigged economy.
+Shows how chemical, commercial, and medical systems grind desire into automated, self-destructive routines.
+Strips away after-school-special moralizing, revealing exploitation built into modern dreams of self-improvement.
+Its devastation lingers because the machinery outlives the era, outlives the specific addictions.
+
 It enters like a warning and leaves like an x-ray. Not of addiction as spectacle, but of the human bargaining instinct—how quickly a person trades tomorrow for a version of themselves they can tolerate today.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

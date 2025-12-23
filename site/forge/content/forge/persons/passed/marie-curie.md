@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: She measured the light that hollowed her bones.
 
+
+INFO:
+Examines Curie as a relentless investigator who traded bodily safety for unflinching observation.
+Focuses on the quiet fanaticism of her devotion rather than myths of solitary genius.
+Interrogates how scientific progress disguises private violence, especially against the worker performing the work.
+Positions her legacy as an open door that still leaks danger into our present.
+
 To stand before Marie Curie in the Forge is not to praise her, but to witness what happens when a mind refuses to look away from a dangerous truth. You are not here for the romance of genius or the comfort of sacrifice; you are here to consider a life that treated knowledge as a necessity worth blood. Let the legends fall away. What remains is a woman who opened a door and then lived, slowly and irrevocably, with what came through.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

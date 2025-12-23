@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Mirror of Appetite, Hollow of Self
 
+
+INFO:
+A stylish, unnerving portrait of a man whose identity is entirely surface and brand.
+Violence and humor coexist to expose how capitalism turns people into interchangeable status performances.
+The film keeps viewers off-balance, denying clear reality so perception itself becomes the horror.
+Its portrayal of commodified selfhood feels increasingly prophetic in an era of curated personas.
+
 The film survives without its sheen because it is not finally about violence, fashion, or provocation—it is about identity as a purchasable surface, and what a human becomes when the surface is all that’s left. It asks for a moral reading, but refuses the comfort of moral certainty.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -186,8 +186,8 @@ export default function ForgeDocView({
     let current: { name: string; body: string } | null = null;
 
     const headingPatterns = [
-      /^- \*\*(.+?)\*\*(?::\s*(.*))?$/,
-      /^\d+[.)]\s+\*\*(.+?)\*\*(?:\s*[:\-]?\s*(.*))?$/,
+      /^-\s+\*\*(.+?)\*\*\s*(?:[:\-–—]?\s*(.*))?$/,
+      /^\d+[.)]\s+\*\*(.+?)\*\*\s*(?:[:\-–—]?\s*(.*))?$/,
     ];
 
     for (const line of lines) {

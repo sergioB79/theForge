@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Body as Final Language
 
+
+INFO:
+A rigorously embodied political drama where ideology is inscribed on muscle, skin, and breath.
+Violence functions as a grammar of power, with every wound and routine carrying argumentative weight.
+Long, punishing sequences collapse distance between viewer and prisoner, turning abstraction into felt pressure.
+Refusing martyrdom cliches, it stages self-destruction as contested autonomy within an unyielding carceral state.
+
 This film belongs in the Forge because it treats the human body not as spectacle but as argument, and suffering not as decoration but as verdict. It strips politics down to muscle, breath, waste, and will, then demands the viewer decide what a human being is allowed to do with their own flesh in the face of an unyielding state. When the style is burned away, an almost unbearable clarity remains.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Childhood as an Unsupervised Power
 
+
+INFO:
+A horror-drama about children discovering power before conscience, and the havoc that gap creates.
+Uses the supernatural as a metaphor for early agency outpacing moral understanding and restraint.
+Focuses on the unsettling moment empathy either awakens under pressure or withers into experimentation.
+Lingers less as a genre exercise than as a rigorous ethical thought experiment on cruelty.
+
 The Forge keeps few coming-of-age stories because most confuse shock for revelation. This one doesn’t. It treats childhood not as purity, but as a laboratory where empathy either forms—or fails to. Strip away mood and technique and the remaining structure is still intact: power arrives before conscience, and the world pays for the delay.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

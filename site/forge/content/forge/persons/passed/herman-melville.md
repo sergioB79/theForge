@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The failed sailor who harpooned the depths beneath history’s keel
 
+
+INFO:
+A sailor manqué who sounded the oceanic unconscious and returned commercially shipwrecked, not crowned.
+He refuses to miniaturize his imagination to fit empire, marketplace, or theological comfort.
+His books gut the myths of mastery, showing command as madness and certainty as lethal delusion.
+Obscurity became his longest collaborator, forging pages where spiritual shipwreck replaces tidy cultural redemption.
+
 He enters not as the bearded monument on library shelves, but as a man who wagered his life on the illegible currents below commerce, empire, and God—and lost, officially. The world called it failure. The work kept burning.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

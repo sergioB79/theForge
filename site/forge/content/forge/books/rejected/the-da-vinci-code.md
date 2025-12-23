@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Symbols Without Weight, Secrets Without Wounds  
 
+
+INFO:
+A commercially unstoppable thriller whose momentum masks a hollow core of meaning.
+Uses religious and historical symbols as set dressing rather than lived, consequential experience.
+Puzzle-box plotting promises revelation, but answers arrive as canned exposition, not transformation.
+Built for frictionless page-turning, it never risks disorientation, self-confrontation, or genuine ethical strain.
+
 This sits outside the Forge, not as a failure of entertainment but as a limit case of architecture built for speed rather than depth. It shows what happens when structure is optimized for turning pages instead of turning the reader inward.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

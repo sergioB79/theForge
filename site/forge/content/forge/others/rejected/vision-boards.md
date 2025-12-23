@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Paper Altars to Unrisked Futures
 
+
+INFO:
+Vision boards translate vague longings into images, but rarely insist on real stakes.
+Their structure allows quiet abandonment; neglect carries no visible consequence or communal witness.
+As a tool, they clarify desire yet lack cycles, thresholds, or binding commitments to action.
+Forge-worthy practices must yoke presence to consequence; these collages remain safely, gently ignorable.
+
 Vision boards are gentle companions to longing, not engines of ordeal. They gather fragments of desire into a visible surface, but they rarely demand that the maker stand where it hurts, or risk what they are not willing to lose. This is not a failure of kindness; it is a limit of depth. The board can be tender, clarifying, even brave in rare hands—but as a structure, it does not reliably bind presence to consequence.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

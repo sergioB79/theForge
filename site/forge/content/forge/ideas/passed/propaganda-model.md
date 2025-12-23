@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Filters Over Fire
 
+
+INFO:
+Explores how media power flows through filters and incentives instead of overt commands.
+Shows how routine production choices quietly define what counts as neutral, normal, or sayable.
+Helps readers notice absences, silences, and consensus as designed outcomes, not inevitabilities.
+Offers a structural lens that stays stable across scandals, news cycles, and individual bad actors.
+
 The Propaganda Model doesn’t ask you to become cynical. It asks you to become harder to steer. Held quietly, it changes what you notice before it changes what you say.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

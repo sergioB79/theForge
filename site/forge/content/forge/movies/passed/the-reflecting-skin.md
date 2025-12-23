@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Innocence as a Weapon Against the Real
 
+
+INFO:
+A rural nightmare told through a child who weaponizes wonder to survive unspoken horrors.
+Shows how communities outsource guilt into monsters so everyday cruelty can proceed unexamined.
+Psychological precision makes its symbols endure beyond shock value, nostalgia, or genre fashion.
+Stands as a long-term reference point for stories where innocence masks collective complicity.
+
 It enters like a fable and stays like a diagnosis. This film is not asking to be “liked” or even fully trusted; it is asking to be read after your defenses have quieted. Strip away the heat of its imagery and you still have a durable structure: a mind making meaning out of terror, and a community letting that meaning metastasize because it is easier than looking directly at itself.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

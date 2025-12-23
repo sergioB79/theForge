@@ -9,6 +9,13 @@ ARCHIVE: Revered Obscurity
 
 SUBTITLE: Aristocrat who mapped equality’s weather and mistook the storm for a climate
 
+
+INFO:
+An aristocratic observer peering across the threshold between collapsing hierarchies and rising democracy.
+His democracy is a mood study: envy, conformity, soft despotism, souls bent quietly inward.
+Influence remains diagnostic more than catalytic, shaping interpretation rather than remaking structures or self.
+Useful as a finely ground lens, yet too bloodless to earn full Forge consequence.
+
 This entry is not Forge-canonical. Tocqueville can be read with seriousness and used with care, but the Forge only admits figures whose thought is welded to irreversible consequence.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

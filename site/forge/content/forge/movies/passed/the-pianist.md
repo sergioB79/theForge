@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Fragile Line Between Survival and Self
 
+
+INFO:
+A stark examination of survival amid systemic annihilation, where endurance replaces conventional heroism entirely.
+Focuses on one mans dwindling agency as violence and bureaucracy grind away moral certainty.
+Uses stillness, duration, and restrained images to expose how numbness and fear rewire ethical perception.
+Refuses cathartic uplift, leaving the viewer with unresolved questions about complicity, luck, and responsibility.
+
 The Pianist enters the Forge not as spectacle but as a quiet record of what happens when a human life is reduced to bare endurance. It refuses to explain evil away, and it does not glorify suffering; instead, it watches a single consciousness eroded, pared down, and yet not entirely erased. What remains is not catharsis but a hard contour of truth about survival, complicity, and the limits of empathy.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Mirror Built From Cuts
 
+
+INFO:
+Examines reality TV confessionals as ritualized machines that transform private cognition into consumable narrative.
+Shows how the editing room remakes raw speech into moralized arcs through compression and juxtaposition.
+Argues that presence in the chair rewires behavior upstream, with contestants anticipating future self-explanation.
+Foregrounds visible ethical stakes, where betrayal, exposure, and identity performance are inseparable from the medium.
+
 It is a small room with a chair, a producer’s quiet prompts, and the permission to narrate yourself. Confessional editing turns that room into a rite: not because it tells the truth, but because it demands a version of it that can survive exposure. The friction is inherent—what you say is never the final object; it is raw ore, and the cut can betray you as easily as it can reveal you.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Borrowed Light, Empty Weight
 
+
+INFO:
+Examines how public visibility mutates into presumed wisdom, crowding out quieter forms of authority.
+Argues that diagnosing this confusion is easier than building alternative ways of recognizing trustworthiness.
+Warns that sneering at audiences or celebrities alike only deepens the problem it criticizes.
+Ultimately rejects the idea as a Forge pattern: headline-sharp, architecturally and ethically hollow.
+
 This notion arrives loud and already agreed upon by a certain kind of fatigue. It names something real, but it does not build a usable frame for living—only a glare to look at.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Needles Against the Invisible Flood
 
+
+INFO:
+Explores vaccination as a ritualized threshold, inviting risk to confront greater danger.
+Centers the Salk injection as communal duty rather than an individual consumer decision.
+Attends to fear, historical failures, and unequal access while refusing easy moral reassurance.
+Frames immunity as incomplete yet transformative, binding strangers through shared biological responsibility.
+
 The Salk polio vaccine is not a product so much as a threshold: a moment when a child’s body is invited into a contract with the world’s danger. It demands presence—of clinician, of parent, of small uncomprehending recipient—around an act that cannot be undone. There are limits and frictions everywhere: the fear of side effects, the scars of earlier failures, the knowledge that immunity is never quite absolute and justice in distribution is never quite complete. Yet it stands as a practice that reshapes behavior and perception: it teaches that we owe something to the bodies of strangers we will never meet.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

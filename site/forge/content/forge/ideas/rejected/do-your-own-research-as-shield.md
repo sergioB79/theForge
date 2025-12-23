@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: The Labyrinth Used as Armor
 
+
+INFO:
+Examines how "do your own research" masquerades as rigor while evacuating responsibility.
+Shows the phrase converting research from shared method into an endless, standardless personal project.
+Tracks the ethical slide where claimants dodge burden of proof by outsourcing verification to others.
+Unpacks its role as identity badge for contrarian independence, shielding beliefs from correction or consequence.
+
 This phrase arrives wearing the costume of rigor, but it is usually deployed as a barricade—an exit door from responsibility, clarity, and shared standards of truth. It may begin in good faith. In practice, it rarely survives contact with real stakes.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

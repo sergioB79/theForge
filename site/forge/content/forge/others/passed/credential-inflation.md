@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Paper Crowns, Real Hunger
 
+
+INFO:
+Examines credential inflation as a compulsory rite that drains time, money, and agency.
+Shows how stamped artifacts replace lived responsibility as the dominant signal of worth.
+Tracks the human fallout: overqualification, underemployment, brittle institutions, and exhausted, disoriented graduates.
+Frames the system as ethical infrastructure masquerading as neutral administration, revealing legitimacy as manufactured scarcity.
+
 Credential inflation is a rite that many people enter without consent and still must perform to survive. It demands presence: time, debt, attention, and the quiet surrender of years to screens, syllabi, and gatekeepers. It changes how people see themselves and one another—worth becomes legible only through stamped artifacts. And its failures are visible: overqualified underemployment, brittle institutions, exhausted graduates, and roles that quietly stop training humans and start sorting them. The friction is not incidental; the system depends on it, and it does not soften for sincerity.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

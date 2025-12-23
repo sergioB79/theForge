@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Conscience Against the Weather of Power
 
+
+INFO:
+Austere, deliberate pacing frames conscience as architecture under relentless political and spiritual pressure.
+Uses historical spectacle to interrogate modern compromises we quietly make in career and allegiance.
+Rejects tidy hero worship; instead maps the incremental erosion and defense of inner boundaries.
+Endures as a blueprint for holding an uncompromised self inside mechanized systems of power.
+
 This film belongs in the Forge because it stages interior integrity as an architecture, not a mood. It is unhurried but unsentimental, rooted in the friction between private conviction and public necessity. Strip away its period costumes and revered performances, and what remains is a stark argument: what is a person when everything negotiable has been negotiated away?
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

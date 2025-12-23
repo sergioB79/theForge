@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Memory Burned into Language
 
+
+INFO:
+A sustained experiment in how political language can overwrite perception and internal memory.
+Uses drab prose and relentless slogans to make mental colonization feel mechanically inevitable.
+Characters function as ethical stress tests, mapping how far identity stretches before it snaps.
+Offers no heroic catharsis; its power is in documenting slow, systemic soul erosion.
+
 There are books that describe control, and there are books that enact it on the reader’s own mind. This one does the latter. It is less a narrative than a live demonstration of how language, fear, and loneliness can be weaponized until even inner dissent loses grammar. Enter it not for prophecy but for anatomy.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

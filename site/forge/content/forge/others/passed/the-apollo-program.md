@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Fire Carried by Procedure
 
+
+INFO:
+Examining Apollo as a state ritual where procedure becomes the carrier of fire.
+Focus on how disciplined coordination turns abstract ambition into accountable, mortal consequences.
+Explores the uneasy seam between hero myth, bureaucratic machinery, and public, televised failure.
+Useful for designers of high-stakes systems who need ethics embedded directly into architecture.
+
 A civilization can decide to touch a distant stone and then build the discipline required to do it. Apollo is not comfortable to hold up as a model: it is expensive, political, and built inside a century’s machinery of fear. Its greatness has a seam you can feel—the knowledge that the same clarity that reaches can also threaten, and that people can be lost when the ritual is treated as schedule.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

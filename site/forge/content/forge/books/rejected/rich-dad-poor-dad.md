@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Certainty Without Load-Bearing Steel
 
+
+INFO:
+Non-canonical personal finance parable that popularizes asset vs liability thinking without rigorous grounding.
+Valuable as an entry-point reframe, but its models collapse under scrutiny and real-world constraints.
+Overstates mindset and boldness while underweighting risk, privilege, regulation, and downside asymmetry for the vulnerable.
+Narrative father-binary works as persuasion architecture more than as psychologically or economically truthful model.
+
 This book can be useful as a spark, but it is not Forge-canonical; it does not survive sustained contact with scrutiny, consequence, or lived complexity.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

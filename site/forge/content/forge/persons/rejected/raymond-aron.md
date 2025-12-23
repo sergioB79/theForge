@@ -9,6 +9,13 @@ ARCHIVE: Revered Obscurity
 
 SUBTITLE: The cautious sentinel who kept watch while the fire passed him by
 
+
+INFO:
+Raymond Aron stands as a measured observer, diagnosing passions without fully surrendering to them.
+His life arc traces continuity more than rupture, a scholar buffered from combustion.
+Intellectually brave yet institutionally secure, he adjusts to crisis rather than letting it unmake him.
+The record shows refinement under pressure, not the irreversible break the Forge demands.
+
 This is a judgment of edges, not a denial of worth: the Forge asks for lives or structures that fracture under heat and remake the landscape, and not every serious mind was built for that kind of breaking.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

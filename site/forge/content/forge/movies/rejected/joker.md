@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: A Mirror That Stares But Does Not See
 
+
+INFO:
+A stylish descent into one mans derangement, wrapped in pastiche of serious cinema.
+The film simulates psychological depth while leaning on familiar origin-myth beats and clichés.
+Its social critique remains gestural, using institutions as props rather than systems with logic.
+Visceral performances and atmosphere cannot mask the thin symbolic and ethical framework beneath.
+
 This film arrives with the weight of cultural discourse and prestige trappings, but within Forge terms it remains outside the circle. Its images and performances bite, its atmosphere is thick, yet once surface voltage is stripped away, its symbolic and ethical skeleton proves thinner than its cultural noise suggests.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

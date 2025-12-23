@@ -10,6 +10,14 @@ ARCHIVE: null
 
 SUBTITLE: Testimony as a Blade
 
+
+INFO:
+A monumental indictment of state cruelty, demanding sustained moral attention rather than passive comprehension.
+Testimony accumulates like legal evidence, transforming historical atrocity into an air the reader inhales.
+Narrative architecture resists detachment, using repetition and tonal shifts as deliberate ethical pressure.
+Characters emerge as moral positions under coercion, exposing complicity, courage, and numbness in ordinary people.
+The book redefines what normal can mean, revealing how language itself can sanction systematic harm.
+
 It does not ask for agreement. It asks for endurance—of attention, of conscience, of the human reflex to look away when suffering becomes “systemic.”
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

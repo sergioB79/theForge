@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Hunger That Has Nowhere To Go
 
+
+INFO:
+A slow-burn psychological mystery where missing facts hurt more than revealed truths.
+Class tension, erotic jealousy, and privilege blur into a threat that never fully materializes.
+Refuses tidy answers, trapping viewers inside a young mans unraveling perception of reality.
+Explores invisible violence in a society that claims everything, and everyone, is clearly seen.
+
 This film belongs to the quiet, slow fires: not spectacle, but smoldering unease. It does not hand over answers; it erodes certainty until only a bare, raw question remains. What we are left with is not a mood, but a wound in the shape of an absence.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

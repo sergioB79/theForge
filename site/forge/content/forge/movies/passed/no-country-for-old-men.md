@@ -10,6 +10,14 @@ ARCHIVE: null
 
 SUBTITLE: Coin-Toss Morality in a World Without Judges
 
+
+INFO:
+A relentless neo-western where order collapses, leaving only consequence, chance, and stunned witnesses.
+Violence is rendered not as spectacle, but as an X-ray of our thinnest certainties.
+Evil arrives less as personality than as function, a system wearing human skin.
+The story asks what responsibility means when outcomes ignore virtue, effort, and intention.
+Its stripped-down structure endures beyond style, refusing comfort while clarifying the cost of looking away.
+
 A film can be violent and still be clean. This one is clean—not because it spares you, but because it refuses to lie about what violence reveals: the thinness of our stories when the world stops negotiating. It doesn’t ask to be admired. It asks to be faced.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

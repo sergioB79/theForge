@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Geometry of the Soul in a City of Masks
 
+
+INFO:
+A dialogue that feels less like conversation and more like climbing a constructed storm.
+Treats justice as a constraint on thought, tightening language until comfort falls away.
+Characters embody habits of mind under pressure, not psychological realism or sentimental growth.
+Endures because it exposes how easily order disguises fear and coherence masquerades as good.
+
 The book does not ask to be liked. It asks to be endured with attention. If you come for answers, it will correct your questions first; if you come for instruction, it will make instruction feel like a trial.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

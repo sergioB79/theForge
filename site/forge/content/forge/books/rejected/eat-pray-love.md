@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Consolation Without Consequence
 
+
+INFO:
+Readable, emotionally frank memoir charting a midlife rupture through travel, spirituality, and romance.
+Frames transformation as curated comfort and relief rather than hard-won, necessity-driven reconstitution.
+Uses global settings and practices as consumable backdrops, rarely granting them full ethical weight.
+Affords recognition and gentle permission, but rarely exerts structural pressure toward unsettling insight.
+
 This book is not Forge-canonical. It offers a readable account of personal reorientation, but its inner architecture is built to soothe more than to confront, and its language is tuned for accessibility rather than weight.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

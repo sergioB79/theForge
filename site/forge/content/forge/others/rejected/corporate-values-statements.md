@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Words Without Weather
 
+
+INFO:
+Examines corporate values statements as institutional rites that hover near, but avoid, consequence.
+Argues that risk-free, laminated language cannot belong in a Forge that demands exposure.
+Notes how these statements aim at ethics yet structurally evade real-time embodied accountability.
+Contrasts rare moments of sincere testing with the prevailing pattern of quiet, internal dissonance.
+
 Corporate values statements stand at the doorway of power but rarely let the weather in. They aspire to ritual and consequence, yet too often remain laminated language—difficult to live by, easy to ignore. This review does not dismiss their intent; it simply notes that intent without exposure to risk does not enter the Forge.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A playwright who mistook truth for paper and found it could cut through stone
 
+
+INFO:
+Tracks how a Czech playwright turned reluctant revolutionary tests the tensile strength of truth.
+Follows his journey from samizdat essays and prison cells to an ambivalent castle office.
+Examines how dismantling one lie exposes deeper habits of self-deception inside victorious democrats.
+Asks what responsibility remains when language liberates people, but cannot govern them cleanly.
+
 You do not come to him for innocence. You come to watch what happens when a man of words is forced to spend those words as currency in a system designed to counterfeit meaning itself. The point is not that he became a president; the point is that, long before that, he wagered his private safety on the claim that living in truth has a price—and then spent the rest of his life trying, and repeatedly failing, to pay it in full.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

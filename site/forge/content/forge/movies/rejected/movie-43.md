@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Shock Without Consequence
 
+
+INFO:
+Anthology of outrageous sketches chasing shock value over meaningful comedic or thematic development.
+Explores taboo-breaking gags and celebrity stunt casting without building a coherent ethical framework.
+Transgression is used for cheap reaction, not as transformative commentary on audience complicity.
+Despite technical craft, it spends its provocations quickly, leaving no lasting internal movement.
+
 This film is not Forge-canonical. It is not without craft or intention, but its intention is impact first, meaning second—and in the Forge, that order matters.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

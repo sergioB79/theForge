@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Reincarnated Consequences, Unfinished Debts
 
+
+INFO:
+Sci fi epic weaving six eras into one argument about moral cause and effect.
+Treats reincarnation less as mysticism than as recurring behavioral patterns across history.
+Explores how power systems persist, changing costumes while repeating the same extraction logic.
+Emotion arises from the accumulating cost of choices, not from nostalgic genre spectacle.
+
 The film is not asking to be admired. It is asking to be inhabited—less as spectacle than as a diagram of how a single moral choice can echo, mutate, and return wearing a different face. Strip away the orchestration and the grand crossing of eras, and what remains is a hard proposition: continuity is not memory; it is responsibility.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

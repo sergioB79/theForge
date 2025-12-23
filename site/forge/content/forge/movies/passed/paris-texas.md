@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Distance, Desire, and the Cost of Returning
 
+
+INFO:
+Meditative road drama dissecting family estrangement, emotional distance, and the fragility of second chances.
+Focuses on a shattered father returning to responsibility, and a child redefining loyalty amid failure.
+Rejects tidy redemption, exploring how shame, desire, and duty collide into bittersweet, partial healing.
+Leans on sparse symbolism and character tension, ensuring its questions outlast stylistic Americana trappings.
+
 This film walks into the desert of American myth and comes back with something quiet and stubbornly human. It does not shout its revelations; it lets them arrive in the gaps between people, in the time it takes a soul to circle around to itself. What endures here is not style, not nostalgia, but a painful clarity about love, damage, and the uneven paths of repair.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

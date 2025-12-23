@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Rust, Ghosts, and the Hands That Still Log In
 
+
+INFO:
+Explores legacy systems as haunted infrastructures where responsibility, memory, and fear converge daily.
+Shows how inherited code encodes past values, forcing caretakers into ongoing socio-technical negotiations.
+Examines rites of initiation: midnight outages, undocumented dependencies, and the weight of invisible reliance.
+Argues that true difficulty lies not in syntax but in sustaining fragile, obligation-laden continuities.
+
 Legacy software systems do not ask for admiration; they demand caretaking. They impose friction, expose fragility, and put every shortcut on public display when they break. You can’t merely observe them—you inherit them, and in that inheritance you accept limits, debts, and the slow ache of decisions made long before you arrived.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

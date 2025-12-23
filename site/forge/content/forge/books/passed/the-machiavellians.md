@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Masks of Power, Teeth of Reality
 
+
+INFO:
+Burnham dissects political power by examining elites, institutions, and the circulation of legitimacy.
+He strips away consoling myths, contrasting public justifications with the machinery of actual rule.
+Readers are pushed from asking which side is right to analyzing which mechanisms truly operate.
+The prose cuts instead of decorates, turning moral language into diagnostic tools for political reality.
+
 Power does not ask permission, and this book does not ask for comfort. It meets the reader on the hard ground where ideals become instruments, where moral language is tested against the behavior of organized men.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

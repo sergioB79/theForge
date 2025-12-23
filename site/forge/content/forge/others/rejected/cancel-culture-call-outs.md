@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Pyre Without Hearth
 
+
+INFO:
+Explores cancel-culture call-outs as spectacle that mimics accountability without durable responsibility.
+Shows how viral outrage depends on fragile visibility, momentum, and alignment of an online crowd.
+Argues these practices reward performance and escalation instead of repair, presence, or due process.
+Concludes that such call-outs fail as Forge work because they outsource consequence and commitment.
+
 Cancel-culture call-outs can look like consequence. They can even feel like a public rite—names spoken, lines drawn, a crowd insisting that harm be seen. But this is not Forge-canonical: it rarely binds the caller to presence, and it rarely leaves a legible trail of responsibility that can survive the next wave.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

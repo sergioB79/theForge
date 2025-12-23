@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Stairs Between Hungers
 
+
+INFO:
+A meticulously crafted social thriller that turns household space into a map of power.
+Uses genre pleasures as camouflage for a relentless study of class, desire, and denial.
+Reveals how aspiration and humiliation entwine, making hierarchy feel intimate, funny, then unbearable.
+Essential Forge material because it reframes parasitism as architecture, not individual moral failure.
+
 This film steps past its own style. It uses the pleasures of genre and the elegance of its craft to smuggle in a hard, unsentimental look at class, self-deception, and the architecture of dependence. What remains after the last frame is not mood but a diagram: of houses, thresholds, smells, and the costs of crossing lines drawn by money and denial.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

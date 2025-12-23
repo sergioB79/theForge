@@ -9,6 +9,13 @@ ARCHIVE: Revered Obscurity
 
 SUBTITLE: Prison-tempered reconciler turned national mirror
 
+
+INFO:
+Examines Mandela as a political architecture of compromise, not a simple moral beacon.
+Interrogates how reconciliation became national myth, soothing fracture while obscuring enduring power asymmetries.
+Argues his global canonization blunts necessary discomfort, turning warning signs into inspirational décor.
+Situates him in the Archive of Revered Obscurity, where over-simplified icons lose analytical edge.
+
 This entry is not Forge-canonical. It is treated here with respect, but the Forge is not a hall for the universally affirmed; it is an anvil for unresolved consequence and the shapes it leaves behind.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

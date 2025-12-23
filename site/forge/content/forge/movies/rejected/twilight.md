@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Glitter on an Empty Chalice
 
+
+INFO:
+A cultural juggernaut that captures adolescent longing through polished, easily legible supernatural iconography.
+Transforms the desire to be uniquely seen into a glossy, modern vampire fairy tale.
+Yet beneath the immortal glamour lies a conventional dependency romance with limited structural depth.
+Power imbalances and danger are aestheticized rather than interrogated, dulling any lasting ethical resonance.
+
 This film stands as a clear cultural artifact of its era—immensely popular, emotionally legible, and visually codified—but the Forge is not an index of influence or affection. It is a test of what survives when fashion, fandom, and chemistry are burned away. Measured by that standard, the work does not hold.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Consent Eroded in a Hall of Mirrors
 
+
+INFO:
+Explores how commercial tracking redefines consent as default presence, not deliberate agreement or choice.
+Follows the circuitry of cameras, cookies, and SDKs as they script everyday movement and feeling.
+Attends to the quiet harms: jittery self-editing, hollowed privacy, and choreographed so-called spontaneity.
+Traces where people resist the gaze, building tactics of opacity, misdirection, and partial refusal.
+
 Surveillance ad-tech is a rite imposed, not invited: a standing ceremony of extraction that runs whenever we carry a device, cross a sensor, or open a screen. It disciplines attention and conduct through prediction and pressure, often without naming its demands, but the bruises show in anxiety, self-censorship, and a thinning sense of interior life. Presence is required because it is our unguarded presence that is harvested; the limit and the friction lie in the moments when people notice the gaze, push back, route around, or go dark.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Glitter Over the Empty Hearth
 
+
+INFO:
+A glossy sequel where problems glitter briefly, then conveniently dissolve without lasting consequence.
+Conflicts seem weightless; characters circle familiar dilemmas without real sacrifice or altered perspective.
+The lavish settings and wardrobe mask an episodic structure of wish-fulfillment, not transformation.
+Emotional comfort is offered, but the film sidesteps ordeal, self-confrontation, and meaningful ethical reckoning.
+
 This film stands at a comfortable distance from anything resembling ordeal or transformation. It belongs to a world of curated problems and reversible decisions, offering diversion, not the kind of fire that tempers or reveals. It has its place, but that place is not the Forge.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

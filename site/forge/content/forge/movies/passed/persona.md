@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Faces Burned Into a Single Skin
 
+
+INFO:
+A confronting inquiry into identity as performance, intimacy as mutual violence, and spectatorship as exploitation.
+Refuses puzzle-box neatness; instead offers an inhabited fracture where self and other continually contaminate.
+Stays urgent by insisting every encounter risks harm, yet human life remains impossible without encounter.
+Ideal for creators exploring unstable selves, ethical looking, and the costs of turning people into material.
+
 This film does not ask for admiration; it asks what remains of a person when every mask is stripped away, and then questions whether there was ever a single person there to begin with. It is not a puzzle to be solved but a fracture to be inhabited.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

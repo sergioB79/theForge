@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Ink Without Witness
 
+
+INFO:
+Reflects on manifestation journaling as a self-soothing ritual of private symbolic control.
+Examines how repetition, belief, and narrative rehearsal can reshape mood without demanding real presence.
+Argues the practice avoids accountable consequence, smuggling control fantasies as ethical or spiritual work.
+Ultimately situates the piece among Beautiful Comforts, not as a Forge-canonical, consequential rite.
+
 Manifestation journals are a private altar built from paper and hope. They can feel intimate and cleansing, and the act of writing can steady the mind. But this is not Forge-canonical material.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Velvet Contracts, Hollow Teeth
 
+
+INFO:
+Examines a blockbuster erotic romance that opened a mainstream gateway into stylized danger.
+Acknowledges its role as a cultural pressure valve for hunger, fantasy, and chosen-ness.
+Finds the prose driven by repeatable sensation instead of language that wounds and accumulates.
+Concludes its contracts and thresholds remain decorative, never forged into lasting symbolic architecture.
+
 It has cultural gravity, and it clearly found readers who wanted a sanctioned doorway into desire and danger—but it does not operate as Forge-canonical architecture.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Burnt Rubber, Hollow Oaths
 
+
+INFO:
+Action crime spectacle that shaped 2000s car culture yet leaves little lasting resonance.
+Examines loyalty, chosen family, and divided allegiance without truly challenging justice or power.
+Once its chrome and soundtrack fade, a conventional undercover cop template stands exposed.
+Entertaining artifact of its moment, but the Forge seeks enduring, essential imaginative work.
+
 This film stands as a clear artifact of its era: kinetically pleasing, culturally influential, and strangely sincere within its lane. But influence is not the same as endurance of truth, and speed is not the same as movement of the soul. For the Forge, we are not judging popularity or craft competence; we are judging whether anything essential remains once the chrome is stripped and the soundtrack falls silent.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

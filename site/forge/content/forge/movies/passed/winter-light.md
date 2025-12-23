@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Faith Ground Down To Bone
 
+
+INFO:
+A stark winter church becomes a laboratory for testing duty without sustaining belief.
+Ritual continues even as conviction erodes, exposing relationships stripped of piety or sentimentality.
+Every interaction probes whether care, honesty, or responsibility can survive the collapse of meaning.
+The film treats faith as fragile psychic scaffolding, not comforting doctrine or cinematic spectacle.
+
 In a bare church, under winter daylight that forgives nothing, this film strips belief, consolation, and human connection down to their unadorned mechanics. What remains is not comfort but a precise, almost clinical exposure of how we cling, fail, and persist when the transcendent falls silent.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

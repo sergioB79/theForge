@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Brass Noise, Paper Strength
 
+
+INFO:
+Exposes hustle culture as a noisy stand-in for genuine purpose or moral depth.
+Argues that self-worth tied to constant output collapses when external validation falls silent.
+Highlights ethical costs: neglect of body, relationships, and civic life, reframed as productive grit.
+Suggests true virtue requires meaning that persists in stillness, not just measurable motion.
+
 This is not Forge-canonical. It has heat, motion, and a certain rugged poetry—but when you stop feeding it attention, it does not stand on its own weight.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

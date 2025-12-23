@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Glass Moves on a Human Board
 
+
+INFO:
+Explores strategic reasoning as a clarifying lens on conflict, cooperation, and negotiation.
+Dissects elegant equilibria that demand fixed rules, payoffs, and narrowly modeled agents.
+Shows how formal games flatten moral stakes, inviting clever optimization over ethical imagination.
+Argues that mapped incentives cannot by themselves generate thicker worlds or richer human futures.
+
 Game theory stands close to the Forge but outside its inner ring: a powerful lens, an austere machine, yet too easily weaponized into an excuse for thin souls and shallow worlds.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

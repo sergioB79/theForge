@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Administration as Destiny
 
+
+INFO:
+A cold autopsy of modern governance that treats institutions, not leaders, as protagonists.
+Shows how power survives by changing costumes while preserving its managerial operating logic.
+Shifts attention from lofty ideals to incentives, procedures, and institutional self-preservation.
+Leaves readers with a durable suspicion of comfort narratives about expertise, rights, and security.
+
 The book does not ask to be admired; it asks to be looked at without comfort. It treats politics less as a stage of personalities and more as an operating system—one that keeps running even when the user believes they are choosing.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

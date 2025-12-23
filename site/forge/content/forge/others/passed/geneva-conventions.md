@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Ink That Bleeds Under Witness
 
+
+INFO:
+Explores the Geneva Conventions as a recurring vow imposed on organized violence itself.
+Frames restraint in war as a procedural architecture, attaching obligations to roles, not virtue.
+Examines how visible violations create a shared language of stain, record, and responsibility.
+Argues their power lies in reshaping perception so cruelty becomes breach, not business as usual.
+
 The Geneva Conventions are not moral decoration; they are a vow spoken over the body of war itself. They ask for restraint in the one place restraint is least convenient, and they do not pretend this comes without friction: they are routinely violated, selectively enforced, and sometimes used as theater. That weakness is not incidental—it is part of what makes their failure legible.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,12 @@ ARCHIVE: null
 
 SUBTITLE: Practicing the Day the Floor Disappears
 
+
+INFO:
+Explores disaster drills as civic rituals where abstract risk becomes shared, bodily obligation.
+Examines how rehearsed failure surfaces gaps between written policy, real stairwells, and human behavior.
+Argues that visible mistakes and public discomfort create collective memory stronger than optimistic assurances.
+
 Disaster drills belong to the hard edge of civic ritual: inconvenient, resented, sometimes theatrical, yet capable of cutting through denial for a moment of shared, bodily clarity. They demand time, attention, and the humiliation of interruption; they also sometimes calcify into empty choreography, or fail exactly where reality will hurt most.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

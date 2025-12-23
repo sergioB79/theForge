@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Ordinary Face of the Abyss
 
+
+INFO:
+A quietly annihilating portrait of obsession that makes closure feel more dangerous than uncertainty.
+Uses psychological precision instead of jump scares, turning everyday gestures into sources of mounting dread.
+Strips away thriller spectacle to expose a chilling ethical puzzle about knowledge and consent.
+Lingers long after viewing, forcing you to reconsider where safety and monstrosity actually reside.
+
 There is a peculiar chill in a work that refuses both comfort and spectacle, that asks not if evil exists but how far an ordinary mind can follow it, and what love becomes when confronted with an answer it never wanted. This film sits in that cold room, patient and unblinking, and invites you there without raising its voice.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

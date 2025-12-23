@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The sick man who stared too long at power until it stared back through him
 
+
+INFO:
+Witness of empire and ideology whose body collapsed under relentless, unsparing attention to power
+Rejects sainthood; exposes how even the virtuous hunger for control, certainty, and narrative dominance
+Reveals language as a weaponized technology, manufacturing fog while pretending to offer moral clarity
+Leaves readers permanently altered; once mechanisms are visible, every slogan and camera reads differently
+
 The figure you are meeting here is not a saint of clarity but a body failing under the weight of what it insists on seeing. Approach him not as a mascot for “truth” or “freedom,” but as someone who traded personal ease, health, and belonging to bear witness—and who could never again un-know what he had seen.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

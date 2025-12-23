@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Blood On The Gears Of Order
 
+
+INFO:
+A cold, lucid dissection of power that withholds comfort and refuses easy condemnation.
+Prose works like surgical tools, stripping away ornament until only consequence and necessity remain.
+Historical examples are sacrificed as experiments, testing whether principles survive real blood and risk.
+Reading reconfigures your moral reflexes; politics becomes visible as deliberate design, not accidental drift.
+
 The Prince belongs here because it refuses to console. It speaks from within the machinery of power with a clarity that strips away both piety and despair, leaving the reader alone with consequence. It is not a manual to imitate but a mirror that will not soften your outline.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

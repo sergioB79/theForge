@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Corrosion of Sense in an Engineered World
 
+
+INFO:
+A clinical, slow-burning immersion in psychic erosion amid steel, fog, and chemical color.
+Tracks how industrial landscapes rewire perception, turning ordinary gestures into survival strategies.
+Refuses catharsis; instead, it sharpens your awareness of normalized disconnection and ambient dread.
+Essential Forge text for thinking about progress as a pressure on bodies, not just economies.
+
 This film walks as slowly as rust, but it cuts as deeply as poison in the bloodstream. It is not here to charm; it is here to show what happens when the human nervous system is forced to live inside an industrial dream that has no place for a soul. Twenty years from now, the machines will look quaint, but the dissonance between landscape and inner life will still feel uncomfortably current. The Forge keeps it because, when the colors and the fog clear, what remains is a rigorous study of how perception, environment, and desire deform and re-form each other.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

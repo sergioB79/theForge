@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Masks That Grow Into Skin
 
+
+INFO:
+A book that calmly razes your sense of natural behavior, then surveys the ruins.
+Shows how greetings, apologies, and small talk become deliberate tools for managing others perceptions.
+Its theatrical lens makes every hallway conversation feel like a stage with hidden rigging.
+Leaves you carrying an unresolved question about sincerity and responsibility into every interaction afterward.
+
 This is a quiet, merciless book: no spectacle, no sentiment, only the slow dismantling of how you think you appear to others and how you think they appear to you. It does not need to shout to rearrange you; it simply insists, page by page, that your ordinary life is a constructed performance, and then refuses to look away when that knowledge starts to burn.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

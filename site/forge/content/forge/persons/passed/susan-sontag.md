@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A mind that made art her battlefield and herself the first casualty
 
+
+INFO:
+Profile of Sontag as intellectual combatant, where criticism becomes both sword and self-harm.
+Follows her essays as they collide aesthetics with ethics, never letting beauty stay innocent.
+Tracks her public reversals as a living record of thought wounding and revising itself.
+For readers drawn to criticism as dangerous tool, not neutral commentary or safe admiration.
+
 She enters not as a monument of taste, but as a fracture line in how we see, feel, and justify our seeing and feeling. Approach her not as a guide but as a dangerous instrument: sharp enough to open your vision, careless enough to cut through the hand that wields it.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Reassurance in a Maze
 
+
+INFO:
+A workplace parable distilled to a motivational slogan, not a form-testing literary artifact.
+Uses a tidy maze-and-cheese metaphor that soothes change anxiety without truly complicating it.
+Treats adaptation as unquestioned virtue, skimming past power, coercion, and structurally unjust conditions.
+Its symbol works as mnemonic rather than wound; rereading adds recall, not interpretive pressure.
+
 It has helped people name a fear and take a step; that matters. But the Forge is not a place for usefulness alone—only for work whose language, structure, and pressure-tested ideas leave an irreversible mark.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

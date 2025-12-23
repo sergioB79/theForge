@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Time-Loops of Guilt & Unchosen Sacrifice
 
+
+INFO:
+A suburban apocalypse story that uses time travel as an ethical thought experiment.
+Tracks how a teen discovers that seeing causal patterns cancels your claim to innocence.
+Offers a rare ending where sacrifice is stripped of martyrdom and played as obligation.
+Best for viewers who want metaphysics to clarify guilt, not to escape it.
+
 This film walks like a cult object but behaves like a parable, using the debris of suburbia and teen alienation to stage a quieter inquiry into responsibility, fate, and the cost of coherence. Stripped of its iconography and era-specific aesthetic, it still plays as a moral thought experiment disguised as adolescent breakdown.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Velocity Without Transformation
 
+
+INFO:
+A rigorously engineered anxiety spiral that mistakes unbroken velocity for genuine narrative development.
+Its world is vivid and morally abrasive, yet remains descriptive rather than truly interrogative.
+When the adrenaline fades, what lingers is sensation and mood, not a reshaped inner framework.
+Powerful as an experience, but too structurally and ethically thin to anchor Forge-level consideration.
+
 This film has craft, nerve, and a controlled sense of descent—but Forge-canonical work must leave a moral or psychological structure behind once the adrenaline is removed. *Good Time* leaves an afterimage, not an architecture.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

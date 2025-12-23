@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Bright Circles, Hollow Centers
 
+
+INFO:
+Analyzes influencer giveaway loops as optimization machines where attention circulates without lasting consequence.
+Contrasts apparent communal ritual with underlying incentive choreography lacking genuine shared center or commitment.
+Argues these loops fail Forge criteria by structuring circulation, not transformation or enduring relational change.
+Highlights ethical shortfalls where participants become interchangeable metrics, reducing presence to exploitable attention.
+
 Influencer giveaway loops belong to the age of quantified attention: intricate, optimized, and not without a certain brutal elegance. But the Forge is for structures that bind presence to consequence, and here the stakes dissolve the moment the metric is captured. What looks like collective ritual is, on contact, revealed as a choreography of incentives with no shared center of gravity.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

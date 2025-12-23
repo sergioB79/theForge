@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Time Offered to Nobody
 
+
+INFO:
+Examines mandatory, recurring meetings as coercive organizational theater rather than meaningful shared practice.
+Argues these meetings capture bodies and time while generating mostly exhaust and diluted signal.
+Contrasts genuine ritual, which sharpens vows and consequences, with schedules enforcing empty performance.
+Concludes such meetings train self-erasure and risk-avoidance, disqualifying them as Forge-canonical material.
+
 Mandatory endless meetings are real, and their gravity is not imagined—but what they generate is mostly exhaust. They can scar attention, flatten initiative, and teach people to survive by withholding themselves. Still, this is not Forge-canonical material.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

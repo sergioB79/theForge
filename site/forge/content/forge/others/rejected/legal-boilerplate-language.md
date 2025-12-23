@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Parchment Shields Against Real Fire
 
+
+INFO:
+Explores how standardized legal text operates as insulation rather than transformative ritual language.
+Examines contracts written where power, risk, liability, and institutional self-protection intersect everyday experience.
+Argues that boilerplate relies on inattentive consent, functioning even when unread or uncomprehended.
+Highlights ethical asymmetries, where dense phrasing shifts burdens without fostering mutual understanding or reflection.
+
 Legal boilerplate sits at the perimeter of consequence but rarely enters the room. It is produced in the shadow of courts and conflict, but most lives touch it only as a blur of text to be accepted, not a rite to be endured. The Forge recognizes the gravity behind the words, yet the language itself is mostly insulation: designed to prevent change in behavior, not awaken it.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

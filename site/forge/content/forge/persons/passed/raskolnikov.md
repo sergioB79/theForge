@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A mind that tried to become law, then learned what blood refuses to forget
 
+
+INFO:
+A poverty-stricken student attempts to float above morality, then crashes through it.
+His crime is less the murder itself than the conviction he might transcend consequence.
+We follow the disintegration of a theory as it collides with an unerasable human conscience.
+The Forge keeps him as witness that intellect cannot annul blood, guilt, or shared humanity.
+
 He enters without fanfare: not as an emblem of genius or a specimen of crime, but as a pressure test for the human voice when it attempts to outtalk the human soul. The Forge keeps him because his inner argument does not remain inner. It becomes action. It becomes damage. And then it becomes a life that cannot return to its former shape.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

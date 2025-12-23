@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Conscience Against the Grain of History
 
+
+INFO:
+A study of quiet resistance where moral integrity outlasts the roar of empire.
+Explores how unseen fidelity and private conscience collide with communal myths and expectations.
+Refuses easy martyrdom, lingering instead on doubt, loneliness, and relational fracture under authoritarian pressure.
+Endures beyond its historical setting by exposing perennial temptations toward complicity and crowd-sanctioned judgment.
+
 This film enters the Forge quietly, without triumph, by insisting that an unseen act of fidelity can outweigh the machinery of an empire. It does not argue; it endures, and in that duration it asks what remains of a person when every visible support is stripped away.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

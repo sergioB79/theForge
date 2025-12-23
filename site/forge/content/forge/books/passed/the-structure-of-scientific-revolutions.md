@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Paradigms Shattering in a Locked Laboratory
 
+
+INFO:
+Examines scientific progress as disruptive paradigm shifts instead of a calm, cumulative march forward.
+Reveals how scientific communities enforce shared worldviews, blinding practitioners to destabilizing anomalies.
+Shows crises and revolutions as psychological and social upheavals, not purely logical corrections.
+Quiet, methodical prose dismantles the comforting myth of timeless, objective, observer-independent scientific truth.
+
 Kuhn’s book is an unassuming detonator: brief, methodical, and quietly ruthless in how it alters the frame through which “knowledge” is seen. It does not flatter the reader as rational spectator; it indicts us as participants in the very blindness it describes.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

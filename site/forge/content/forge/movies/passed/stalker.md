@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Pilgrimage Through the Ruins of Desire
 
+
+INFO:
+A desolate landscape becomes a laboratory for testing desire, faith, and intellectual honesty.
+Dialogue, silence, and decaying architecture all conspire to strip characters of comforting illusions.
+Instead of answers, the film offers procedures for confronting uncertainty without collapsing into despair.
+For Forge readers, it is both an artwork and a severe, enduring philosophical instrument.
+
 There are works that do not entertain so much as they erode certainties. Tarkovsky’s *Stalker* is one of them: a slow corrosion of motives, belief, and self-knowledge carried out in long takes and silence. It is not here to please; it is here to expose what moves us when all ornament has been stripped away.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

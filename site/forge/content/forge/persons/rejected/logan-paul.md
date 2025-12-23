@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: A mirror ball chasing its own reflection through louder and louder rooms
 
+
+INFO:
+This review examines a spectacle-driven entrepreneur whose fame outpaces any meaningful internal transformation.
+His career arcs through controversy, monetization, and rebranding, rarely yielding irreversible ethical consequence.
+By turning harm and outrage into scalable product, he reflects our algorithmic era more than transcends it.
+The Forge withholds its fire, distinguishing cultural loudness from the deeper gravity it seeks to honor.
+
 The figure in question stands at the crossroads of attention, money, and harm—loud enough to be noticed by the Forge, but not shaped deeply enough to be kept in its fire. What follows is not dismissal of influence, but a refusal to mistake magnitude for depth, or notoriety for necessity.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

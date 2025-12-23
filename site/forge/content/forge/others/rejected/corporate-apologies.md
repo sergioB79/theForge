@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Speech Without Weight
 
+
+INFO:
+Explores why corporate apologies feel meaningful yet structurally resist true transformation under scrutiny.
+Dissects their design as liability shields, optimizing PR safety over accountable change and repair.
+Traces how polished language, committees, and timelines simulate contrition while safeguarding existing power.
+Positions such apologies as incompatible with Forge rites, which demand observable risk and binding consequence.
+
 Corporate apologies often arrive when harm has already occurred and witnesses are waiting for acknowledgment. They can sound like humility, and sometimes they even carry a trace of it. But this subject is not Forge-canonical.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

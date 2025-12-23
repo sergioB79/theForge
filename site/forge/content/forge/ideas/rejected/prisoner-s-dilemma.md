@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Choices in a Vacuum, Blood in the World
 
+
+INFO:
+Examines the classic two-prisoner scenario as an elegant but over-abstract strategic model.
+Argues that fixed payoffs and sealed contexts collapse once history and power enter play.
+Critiques its ethical framing of trust as risky calculation, sidelining duty, repair, and character.
+Questions its cultural status as a master key for cooperation, calling it a narrow, seductive symbol.
+
 This stands outside the Forge: elegant, powerful in its domain, but too thinned by abstraction to carry the full weight of lived reality.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

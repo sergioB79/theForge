@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Mirrors That Never Touch the World
 
+
+INFO:
+Explores self-referential improvement cycles that polish procedures without reliably transforming behavior or world.
+Argues these loops mimic rigor yet drift into recurrence without thresholds, rites, or genuine stakes.
+Highlights ethical slippage where effort masquerades as evidence, and missing outcomes are reframed as progress.
+Situates the topic with prior concerns about metric worship, simulation layers, and invisible, deniable failure modes.
+
 Optimization-for-optimization loops carry a familiar heat: the promise that refinement itself is virtue. But the Forge does not canonize motion that cannot bear weight, and this subject too often turns inward until presence is replaced by metrics about metrics.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: A name without a wound, a silhouette waiting for consequence
 
+
+INFO:
+A surface-level everyman, useful as a vessel but lacking decisive, irreversible structure.
+Carries implied ethics of honesty without a single binding choice to test them.
+Operates as placeholder identity: strong image, weak architecture, no locked sequence of consequence.
+Ultimately an outline archived for reference, not a forged person to stand as warning.
+
 This record is not Forge-canonical. “Frank” arrives as a surface—recognizable, usable, and empty enough to accept projection—but the Forge does not burn projections. It burns structure.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

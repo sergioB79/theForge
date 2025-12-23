@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Second Life as a First Damnation
 
+
+INFO:
+Dissects the fantasy of beginning again, revealing reinvention as a contract with hidden clauses.
+Interrogates how dissatisfaction becomes a purchasable product and identity is streamlined for consumption.
+Unsettles by showing institutions selling curated cages as premium versions of personal freedom.
+Leaves the viewer questioning where consent ends and self-erasure quietly signs the paperwork.
+
 The Forge keeps films that don’t merely warn, but expose the mechanism of the wanting. *Seconds* is built like an autopsy performed on a wish. Remove the era, the style, even the thriller skin—what remains is a durable structure about identity, consent, and the violence hidden inside “starting over.”
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

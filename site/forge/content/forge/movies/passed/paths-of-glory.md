@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Geometry of Power, Arithmetic of the Dead
 
+
+INFO:
+A stark examination of institutional self-preservation masquerading as duty, honor, and military necessity.
+Uses the battlefield and courtroom to reveal how procedure launders cruelty into administrative normalcy.
+Characters function as interchangeable roles in a hierarchy, mapping power geometry more than personal psychology.
+Endures beyond its era by exposing how systems manufacture guilt to maintain the illusion of infallibility.
+
 The film is not here to console you with heroism or punish you with spectacle. It stands like a cold instrument on the table: simple, sharp, and indifferent to your preferences. What it offers is not “anti-war” sentiment, but an anatomy of how institutions convert human life into a rounding error—and how conscience behaves when it is no longer rewarded.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

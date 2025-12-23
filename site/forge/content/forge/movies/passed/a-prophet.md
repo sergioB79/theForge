@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Power Carved From the Inside Out
 
+
+INFO:
+An unflinching prison narrative where survival, complicity, and self-authorship fuse under relentless constraint.
+Tracks how favors, language, and ritual harden into identity within a weaponized social hierarchy.
+Refuses genre comfort, instead dissecting power as lived psychology rather than stylized underworld spectacle.
+Endures beyond topical detail as a blueprint of agency emerging inside structures built to crush it.
+
 This work enters the Forge not as a genre triumph but as a slow, harsh document of how a human soul is reshaped under pressure. It does not ask us to admire its brutality or mythologize its rise; it forces us to witness how power, identity, and conscience solder themselves together in a closed system that reflects our own.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

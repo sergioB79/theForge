@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Economist of hard edges, polishing certainty into policy
 
+
+INFO:
+Assessed here as a shaper of rhetoric and justification, not a forged self.
+His signature rigor about tradeoffs and constraints redirects suffering into arguments for restraint.
+The persona of hard-nosed empiricist resists narrative fracture, arriving armored rather than endangered.
+Influence accumulates, but the life does not register irreversible inner damage as visible structure.
+
 This entry is not Forge-canonical. It can be studied with seriousness, but it does not survive the Forge’s requirement of irreversible consequence as structure rather than influence.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

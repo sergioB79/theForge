@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Heat Without Hearth
 
+
+INFO:
+Examines outrage-driven feeds as behavioral machinery rather than a shared formative practice.
+Argues they weaponize attention without demanding presence, thresholds, or mutual recognition.
+Shows how cycles of indignation mimic ritual while evacuating responsibility and grounded context.
+Contrasts real psychic wounds with the systems refusal to convene accountable, co-present communities.
+
 This stands at the edge of the Forge like a storm drain, roaring and emptying, but never quite becoming a place. It disciplines attention, yes, but the discipline is outsourced to code and capital, not to any shared rite or chosen trial. Its wounds are real, but they scatter rather than convene.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

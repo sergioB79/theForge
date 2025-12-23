@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A mind that chose to break rather than look away.
 
+
+INFO:
+A portrait of Simone Weil as a dangerous ally: luminous conscience, catastrophic for herself.
+Tracks how her ferocious attention to affliction exposes cruelty hidden inside our noblest ideals.
+Explores a mind that treated comfort as complicity and purity as a lethal experiment.
+For readers willing to touch a live wire and question whether goodness should ever cost this much.
+
 Weil belongs here because she refused every soft landing. She did not merely think against her time; she aimed her thought back at herself until it became wound, sacrifice, and sometimes cruelty. The point is not to follow her, but to see what happens when conscience is given almost absolute authority over a human life.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

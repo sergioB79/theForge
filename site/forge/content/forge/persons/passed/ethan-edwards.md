@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A man who searches for others and finds only the borders inside himself.
 
+
+INFO:
+A scarred drifter whose loyalty and hatred are carved from the same stone.
+He circles family like a ghost at the threshold, guardian and threat in one.
+Every decision feels justified until its cost etches itself into other lives.
+His survival is not triumph but a lingering curse the frontier cannot absolve.
+
 We take him not as a hero on horseback, but as a moving wound: an exile who circles a home he can neither enter nor abandon, a man whose hate is as methodical as his devotion, whose competence is indistinguishable from his curse. Look at him as a human fault-line, not a Western icon.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

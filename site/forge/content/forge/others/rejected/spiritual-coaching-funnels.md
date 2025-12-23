@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Algorithms of Awakening Sold by the Lead
 
+
+INFO:
+A sales engine dressed in ritual language, built to optimize clicks rather than conversions of soul.
+What appears as a path of initiation resolves into segmented lists, nurture sequences, and upsell ladders.
+Whatever transformations occur are incidental, not structurally required; the machine keeps running without them.
+The Forge asks for architectures of consequence, not simulations of pilgrimage tuned for revenue.
+
 The subject stands near real transformation but lives mostly in its reflection. This review does not doubt the hunger that drives people into these systems, nor the sincerity of some who build them. But the Forge is not a marketplace of intensities; it is a test of whether a structure can bear the weight of consequence without collapsing into theater.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

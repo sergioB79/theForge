@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Quiet Weight of Unmoved Things
 
+
+INFO:
+A discipline for change-makers who feel the itch to remove inherited constraints.
+Insists you earn each demolition by tracing the hidden purposes behind present structures.
+Sharpens your sense of asymmetric risk: damage from ignorance can dwarf benefits from speed.
+Useful anywhere you redesign systems, from personal habits to laws, software, and institutions.
+
 To stand before a fence and stay your hand is not obedience to the past; it is acknowledgment that causes precede opinions, and that ignorance is most dangerous when it feels like progress.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

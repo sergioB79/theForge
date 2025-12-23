@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Empty Chants Before an Unmoved Door
 
+
+INFO:
+Examines diversity workshops that mimic transformation while carefully avoiding structural or personal risk.
+Contrasts symbolic performances of inclusion with the Forge demand for accountable, consequential change.
+Argues that time-boxed sharing and canned curricula protect institutions more than marginalized people.
+Highlights ethical harm when vulnerability is mined for catharsis without binding commitments or follow-through.
+
 These workshops stand at the edge of rite and refuse to cross. They borrow the language of repair and reckoning, but most are built to pass time, dilute discomfort, and certify virtue without altering the ground beneath anyone’s feet. The Forge demands structures whose failures are owned in public and whose consequences cannot be side-stepped; performative DEI workshops are designed precisely so that nothing essential has to change.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

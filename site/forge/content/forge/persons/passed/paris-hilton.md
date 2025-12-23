@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Branded innocence welded into an industry mirror
 
+
+INFO:
+Examines a media heiress whose public life became a blueprint for monetized attention.
+Tracks how her branded innocence industrialized visibility, turning humiliation and desire into work.
+Interrogates the cost of becoming surface: a self repackaged as endlessly recyclable glamour.
+Reads her career as both a wound and a warning in the age of performative identity.
+
 The Forge does not admit icons for their shine; it admits those who become machinery—who learn, too late, what their image costs, and what it buys for everyone else.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

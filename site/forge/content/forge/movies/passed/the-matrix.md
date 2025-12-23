@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Waking Inside the Machine of Belief
 
+
+INFO:
+A cyberpunk parable about consent to reality, responsibility, and the burden of awakening.
+Uses its simulated world to interrogate belief, complicity, and the stories institutions tell you.
+Still works when stripped of turn-of-the-millennium aesthetics; the symbolic architecture remains rigorous.
+Ideal for readers interested in philosophical science fiction that outlives its special effects moment.
+
 The Matrix enters the Forge not as a nostalgia piece or a style relic, but as an argument about reality, agency, and the cost of waking up. Stripped of leather, slow-motion, and industrial drums, a bare skeleton remains: a serious inquiry into what it means to consent to reality and to be responsible for what you now know. That structure holds, even when fashion and effects decay.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

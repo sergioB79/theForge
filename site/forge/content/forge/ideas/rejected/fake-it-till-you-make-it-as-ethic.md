@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Borrowed Skin, Hollow Spine
 
+
+INFO:
+Interrogates the popular mantra that performing competence will somehow crystallize into being.
+Distinguishes between short-term behavioral scaffolding and a durable, load-bearing account of self-making.
+Argues the slogan collapses without clear standards for what is faked, for whom, and why.
+Highlights ethical risks: rewarding surface over substance, enabling deception, and exploiting others trust.
+
 This idea is not without use, and it is not without a certain rough charm. But the Forge is not a place for charms. It is a place for load-bearing truths, the kind that do not require an audience to stay intact.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

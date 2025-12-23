@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Gloss Over the Wound
 
+
+INFO:
+Engages real anxieties about judgment, memory, and the permanence of digital records.
+Promises relief through tactical opacity rather than the slow labor of altered conduct.
+Outsources contrition into a purchasable service, decoupling visible redemption from inner change.
+Transforms accountability into perception management, rewarding resources instead of genuine repentance.
+
 This subject operates in the same territory as consequence, but it does not meet consequence with presence. It offers relief through maneuver, not a rite that changes the one who enters it, and its costs are designed to be paid in money and opacity rather than in transformed conduct.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

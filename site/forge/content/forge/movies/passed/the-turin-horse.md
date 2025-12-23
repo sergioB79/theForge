@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Wind Over an Unwilling World
 
+
+INFO:
+Metaphysical slow cinema where the apocalypse is not event but erosion of meaning.
+Follows a father and daughter grinding through dwindling routines as the world withdraws.
+Fixates on repetition, refusal, and the ethics of doing nothing as everything unravels.
+For viewers interested in cinema as existential laboratory rather than plot-driven entertainment.
+
 This film does not invite you; it endures beside you. It strips away ornament, language, and even narrative comfort until what remains is the bare machinery of existence turning against itself. In that slow abrasion, it asks whether anything—habit, love, will, God—can stand once the world quietly retracts its consent to go on.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

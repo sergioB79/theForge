@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: The Throne Built From Bare Hands
 
+
+INFO:
+Examines the seduction of treating power as justification rather than mere description.
+Shows how collapsing can into ought turns leverage into a moral permission structure.
+Argues that glorifying domination erases duty, reciprocity, and the costs of authority.
+Rejects coercion realism as a foundation for any world worth inhabiting or defending.
+
 This idea is not Forge-canonical. It has the hard shine of inevitability, and it often arrives wearing the mask of realism. But realism that refuses responsibility is only a shortcut dressed as clarity.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

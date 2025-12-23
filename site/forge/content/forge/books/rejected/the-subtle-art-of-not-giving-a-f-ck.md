@@ -9,6 +9,13 @@ ARCHIVE: Beautiful Comforts
 
 SUBTITLE: Detachment as Decoration
 
+
+INFO:
+Interrogates attention as a scarce resource, but rarely converts insight into inner architecture.
+Blunt tone punctures performative positivity while leaving deeper questions of duty largely untouched.
+Offers posture and relief from social anxiety more than transformational pressure or ethical reckoning.
+Symbol of not caring operates as a vibe, collapsing toward curated, aesthetically managed indifference.
+
 This book may steady a reader who is drowning in noise, but steadiness alone is not Forge-canonical. It aims for relief, not reckoning; it offers posture where the Forge demands pressure.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

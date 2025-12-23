@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Logician who cracked the world’s lock and was broken by its door
 
+
+INFO:
+Turing turns thinking into machinery, leaving history permanently altered and innocence impossible afterward.
+His abstractions shortened war and cracked secrecy, yet his name stayed buried in classified silence.
+The same state that relied on his mind criminalized his love and destroyed his body.
+Reading him here means facing a double scar: technological progress and moral failure fused together.
+
 The Forge admits him without celebration. Not as a saint of intellect, but as a structure: a mind that built an idea large enough to outlive him, and a body made to pay for it. Read him with steady hands. The heat here is not genius—it is consequence.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

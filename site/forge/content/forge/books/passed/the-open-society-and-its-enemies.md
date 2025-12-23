@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Blueprints Drawn Against the Temptation of Certainty
 
+
+INFO:
+Popper writes like someone defusing a bomb with blueprints spread across the table.
+He tracks how grand designs for justice quietly authorize cruelty against the inconvenient individual.
+Each chapter drills into the mental reflexes that turn good intentions into obedient certainties.
+Reading it leaves you suspicious of every comforting historical narrative, including your own.
+
 This is a book written as if history could still be turned, as if argument were a form of emergency architecture. It speaks in the plain daylight of reason, but it is not safe; it takes aim at the most seductive comfort humans know: the wish to be relieved of responsibility by a closed design for the world.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

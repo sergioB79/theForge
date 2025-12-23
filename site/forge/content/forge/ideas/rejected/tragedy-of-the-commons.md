@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: When the pasture is simple and the world is not
 
+
+INFO:
+Examines how a famous parable about shared resources became policy dogma and common sense.
+Shows that real-world commons are usually governed, negotiated, and resilient, not ownerless free-for-alls.
+Argues that the model smuggles in individualist, engineered assumptions that rarely match lived collective arrangements.
+Clarifies why this influential story misleads Forge-style thinking about coordination, institutions, and shared responsibility.
+
 This is a hard, influential idea, but not Forge-canonical. It has shaped policy, slogans, and fears, yet its frame is too engineered, too clean, and too often dissolves when it meets the mess of real commons that people actually live inside and maintain.
 
 ❌ WHY THIS IDEA DOES NOT BELONG IN THE FORGE

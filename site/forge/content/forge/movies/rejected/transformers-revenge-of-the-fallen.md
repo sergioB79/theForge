@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Noise as a Substitute for Meaning
 
+
+INFO:
+A maximalist sequel where explosions, metal, and quips drown any chance for resonance.
+Mythic language and ancient prophecies appear, yet never crystallize into a meaningful argument.
+Set-pieces pile up without moral or psychological progression, confusing escalation for structure.
+Emotion is wielded as a blunt instrument, not earned through character, consequence, or choice.
+
 This film is not Forge-canonical. Whatever craft exists here is deployed toward saturation rather than revelation, and what remains after the volume is removed is not a structure—only an impulse.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Grief Offered a Home
 
+
+INFO:
+Ari Aster relocates grief to daylight, exposing how loss becomes architecture, not atmosphere.
+The village does not seduce with mystery, but with radical availability and structured attention.
+Rituals here are less superstition than psychological infrastructure, converting abandonment into choreographed belonging.
+The film interrogates when care becomes capture, and when feeling understood outweighs recognizing danger.
+
 It does not ask to be “enjoyed.” It asks to be watched with your defenses lowered and your justifications turned off. The film’s real subject is not spectacle, but the human hunger to have pain witnessed—and the danger of finding a community willing to do it at any price.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

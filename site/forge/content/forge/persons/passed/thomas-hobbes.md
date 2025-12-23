@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The frightened child who forged a world of iron to keep the wolves inside our skin at bay
 
+
+INFO:
+A portrait of a thinker who strips politics down to fear, motion, and survival.
+Explores how a mechanistic universe and dread of death justify absolute sovereign power.
+Tests whether any ethics remain once we admit we are calculating, mortal animals first.
+Interrogates the modern state as organized terror we half‑know we already accepted.
+
 Hobbes belongs here because he does not improve us; he disillusions us. He stands at the doorway between medieval assurances and modern dread, insisting that beneath our laws and rituals lies a naked animal with a sharp memory and a long reach. He is less a teacher than a pressure test: what remains of your ethics when fear, appetite, and mortality are taken as the only reliable constants?
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

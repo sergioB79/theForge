@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Godhood in the Mud
 
+
+INFO:
+A three-hour plunge into a medieval cesspit where moral clarity dissolves on contact.
+Uses its diseased world as a pressure chamber for intervention, detachment, and failed enlightenment.
+Ethics appear not as principles but as collisions of pity, revulsion, and authoritarian temptation.
+Leaves you with fewer consoling myths about progress, intelligence, or benevolent superiority.
+
 In this work, transcendence is dragged face-first through filth until the idea of “being above” anyone or anything is stripped bare. There is no safe distance, no clean observer; to watch it honestly is to be implicated in the experiment of power and mercy.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

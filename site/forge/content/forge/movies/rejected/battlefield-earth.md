@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Neon Ruins on a Cardboard Planet
 
+
+INFO:
+A reconsideration of Battlefield Earth, separating its infamous reputation from its narrative skeleton.
+Examines whether the film, deprived of camp and noise, retains any meaningful architecture.
+Focuses on structural thinness, shallow worldbuilding, and unfulfilled allegorical ambitions about domination.
+Concludes its gestures toward dehumanization and resistance lack the complexity the Forge demands.
+
 This judgment concerns a film that has already drawn ridicule and fascination in equal measure; here, it is handled without mockery. The question is not whether it entertains, but whether, when stripped of its noise and excess, it leaves behind a structure deserving of the Forge.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

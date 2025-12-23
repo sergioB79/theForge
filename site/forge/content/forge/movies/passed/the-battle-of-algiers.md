@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Masks, Machinery, and the Memory of Fire
 
+
+INFO:
+A brutal anatomy of occupation, insurgency, and the bureaucracies that manage both.
+Strips away heroic myth to expose how ordinary procedures harden into historical violence.
+Frames ethics as logistical problem, asking what happens once machinery of control starts.
+Shows how uniforms change, but the underlying architecture of repression and revolt persists.
+
 In this work, spectacle is stripped down to procedure, and procedure is stripped down to conscience. The film does not invite you to admire courage or condemn cruelty in comfort; it asks whether methods can ever be separated from the structures that require them, and whether liberation and domination begin to resemble each other once the machinery is set in motion.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

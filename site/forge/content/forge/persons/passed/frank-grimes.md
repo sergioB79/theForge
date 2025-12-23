@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A man of exposed wiring in a world built of rubber.
 
+
+INFO:
+Anxiety in human form, insisting the rules matter inside a world that shrugs.
+His diligent life becomes a control experiment proving effort cannot stabilize absurd conditions.
+Every breakdown he suffers is calibrated against a society that keeps functioning without noticing.
+Readers are forced to decide whether adapting to nonsense is resilience, complicity, or necessary self-delusion.
+
 In this file we are not laughing with him or at him; we are studying what happens when an ordinary demand for sense collides with a universe that runs on different rules. Frank Grimes is not a hero, not a martyr, and not an example to emulate. He is an instrument that measures the gap between effort and reward, responsibility and accident, sanity and adaptation. Enter at your own risk: he holds up a mirror to how much absurdity you are willing to swallow to stay functional.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

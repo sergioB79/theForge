@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Silver Algorithms over a Rusted World
 
+
+INFO:
+This review probes techno-salvation myths that treat AI as disembodied, costless providence.
+It questions narratives that displace responsibility onto imagined future systems instead of present bodies.
+Readers should expect critique of corporate comfort stories that soothe collapse anxiety without material accountability.
+Best suited for those examining spiritual subtexts in secular innovation culture and policy discourse.
+
 This sits at the edge of rite but never quite crosses over. “AI will save us” is a collective comfort story: it soothes anxiety about collapse by outsourcing agency to an abstract machine future. People repeat it in boardrooms, headlines, and conference keynotes, but its risks and failures rarely land on the speaker’s own body. The narrative moves crowds, yet it does not demand that anyone actually stay present with consequence. As it stands, it is signal without sufficient cost.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Hands, Chains, and the Invisible Geometry of Need
 
+
+INFO:
+A severe, methodical gaze on how everyday dependence crystallizes into markets and states.
+Read it as moral anatomy rather than policy guide; its heat is beneath the stone.
+Demands patience, rewarding close attention with a reconfigured sense of labor, value, obligation.
+Each plain example becomes a scalpel, revealing how abstraction rests on bodies, time, and wounds.
+
 This is a cold book with a hot core. Approach it not as an economics manual but as an x‑ray of how human dependency organizes itself into markets, states, and moral orders. Its sentences are stone-walled and patient; you must lean into them until they start to hum. The reward is not technique but a reconfiguration of how you see labor, value, and obligation.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

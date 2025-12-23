@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Whaler who turned a wound into a compass
 
+
+INFO:
+Ahab is held here not as mythic hero, but as structural malfunction in motion.
+His wound is not healed or mourned; it is crowned, given jurisdiction over everything.
+Meaning becomes something he prosecutes, a trial where the universe must confess on command.
+The crew exists as collateral evidence, conscripted to prove that his misreading was destiny.
+
 He enters without ceremony: not as legend, but as a human mechanism that converts pain into mandate. The Forge holds him because his choices are not decorative—they are binding, and they bind others.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Hedge-fund son turned price-setter in a world that pretends it has none
 
+
+INFO:
+Profile of a finance-trained drug entrepreneur whose most famous act exposed system-wide incentives.
+Focuses on how legal structures, not just personal vice, enabled profit from patient suffering.
+Examines his smirking public persona as a forced mirror for market-era moral discomfort.
+Positions him less as aberration and more as emblem of healthcare priced like any commodity.
+
 He enters without myth and without martyrdom: a person small enough to be real, and consequential enough to bruise an entire system. The Forge does not ask whether he is brilliant or vile; it asks what his shape reveals when heat removes the alibis.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

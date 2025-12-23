@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The clerk who opened a vein in power and wrote with the blood that came out
 
+
+INFO:
+A minor Florentine official whose layoff project became the X-ray of political power.
+He treats justice, loyalty, and mercy as instruments, not absolutes, terrifying readers who wanted comfort.
+His books outlive his offices, tutoring tyrants and republicans alike in unsentimental statecraft.
+Exiled, impoverished, and misunderstood, he watches his warning manual adopted as a how-to guide.
+
 Machiavelli belongs in the Forge because he traded the comfort of illusion for the cold anatomy of power, and once named that anatomy, it could never be unnamed.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

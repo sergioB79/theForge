@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Counterweight Against the Human Hand
 
+
+INFO:
+Explores institutional designs that assume human weakness instead of romanticizing civic virtue.
+Frames power as something to be constrained, not purified, through structured friction.
+Treats corruption, vanity, and coalition-building as normal inputs for durable governance machinery.
+Emphasizes distributed authority, mutual veto, and overlapping claims to legitimacy over simple hierarchy.
+
 Power is not purified by intention. It is shaped by containment. Checks and balances begins with a blunt admission: the same mind that can build a public good can also rationalize a private grab, and it will do both while feeling honorable.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

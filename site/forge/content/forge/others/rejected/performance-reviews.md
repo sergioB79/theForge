@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Mirrors That Answer to Payroll
 
+
+INFO:
+Examines performance reviews as staged confrontations where language, power, and identity collide.
+Argues these rituals often devolve into administrative theater rather than genuine transformative discipline.
+Highlights how power imbalances reward impression management, masking bias, favoritism, and unspoken political agendas.
+Concludes that without visible, enforceable consequences, the review ritual fails the Forges standard of discipline.
+
 Performance reviews are an old chamber in modern organizations: a scheduled confrontation with judgment, language, and power. They can bruise or clarify, and they often decide who eats, who advances, and who disappears. But the Forge does not take what merely matters; it takes what transforms through visible consequence and demanded presence.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Listener Devoured by What He Hears
 
+
+INFO:
+A spare, unnervingly intimate thriller about a surveillance expert undone by his own recordings.
+The film strips away techno-thrills to reveal listening as an inescapably moral, participatory act.
+As the protagonist edits sound, he also edits reality, revealing complicity in what he overhears.
+Decades later, its ethical architecture anticipates data-mining culture more clearly than most modern thrillers.
+
 There is a certain kind of film that does not simply tell a story about guilt, privacy, or paranoia, but quietly rearranges how you understand listening itself. Coppola’s *The Conversation* belongs to that narrow set. When stripped of 1970s style, surveillance tech fetish, and iconic performances, what remains is an austere moral mechanism: a man who thinks he can stand outside human consequence discovers that perception is always already participation.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

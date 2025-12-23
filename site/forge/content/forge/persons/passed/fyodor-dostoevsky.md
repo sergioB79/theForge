@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Convict of the soul, forever circling the trapdoor of grace
 
+
+INFO:
+Novelist of spiritual catastrophe, threading theology through crime, poverty, and flayed psychology.
+Endured mock execution, Siberian sentences, and epileptic visitations that fractured time and self.
+His novels stage interrogation rooms where belief, doubt, and delirium cross-examine one another.
+Reading him means accepting no revelation arrives pure, only sifted through desperation and ruin.
+
 To consider Dostoevsky is to sit in a cramped cell with the lights left on, knowing the guard might be God or madness or nothing at all. You do not come here to admire sentences or to cosplay suffering. You come because he built a chamber where belief and nihilism gnaw each other to the bone, and the door never quite shuts behind you.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

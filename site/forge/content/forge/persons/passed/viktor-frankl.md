@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Camp-survivor who built a theory where meaning is not mercy, but task
 
+
+INFO:
+Psychiatrist, survivor, and theorist who treated meaning as obligation rather than consolation.
+His experiments were not in laboratories but in camps that erased prior certainties.
+From that ruin he built a framework where responsibility outlives suffering and circumstance.
+He insists the last human stronghold is inner stance, not external security or success.
+
 He enters without ceremony: not as a saint of endurance, but as a mind forced to test its own claims under conditions that invalidate most claims. The Forge keeps him because his work is not comfort; it is a wager placed against despair, and the stake is the human interior.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

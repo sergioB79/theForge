@@ -9,6 +9,13 @@ ARCHIVE: Fragmented Signals
 
 SUBTITLE: Fever Without Witness
 
+
+INFO:
+Examines crypto booms as attention-weather, not a canonically transformative Forge ordeal.
+Shows how fortunes, reputations, and perceptions mutate under market pressure and collective delusion.
+Argues these cycles lack presence, responsibility, and binding symbolic structure required for real rites.
+Concludes crypto spectacle injures and reshapes people, yet rarely clarifies or commits them to repair.
+
 Crypto hype cycles look like ordeal from a distance: people gather, speak in omens, risk money, and emerge changed. But this is not Forge-canonical. It is a weather system of attention—loud, contagious, and rarely owned by anyone present enough to be accountable.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

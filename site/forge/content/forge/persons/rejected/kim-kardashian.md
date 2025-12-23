@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: A mirror built from algorithms, selling reflections as destiny
 
+
+INFO:
+A defining architect of influencer-era spectacle, she turns life events into serialized commerce.
+Her story refines formulas of attention, beauty, and scandal without ever shattering them.
+What looks like rupture becomes marketing copy; vulnerability is promptly packaged as lifestyle inventory.
+In the Forge, she reflects culture back to itself but never fundamentally reworks its machinery.
+
 Kim Kardashian stands at the edge of the Forge like a monument of light and surface—impossible to ignore, meticulously constructed, yet designed to disperse scrutiny rather than hold it. Her presence is historically notable and commercially undeniable, but here we are not building a Hall of Fame; we are testing for irreversible fractures in soul and structure. What she offers is a mastery of image, not a reckoning with it.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A palate sharpened into a blade, then turned inward
 
+
+INFO:
+Anton Ego wields taste like a weapon, mistaking sharpness for moral authority and safety.
+He inhabits a world where a single sentence can end futures without leaving fingerprints.
+His trial is contact with unguarded sincerity, which punctures the illusion of consequence-free judgment.
+What survives the Forge is not his power to condemn, but his capacity to be changed.
+
 A critic enters the Forge not because he is feared, but because his power is real: the power to name, to elevate, to erase. Anton Ego arrives as an instrument of judgment and leaves as a man who has discovered what judgment costs.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

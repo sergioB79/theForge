@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Bone-Clock in the Pocket
 
+
+INFO:
+A pocketable mortality practice that turns abstract finitude into a daily, tactile constraint.
+Refuses both nihilism and inspirational fluff, insisting that endings define proportion and priority.
+Designed to quietly recalibrate decisions, ambitions, and fears against a non-negotiable personal deadline.
+Best suited for builders who want seriousness without spectacle, and accountability without an audience.
+
 Mortality is not an aesthetic here. It is a load-bearing fact. *Memento mori* enters the Forge as a practice that refuses reassurance and refuses spectacle: a quiet instrument that makes time tactile and choices accountable.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

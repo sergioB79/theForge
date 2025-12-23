@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Ripples That Rewrite the Shore
 
+
+INFO:
+Explores how consequences of consequences quietly reshape systems, often long after initial decisions fade.
+Shows why intentions are insufficient in complex environments where feedback loops magnify subtle design choices.
+Invites readers to extend moral and strategic responsibility across time, beyond first-order visible impacts.
+Equips builders and leaders to anticipate counter-intuitive outcomes and architect interventions that remain robust.
+
 In quiet, this idea does not vanish; it waits. Second-order effects are what happens after what happens, the consequences of our consequences. They do not care about our intentions, only about the structures we set in motion and the feedback they awaken.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A man who stripped himself bare to prove the world was overdressed
 
+
+INFO:
+A stripped-down life used as a weapon against comfort, convention, and social camouflage.
+He invites you to imagine losing every safeguard and still insisting you are free.
+When shame finds no purchase, his nakedness becomes a mirror for everyone still clothed.
+Yet his deliberate exile raises whether truth without tenderness merely carves another prison.
+
 In the dim center of the arena stands a figure with nothing to lose because he has already thrown everything away. Not a hero, not a saint—an abrasion in human form, testing how little is needed to remain human at all. You do not come to him for comfort. You come to see what breaks when all the furniture of dignity is kicked out from under you.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

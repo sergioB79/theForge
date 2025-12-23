@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Descent Beneath the Sunburnt Skin
 
+
+INFO:
+A sunblasted spiral of masculinity, mateship, and booze where kindness erodes into captivity.
+Tracks a schoolteacher as his identity dissolves under relentless social pressure and ritual.
+Blurs line between hospitality and predation, forcing viewers to question where complicity begins.
+Psychological horror rooted less in jump scares than in slow, coerced self-annihilation.
+
 This film does not ask to be admired; it insists on being endured. It strips away landscape, masculinity, and civility until they are no longer genres or themes, but exposed nerves. What remains when the dust settles is not shock, but a hard, lingering recognition of how quickly a person can dissolve when the world around them demands a particular kind of surrender.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

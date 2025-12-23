@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: A man paid to look too closely, who finally sees what he cannot bear.
 
+
+INFO:
+A private eye whose job is seeing, until the final revelation blinds him.
+He thinks angles, leverage, and cleverness can manage corruption like any other inconvenience.
+Instead he finds a system where knowledge does not liberate, it only implicates.
+His survival marks him not as redeemed, but as a witness sentenced to remember.
+
 You already know men like this, or you think you do: the ones who think knowing the angle is the same as knowing the truth. Approach him not as a hero or a punchline, but as a specimen of a particular modern ruin: the professional observer who discovers that some systems are not meant to be solved, only survived.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Statistician of suffering who turned care into an indictment
 
+
+INFO:
+A woman remembered for tenderness, driven instead by rage at systematized waste.
+She weaponized arithmetic against complacency, turning death rates into irrefutable accusations.
+Her reforms insisted care be engineered, not improvised, stripping sentimentality of its alibi.
+The cost was solitude, chronic illness, and institutions that loved her data, not her.
+
 She enters without pageantry: not as a saint of lamps, but as a mind forced to look directly at preventable ruin and to keep looking after the first shock wears off. The Forge keeps her because she did not merely witness damage—she reorganized the conditions that produced it, and paid for the clarity with isolation, friction, and a life narrowed by consequence.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

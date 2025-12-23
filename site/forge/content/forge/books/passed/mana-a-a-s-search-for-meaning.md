@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Ashes, Choice, and the Unstealable Core
 
+
+INFO:
+Psychology memoir interrogating meaning under extremity, where comfort and future are stripped away.
+Blends harrowing witness with disciplined reflection, turning personal catastrophe into a testable framework.
+Language remains lean and unsentimental, denying aestheticized suffering and easy consolation throughout.
+Leaves a demanding, unerasable question about freedom, responsibility, and evasion in ordinary lives.
+
 It does not ask for your admiration. It asks whether anything in you is still free when comfort, identity, and future are removed.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

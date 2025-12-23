@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Manufactured havoc in a ring-shaped spotlight
 
+
+INFO:
+An experiment in weaponized visibility, not an example of character tempered by consequence.
+Here, harm circulates as monetizable content, never settling into regret, responsibility, or change.
+What looks like risk is actually a hedged algorithm, optimizing outrage instead of accepting loss.
+In the Forge, we examine what remains after spectacle; here, only the spectacle scales.
+
 He may be consequential in the marketplace of attention, but this record is not Forge-canonical; the Forge does not anoint relevance, it tests what remains when performance stops working.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

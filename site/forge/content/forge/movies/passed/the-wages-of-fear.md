@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Men, Trucks, and the Price of Motion
 
+
+INFO:
+An existential pressure cooker where economic exile turns ordinary men into expendable carriers of risk.
+Follows drivers hauling nitroglycerin through hostile terrain, bartering fear against the promise of escape.
+Brutal clarity on how capital, geography, and chance strip courage of romance and heroism.
+Endures as an anatomy of exploitation and motion, where staying still is its own death.
+
 This film belongs not because it thrills, but because it lays bare the machinery that turns desperation into fuel. It strips adventure of glamour and leaves us with work, risk, and the quiet arithmetic of a life that costs more to move than to keep still. There is no heroism without contamination here: only choices made under pressure, and the revelation that fear itself is a form of labor.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

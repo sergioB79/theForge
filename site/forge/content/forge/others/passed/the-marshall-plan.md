@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Breadlines into Blueprints
 
+
+INFO:
+Examines postwar European recovery as a discipline of daily cooperation, not a victory lap.
+Shows how food, fuel, and credit became tools for reshaping institutions and political expectations.
+Traces the uneasy bargain of aid as both lifeline and lever of influence and consent.
+Highlights failure modes where reconstruction falters visibly in prices, ballots, street protests, and cold homes.
+
 A policy can be a kind of vow when it binds bodies, budgets, and pride to a shared tomorrow. The Marshall Plan belongs here because it demanded presence—ports cleared, factories restarted, ledgers opened, coal hauled, and grudges negotiated in rooms where refusal had a cost. Its friction is not incidental: the same aid that fed recovery also exposed dependence, resentment, and the unequal power of the hand that gives.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -9,6 +9,12 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Laughter Without Ashes
 
+
+INFO:
+A broad commercial comedy built on star power and high-concept casting over narrative integrity.
+Hints of family reconciliation and self-acceptance never develop beyond shallow, consequence-free gestures.
+Relentless caricature and formulaic plotting leave nothing durable once the immediate jokes burn off.
+
 This film stands as a clear artifact of its era’s commercial comedy machinery: loud, confident, and built for fleeting amusement rather than durable insight. It may entertain, it may even linger as a cultural punchline, but it does not construct anything that can survive the heat of the Forge.
 
 ❌ WHY THIS FILM DOES NOT BELONG IN THE FORGE

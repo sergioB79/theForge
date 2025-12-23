@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Architect of a promised future who mortgaged centuries of flesh to pay for it
 
+
+INFO:
+Examines Marx as a tool that exposed capitalism's mechanisms without guaranteeing humane alternatives.
+Traces how his critique reshaped political gravity, even for those resisting his conclusions.
+Holds together his piercing economic insight and the catastrophic experiments done in his borrowed name.
+Warns that structural clarity, unmoored from ethics, can justify almost any historical wound.
+
 [Invocation]
 Consider him not as a prophet or a villain, but as a precision instrument turned loose on history: a mind that dissected power so ruthlessly that the incision never closed. Stand here knowing both that he saw something true and that what followed from that sight cut deeper than he ever held in his hands.
 

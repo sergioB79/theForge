@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Near Hands, Far Horizons
 
+
+INFO:
+Explores how power should be located where consequences are most directly experienced.
+Frames subsidiarity as an architecture of authority, not a slogan about government size.
+Shows how misplacing decisions creates moral debt, dependency, and fragile large-scale systems.
+Offers a practical test for when higher authorities should intervene and when they should abstain.
+
 Subsidiarity is not a slogan about “small government.” It is a rule for where responsibility is allowed to live. It asks, without sentiment: who is close enough to the consequences to be trusted with the choice?
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

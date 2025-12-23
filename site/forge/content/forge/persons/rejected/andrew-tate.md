@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: A salesman of domination who mistakes attention for inevitability
 
+
+INFO:
+Profile of a monetized persona whose influence rides algorithms, controversy, and grievance-fueled aspiration.
+Interrogates why his spectacle-rich brand feels significant yet resists meaningful ethical accounting.
+Treats his rhetoric as engineered impact, not a forged remainder with accountable transformation.
+Useful for studying attention economies, masculinity-as-product, and spectacle that evades real consequence.
+
 This entry is not Forge-canonical. It can be analyzed, but it cannot be tempered into a warning with honest weight, because its fuel is spectacle and its outcome is replication, not consequence.
 
 ❌ WHY THIS FIGURE DOES NOT BELONG IN THE FORGE

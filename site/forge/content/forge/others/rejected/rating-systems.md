@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Scales Without Weight
 
+
+INFO:
+This piece examines rating systems as instruments of judgment that escape being judged themselves.
+It argues these systems abstract lived experience into numbers, optimizing for distance over embodied presence.
+Their failures are often patched with more data and automation, not deeper human engagement.
+Because they lack a necessary, thick human involvement, they fall outside the Forges intended focus.
+
 Rating systems deserve a clear gaze and a steady hand: they touch value, influence behavior, and sometimes wound, but as systems they rarely submit themselves to the same exposed discipline they impose on others. They are important, yes, but importance alone is not enough for admission into the Forge.
 
 ❌ WHY THIS SUBJECT DOES NOT BELONG IN THE FORGE

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Greed Drilling Through the Soul of a Nation
 
+
+INFO:
+A period epic that turns the oil boom into a ruthless X ray of ambition.
+Tracks a prospector whose hunger grows from material gain into pure domination.
+Interrogates how faith, family, and community become tools for sharpening personal power.
+Leaves viewers complicit, unsettled by how recognizable this moral disintegration feels.
+
 Here the western myth is melted down and poured into a harsher mold: a study of hunger that outlives any particular boomtown, costume, or accent. What remains once the oil, the sermons, and the pageantry are stripped away is a naked contest between need and nothingness—a parable about what we become when we confuse extraction with creation.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

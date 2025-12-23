@@ -9,6 +9,13 @@ ARCHIVE: Engineered Impact
 
 SUBTITLE: Levers Without a Reckoning
 
+
+INFO:
+A tactics-first playbook for escape and leverage that never fully interrogates its premises.
+Frames work and freedom as design problems, without grappling with deeper ethical obligations.
+Useful for short-term optimization, but evades the psychological and societal costs it invokes.
+Best treated as a grab-bag of operational experiments, not a durable philosophy of living.
+
 This is not Forge-canonical. It is a toolkit dressed as a worldview—useful in the hands, light in the spine, and unwilling to pay the psychological cost its promises imply.
 
 ❌ WHY THIS WORK DOES NOT BELONG IN THE FORGE

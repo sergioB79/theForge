@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The planner who walked out of the machine carrying a handful of soil
 
+
+INFO:
+A postwar insider who turned on his own discipline when its logic broke faith.
+He begins as a master of scale, then learns to speak the language of limits.
+His journey traces how economic expertise can mutate from salvation to structural harm.
+Read him as a record of rupture: a technician walking out, not a guru arriving.
+
 [You do not come to Schumacher for comfort; you come to watch a credentialed architect of the postwar order dismantle his own scaffolding and step into uncertainty. His work is not a manifesto but a record of fracture: from faith in scale to loyalty to limits, from growth as destiny to growth as danger. Approach him not as a saint of “small is beautiful,” but as a man who changed sides in the middle of history and left his old camp burning behind him.]
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

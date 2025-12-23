@@ -182,6 +182,7 @@ function normalizeForgeMarkdown(md: string) {
   text = text.replace(/^.*$/gm, (line) => {
     const trimmed = line.trim();
     if (!trimmed) return line;
+    if (/^INFO\s*:\s*$/i.test(trimmed)) return "## INFO";
     const canonLine = canonicalize(trimmed);
     for (const item of noisyLabelMap) {
       if (trimmed.length > item.length + 30) continue;

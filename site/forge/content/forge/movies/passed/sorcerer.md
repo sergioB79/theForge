@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Wages of Chance, Weight of Consequence
 
+
+INFO:
+A relentless existential thriller where doomed men haul nitroglycerin through indifferent jungle chaos.
+Explores moral debt and consequence, stripping away bravado to reveal naked survival instincts.
+Rejects tidy redemption, dwelling instead on ambiguity where courage and cowardice intertwine uneasily.
+Lingers as a meditation on fate, guilt, and the crushing physics of consequence.
+
 Sorcerer enters not as spectacle but as ordeal: a study of men pressed so hard by contingency that their facades shear away, leaving only the bare mechanics of guilt, survival, and chance. It is a hard film, but not a cruel one; what remains after its violence and exhaustion is an x-ray of how human beings carry their pasts into impossible tasks.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

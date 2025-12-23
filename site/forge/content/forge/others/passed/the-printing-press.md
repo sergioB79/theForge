@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Ink, Noise, and the Unraveling of Silence
 
+
+INFO:
+A slow, grinding technology that turned reading from private privilege into public hazard.
+Pages emerged smudged, censored, and often destroyed, revealing power relations in every misprint.
+By multiplying texts, it fractured singular authority, letting rival doctrines and rumors circulate uncontrollably.
+Its rituals of ink, pressure, and handling rewired how bodies, institutions, and truths met each other.
+
 The printing press enters as a slow catastrophe in metal and oil—no spectacle, just repetition until the world cannot go back. It never worked cleanly: smeared type, missing letters, censored runs, burned editions. Its power lay precisely in that friction: every misprint, every banned page, every seized machine made visible the stakes of duplicating thought. This is not a neutral tool; it is a rite that binds hands, eyes, and institutions into a new way of being seen and mis-seen.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

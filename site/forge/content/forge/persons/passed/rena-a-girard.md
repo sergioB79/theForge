@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The man who found desire in the mirror and the knife beneath the altar
 
+
+INFO:
+A French literary critic turned anthropologist of violence, desire, and religious sacrifice.
+Argued that our longings are copied from others, birthing rivalry and escalating conflict.
+Claimed cultures stabilize themselves through scapegoats, then mythologize away the victims true cost.
+His work confronts moral self innocence, forcing readers to question every crowd and condemnation.
+
 You are not here to agree with him. You are here to test whether his pattern—mimicry, rivalry, sacrifice—maps too closely onto your own life for comfort. Take him not as master, not as saint, but as a slow-acting solvent poured over the stories a culture tells itself about why it is violent and why it thinks it is innocent.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?
