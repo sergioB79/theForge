@@ -384,7 +384,7 @@ export default function ForgeDocView({
         </section>
       )}
 
-      {whatMakes && !isRejected && (
+      {whatMakes && !isRejected && !info && (
         <section className={styles.tldr}>
           <div className={styles.tldrLabel}>FORGE VERDICT</div>
           <p className={styles.sectionBody}>{renderInline(firstSentences(whatMakes, 3))}</p>
