@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: One Room, Twelve Mirrors, One Conscience
 
+
+INFO
+A single jury room becomes a pressure cooker exposing prejudice, fear, and buried moral laziness.
+The film slowly dismantles certainty, revealing how ordinary people weaponize assumption instead of evidence.
+Watch how one stubborn voice forces others to reexamine convenience, resentment, and inherited social scripts.
+Its methodical dialogue turns abstract ideals like reasonable doubt into urgent, uncomfortable personal obligations.
+
 In this single suffocating room, the film strips away alibis of certainty, class, and prejudice until only the fragile mechanics of judgment remain. It does not depend on era, fashion, or prestige performances to matter; its core is a slow exposure of how an ordinary mind can either harden into cruelty or soften into responsibility.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Equality’s Slow Erosion of the Soul
 
+
+INFO
+Anatomy of democracy as a spiritual climate where equality reshapes desire, honor, and fear.
+Explores how leveling hierarchies elevates dignity yet flattens ambition, risking quiet, willing submission.
+Relentless double vision: every democratic virtue is tracked to its shadow of conformity and control.
+Enduring because it refuses reassurance, forcing readers to examine freedom as temptation as well as triumph.
+
 This is not a civic handbook; it is an autopsy performed on a living body. Tocqueville walks through a young democracy not as a tourist but as a diagnostician of the human condition under equality: what happens to desire, faith, fear, honor, loneliness, when no one is born above another. The prose is patient, almost dispassionate, but the questions it opens do not close.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

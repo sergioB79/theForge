@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The Quiet Machine That Learns Your Name
 
+
+INFO
+Explores how institutions quietly train bodies, behavior, and attention, long after visible punishment disappears.
+Reading feels like entering a machine that studies you back, charting your reflexes and concessions.
+Each concept is a tool, dismantling any fantasy that power is only violent, exceptional, or distant.
+You leave recognizing prisons, schools, hospitals, and offices as related factories for manufacturing compliant selves.
+
 A work for readers willing to be watched by the page, and to notice how quickly they begin cooperating with the watcher.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

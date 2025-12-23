@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Stress as a Sculptor
 
+
+INFO
+Antifragility treats stress as a design input, turning shocks into sculptors of character and systems.
+It reframes hardship from something to be mitigated into a constraint that shapes intelligent exposure.
+The piece offers an actionable lens for building lives and structures that benefit from surprise.
+Readers gain a vocabulary and posture for separating harmful fragility from productive volatility.
+
 Antifragility doesn’t ask to be admired. It asks to be used. Hold it long enough and it stops sounding like a clever reversal of “fragile” and becomes a moral and operational demand: stop building lives, systems, and selves that require calm to justify their existence.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

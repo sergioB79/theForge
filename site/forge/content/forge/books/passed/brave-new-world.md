@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The anesthesia of order and the cost of consciousness
 
+
+INFO
+A clinical nightmare of perfect comfort, where engineered happiness exposes the slow deletion of selfhood.
+This novel turns utopian efficiency into a mirror, reflecting our own appetite for painless obedience.
+Its true terror is consent: citizens embracing their chains as conveniences, not noticing the cost.
+Stripped-down prose sharpens every ethical question, leaving no aesthetic haze to blur the indictment.
+
 There is a quiet cruelty in this book that does not raise its voice. It lays out a world in which almost every pain has been preemptively cauterized, then asks you whether what remains still deserves to be called human. It does not plead for relevance. It waits for the reader to realize that its most far‑fetched inventions have already arrived in subtler forms.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: The failed painter who redrew the world in ash and absence
 
+
+INFO
+Study of a man whose wounded vanity scaled into industrialized violence and durable myth.
+Follows the chain from private humiliation to a bureaucracy calibrated for anonymous mass death.
+Emphasizes how modern institutions, technology, and grievance fused into a self-perpetuating killing machine.
+Interrogates the lingering aftershocks: altered borders, emptied communities, and a moral lexicon scarred forever.
+
 The figure at hand is not offered for fascination, nor for the morbid comfort of distance. He stands here as a structural lesson in how a single damaged will, amplified by compliant systems and eager followers, can reorganize reality around a lie. To read him in the Forge is to study the mechanics of catastrophe, not the magnetism of a man.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

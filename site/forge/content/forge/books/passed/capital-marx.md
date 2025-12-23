@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Machinery of Flesh, Arithmetic of Wounds
 
+
+INFO
+A conceptual machine dissecting how labor, value, and power intertwine beneath everyday economic life.
+Relentless structure exposes exploitation as systemic necessity, dissolving comfort in meritocracy or neutral markets.
+Dense prose operates like surgical steel, cutting through excuses to reveal capitalism’s hidden injuries.
+Characters become positions under duress, dramatizing how roles deform those forced to inhabit them.
+
 This is not a book to agree with or to refute; it is a machine of concepts grinding through history’s marrow. Approach it as an anatomy table where the corpse is society and the instruments are sentences sharpened into tools. You are not being entertained; you are being required to see what work, value, and power do to one another when stripped of excuses.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?

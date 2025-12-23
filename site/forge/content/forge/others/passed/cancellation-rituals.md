@@ -10,6 +10,13 @@ ARCHIVE: null
 
 SUBTITLE: Public Flames, Private Ashes
 
+
+INFO
+Explores cancellation as a public ordeal where reputation, punishment, and absolution become performative spectacle.
+Shows how communities weaponize shame and exile to enforce belonging, purity, and moral conformity.
+Traces the architecture of these rituals: accusation, amplification, contrition, refusal, and permanent digital memorialization.
+Emphasizes their visible failures, revealing disproportionate harm, shifting standards, and the fragility of collective judgment.
+
 There is a harsh sincerity in cancellation rituals: reputations burned in view of the crowd, contrition staged or refused, memory rewritten in real time. Presence—whether physical or digital—is required; absence itself becomes an accusation. These rituals are crude and often cruel, yet they reshape behavior, redraw moral boundaries, and expose the fragility of belonging. They fail constantly: disproportion, misfire, bad faith, and irreversible harm. That visible failure is precisely why they must be faced here, not ignored.
 
 🔥 WHAT MAKES IT FORGE MATERIAL?
