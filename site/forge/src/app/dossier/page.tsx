@@ -107,7 +107,6 @@ function getFeaturedDossier(): DossierDoc | null {
   const label = extractClass(html, "dossier-label") || "DOSSIER";
   const title = extractTag(html, "h1") || extractTag(html, "h2") || "Dossier";
   return { label, title, html, fileName: FEATURED_DOSSIER };
-  });
 }
 
 export default function DossierPage() {
