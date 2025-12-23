@@ -26,15 +26,27 @@ export default function CrucibleView({
 }) {
   const [query, setQuery] = useState("");
   const [tagQuery, setTagQuery] = useState("");
-  const [sortMode, setSortMode] = useState<"recent" | "alpha" | "random">("recent");
   const [randomSeed] = useState(() => Math.random());
   const normalizedQuery = query.trim().toLowerCase();
+  const [domainSorts, setDomainSorts] = useState<
+    Record<string, "recent" | "alpha" | "random">
+  >(() => {
+    const init: Record<string, "recent" | "alpha" | "random"> = {};
+    domainOrder.forEach((domain) => {
+      init[domain] = "random";
+    });
+    return init;
+  });
 
-  const sortItems = (list: ForgeItem[]) => {
-    if (sortMode === "alpha") {
+  const sortItems = (
+    list: ForgeItem[],
+    mode: "recent" | "alpha" | "random",
+    seedKey = ""
+  ) => {
+    if (mode === "alpha") {
       return [...list].sort((a, b) => a.title.localeCompare(b.title));
     }
-    if (sortMode === "random") {
+    if (mode === "random") {
       const hash = (value: string) => {
         let h = 0;
         for (let i = 0; i < value.length; i += 1) {
@@ -43,9 +55,10 @@ export default function CrucibleView({
         }
         return h;
       };
+      const seed = randomSeed + hash(seedKey);
       return [...list].sort((a, b) => {
-        const ra = Math.abs(Math.sin(hash(a.id) + randomSeed) * 10000) % 1;
-        const rb = Math.abs(Math.sin(hash(b.id) + randomSeed) * 10000) % 1;
+        const ra = Math.abs(Math.sin(hash(a.id) + seed) * 10000) % 1;
+        const rb = Math.abs(Math.sin(hash(b.id) + seed) * 10000) % 1;
         return ra - rb;
       });
     }
@@ -54,15 +67,13 @@ export default function CrucibleView({
     );
   };
 
-  const sortedItems = useMemo(() => sortItems(items), [items, sortMode, randomSeed]);
-
   const byDomain = useMemo(() => {
-    return sortedItems.reduce<Record<string, ForgeItem[]>>((acc, item) => {
+    return items.reduce<Record<string, ForgeItem[]>>((acc, item) => {
       acc[item.domain] = acc[item.domain] || [];
       acc[item.domain].push(item);
       return acc;
     }, {});
-  }, [sortedItems]);
+  }, [items]);
 
   const tagOptions = useMemo(() => {
     const set = new Set<string>();
@@ -76,7 +87,7 @@ export default function CrucibleView({
     const q = normalizedQuery;
     const t = tagQuery.trim().toLowerCase();
     if (!q && !t) return [];
-    const filtered = sortedItems.filter((item) => {
+    const filtered = items.filter((item) => {
       const haystack = `${item.title} ${item.subtitle || ""} ${item.category || ""}`
         .toLowerCase()
         .trim();
@@ -85,8 +96,8 @@ export default function CrucibleView({
       const matchesTag = t ? tags.includes(t) : true;
       return matchesText && matchesTag;
     });
-    return sortItems(filtered);
-  }, [sortedItems, normalizedQuery, tagQuery, sortMode, randomSeed]);
+    return sortItems(filtered, "recent");
+  }, [items, normalizedQuery, tagQuery, randomSeed]);
 
   return (
     <>
@@ -131,21 +142,6 @@ export default function CrucibleView({
             </option>
           ))}
         </select>
-        <label className={styles.searchLabel} htmlFor="crucible-sort">
-          Sort
-        </label>
-        <select
-          id="crucible-sort"
-          className={styles.searchSelect}
-          value={sortMode}
-          onChange={(e) =>
-            setSortMode(e.target.value as "recent" | "alpha" | "random")
-          }
-        >
-          <option value="recent">Most recent</option>
-          <option value="alpha">A–Z</option>
-          <option value="random">Random</option>
-        </select>
       </div>
 
       {(normalizedQuery || tagQuery.trim()) && (
@@ -160,7 +156,7 @@ export default function CrucibleView({
                   <a href={`/forge/${item.domain}/${item.slug}`}>{item.title}</a>
                   <div className="forge-tag">
                     Level {item.level}
-                    {item.subtitle ? ` — ${item.subtitle}` : ""}
+                    {item.subtitle ? ` - ${item.subtitle}` : ""}
                   </div>
                 </li>
               ))}
@@ -174,18 +170,38 @@ export default function CrucibleView({
           {domainOrder.map((domain) => {
             const list = byDomain[domain] || [];
             if (!list.length) return null;
+            const mode = domainSorts[domain] || "random";
+            const sorted = sortItems(list, mode, domain);
             return (
               <div id={domain} key={domain} className={`forge-card ${styles.domainCard}`}>
-                <div className={`forge-tag ${styles.domainTitle}`}>
-                  {domain.toUpperCase()} - {list.length} passed
+                <div className={styles.domainHeader}>
+                  <div className={`forge-tag ${styles.domainTitle}`}>
+                    {domain.toUpperCase()} - {list.length} passed
+                  </div>
+                  <div className={styles.domainSort}>
+                    {(["random", "alpha", "recent"] as const).map((value) => (
+                      <button
+                        key={value}
+                        type="button"
+                        className={`${styles.sortButton} ${
+                          mode === value ? styles.sortActive : ""
+                        }`}
+                        onClick={() =>
+                          setDomainSorts((prev) => ({ ...prev, [domain]: value }))
+                        }
+                      >
+                        {value === "random" ? "Random" : value === "alpha" ? "A-Z" : "Recent"}
+                      </button>
+                    ))}
+                  </div>
                 </div>
                 <ul className={`forge-list ${styles.domainList}`}>
-                  {list.map((item) => (
+                  {sorted.map((item) => (
                     <li key={item.id}>
                       <a href={`/forge/${item.domain}/${item.slug}`}>{item.title}</a>
                       <div className="forge-tag">
                         Level {item.level}
-                        {item.subtitle ? ` — ${item.subtitle}` : ""}
+                        {item.subtitle ? ` - ${item.subtitle}` : ""}
                       </div>
                     </li>
                   ))}
