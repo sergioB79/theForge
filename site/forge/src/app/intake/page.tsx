@@ -13,16 +13,24 @@ export default function IntakePage() {
       <p className="forge-lead intake-lead">
         The Forge does not debate opinions. It examines systems under heat. If you are
         here to praise, argue, or perform alignment - stop. If you are here to submit
-        material, pressure, or fuel - proceed.
+        material, apply pressure, or provide fuel - proceed.
       </p>
 
       <section className="forge-card intake-card">
         <div className="intake-label">A. MATERIAL</div>
-        <h2 className="intake-title">Submit a work, system, idea, or pattern.</h2>
+        <h2 className="intake-title">Submit something to be tested.</h2>
         <p className="intake-copy">
-          No summaries. No praise. One sentence that answers: What system does this
-          expose?
+          Submit a work, system, idea, or recurring pattern you believe warrants Forge
+          heat.
         </p>
+        <div className="intake-copy">
+          Rules:
+          <ul>
+            <li>No summaries.</li>
+            <li>No praise.</li>
+            <li>One sentence only, answering: What system does this expose?</li>
+          </ul>
+        </div>
         <form className="intake-form" action={materialUrl} method="post">
           <label htmlFor="intake-name">Name or link</label>
           <input id="intake-name" name="name" type="text" required />
@@ -47,15 +55,26 @@ export default function IntakePage() {
             </p>
           )}
         </form>
+        <p className="intake-copy intake-copySmall">
+          Submissions are intake, not guarantees. Most material is rejected silently.
+        </p>
       </section>
 
       <section className="forge-card intake-card">
         <div className="intake-label">B. PRESSURE</div>
-        <h2 className="intake-title">Corrections and fractures.</h2>
+        <h2 className="intake-title">Corrections, fractures, missed load.</h2>
         <p className="intake-copy">
-          Quote the exact Forge text. Name the mechanism you think was misread. No
-          moral language allowed.
+          Use this channel only if you believe the Forge misread a mechanism, misplaced
+          a constraint, or underpriced a cost.
         </p>
+        <div className="intake-copy">
+          Rules:
+          <ul>
+            <li>Quote the exact Forge text.</li>
+            <li>Name the mechanism, not the sentiment.</li>
+            <li>No moral language.</li>
+          </ul>
+        </div>
         <form className="intake-form" action={pressureUrl} method="post">
           <label htmlFor="pressure-source">Forge entry URL</label>
           <input id="pressure-source" name="source" type="url" required />
@@ -63,7 +82,9 @@ export default function IntakePage() {
           <label htmlFor="pressure-quote">Exact quote</label>
           <textarea id="pressure-quote" name="quote" rows={3} required />
 
-          <label htmlFor="pressure-mechanism">Misread mechanism</label>
+          <label htmlFor="pressure-mechanism">
+            Mechanism you believe was misread (1-3 sentences)
+          </label>
           <textarea id="pressure-mechanism" name="mechanism" rows={4} required />
 
           <button type="submit">Apply pressure</button>
@@ -73,11 +94,14 @@ export default function IntakePage() {
             </p>
           )}
         </form>
+        <p className="intake-copy intake-copySmall">
+          Pressure is not debate. It is structural counter-force.
+        </p>
       </section>
 
       <section className="forge-card intake-card">
         <div className="intake-label">C. FUEL</div>
-        <h2 className="intake-title">Provide fuel, without leverage.</h2>
+        <h2 className="intake-title">Continuation without leverage.</h2>
         <p className="intake-copy">
           The Forge consumes time, attention, and heat. If you want it to continue,
           fuel is accepted - without obligation, reward, or influence.
@@ -104,20 +128,26 @@ export default function IntakePage() {
           response, be precise.
         </p>
         <div className="intake-contact">
-          {contactEmail ? (
-            <a className="forge-link" href={`mailto:${contactEmail}`}>
-              {contactEmail}
-            </a>
-          ) : (
-            <span className="intake-note">Set `NEXT_PUBLIC_INTAKE_EMAIL`.</span>
-          )}
-          {contactPlatform ? (
-            <a className="forge-link" href={contactPlatform} target="_blank" rel="noreferrer">
-              {contactPlatformLabel}
-            </a>
-          ) : (
-            <span className="intake-note">Set `NEXT_PUBLIC_INTAKE_PLATFORM_URL`.</span>
-          )}
+          <div>
+            <div className="intake-copySmall">Email</div>
+            {contactEmail ? (
+              <a className="forge-link" href={`mailto:${contactEmail}`}>
+                {contactEmail}
+              </a>
+            ) : (
+              <span className="intake-note">Set `NEXT_PUBLIC_INTAKE_EMAIL`.</span>
+            )}
+          </div>
+          <div>
+            <div className="intake-copySmall">One external platform</div>
+            {contactPlatform ? (
+              <a className="forge-link" href={contactPlatform} target="_blank" rel="noreferrer">
+                {contactPlatformLabel}
+              </a>
+            ) : (
+              <span className="intake-note">Set `NEXT_PUBLIC_INTAKE_PLATFORM_URL`.</span>
+            )}
+          </div>
         </div>
       </section>
     </main>
