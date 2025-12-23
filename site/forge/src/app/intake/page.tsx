@@ -7,6 +7,12 @@ const contactEmail = process.env.NEXT_PUBLIC_INTAKE_EMAIL || "";
 const contactPlatform = process.env.NEXT_PUBLIC_INTAKE_PLATFORM_URL || "";
 const contactPlatformLabel = process.env.NEXT_PUBLIC_INTAKE_PLATFORM_LABEL || "X";
 
+function normalizeUrl(value: string) {
+  if (!value) return "";
+  if (value.startsWith("http://") || value.startsWith("https://")) return value;
+  return `https://${value}`;
+}
+
 export default function IntakePage() {
   return (
     <main className="forge-shell">
@@ -109,7 +115,12 @@ export default function IntakePage() {
           fuel is accepted - without obligation, reward, or influence.
         </p>
         {fuelUrl ? (
-          <a className="intake-button" href={fuelUrl} target="_blank" rel="noreferrer">
+          <a
+            className="intake-button"
+            href={normalizeUrl(fuelUrl)}
+            target="_blank"
+            rel="noreferrer"
+          >
             Provide Fuel
           </a>
         ) : (
@@ -143,7 +154,12 @@ export default function IntakePage() {
           <div>
             <div className="intake-copySmall">One external platform</div>
             {contactPlatform ? (
-              <a className="forge-link" href={contactPlatform} target="_blank" rel="noreferrer">
+              <a
+                className="forge-link"
+                href={normalizeUrl(contactPlatform)}
+                target="_blank"
+                rel="noreferrer"
+              >
                 {contactPlatformLabel}
               </a>
             ) : (
