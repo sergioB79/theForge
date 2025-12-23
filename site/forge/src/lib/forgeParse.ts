@@ -1,6 +1,7 @@
 export type ForgeDoc = {
   bodyIntro?: string;
   invocation?: string;
+  info?: string;
   sections: Record<string, string>;
   classification: Record<string, string>;
   hardMode?: string;
@@ -54,6 +55,7 @@ const SECTION_KEYS = [
   "INSCRIPTION",
   "CLASSIFICATION",
   "FORGE HARD MODE - NON-NEGOTIABLE RULES",
+  "INFO",
 ];
 
 
@@ -203,6 +205,7 @@ function normalizeForgeMarkdown(md: string) {
 
   // Normalize "Final line:" into INSCRIPTION.
   text = text.replace(/^Final line:\s*(.*)$/gim, "## INSCRIPTION\n$1");
+  text = text.replace(/^INFO:\s*(.*)$/gim, "## INFO\n$1");
 
   const escapeRegex = (value: string) =>
     value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -393,6 +396,11 @@ export function parseForgeMarkdown(md: string): ForgeDoc {
   if (!out.invocation && out.bodyIntro) {
     out.invocation = out.bodyIntro;
     out.bodyIntro = undefined;
+  }
+
+  if (!out.info) {
+    const infoSection = out.sections?.["INFO"];
+    if (infoSection) out.info = infoSection;
   }
 
   if (!out.classification.SUBTITLE) {

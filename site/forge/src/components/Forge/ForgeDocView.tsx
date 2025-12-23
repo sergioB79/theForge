@@ -47,6 +47,7 @@ export default function ForgeDocView({
   const cls = doc.classification || {};
   const title = cls["TITLE"] || cls["SUBJECT"] || cls["NAME"] || "Untitled";
   const subtitle = cls["SUBTITLE"];
+  const info = doc.info;
   const domain = cls["DOMAIN"];
   const category = cls["CATEGORY"];
   const level = cls["FORGE LEVEL"];
@@ -352,6 +353,12 @@ export default function ForgeDocView({
 
       {doc.bodyIntro && (
         <section className={styles.intro}>{renderBlocks(doc.bodyIntro)}</section>
+      )}
+
+      {info && (
+        <section className={styles.intro}>
+          <div className={styles.sectionBody}>{renderInline(info)}</div>
+        </section>
       )}
 
       {invocationText && (

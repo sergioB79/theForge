@@ -43,6 +43,8 @@ RULE: Never assign FORGE LEVEL: I — it's disallowed for PASSED items.
 
 SUBTITLE: [One-line poetic micro-bio (not a theme), e.g., "Industrialist turned radical economist"]
 
+INFO: [Brief introduction of the subject, max 3-5 lines.]
+
 If ACCEPTED:
 
 [Invocation paragraph — calm, restrained, no hype. Speak to the reader as an equal.]
