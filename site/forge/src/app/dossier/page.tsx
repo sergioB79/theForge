@@ -11,6 +11,15 @@ type DossierEntry = {
   fileName: string;
 };
 
+type DossierDoc = {
+  label: string;
+  title: string;
+  html: string;
+  fileName: string;
+};
+
+const FEATURED_DOSSIER = "how-to-read-a-forge-dossier.html";
+
 function slugify(text: string): string {
   return text
     .toLowerCase()
@@ -70,7 +79,8 @@ function getDossiers(): DossierEntry[] {
     const lower = name.toLowerCase();
     return lower.endsWith(".md.html") || lower.endsWith(".html");
   });
-  return files.map((name) => {
+  const filtered = files.filter((name) => name !== FEATURED_DOSSIER);
+  return filtered.map((name) => {
     const base = name.replace(/\.md\.html$/i, "").replace(/\.html$/i, "");
     const slug = slugify(base);
     const fullPath = path.join(dossierDir, name);
@@ -84,8 +94,25 @@ function getDossiers(): DossierEntry[] {
   });
 }
 
+function getFeaturedDossier(): DossierDoc | null {
+  const dossierDir = resolveDossierDir();
+  if (!dossierDir || !fs.existsSync(dossierDir)) {
+    return null;
+  }
+  const featuredPath = path.join(dossierDir, FEATURED_DOSSIER);
+  if (!fs.existsSync(featuredPath)) {
+    return null;
+  }
+  const html = fs.readFileSync(featuredPath, "utf-8");
+  const label = extractClass(html, "dossier-label") || "DOSSIER";
+  const title = extractTag(html, "h1") || extractTag(html, "h2") || "Dossier";
+  return { label, title, html, fileName: FEATURED_DOSSIER };
+  });
+}
+
 export default function DossierPage() {
   const dossiers = getDossiers();
+  const featured = getFeaturedDossier();
 
   return (
     <main className="forge-shell">
@@ -96,7 +123,13 @@ export default function DossierPage() {
         mechanisms that do not fit inside a full Forge review.
       </p>
 
-      <section className="forge-card" style={{ marginTop: 32 }}>
+      {featured && (
+        <section className="forge-card" style={{ marginTop: 32 }}>
+          <div className="forge-prose" dangerouslySetInnerHTML={{ __html: featured.html }} />
+        </section>
+      )}
+
+      <section className="forge-card" style={{ marginTop: featured ? 28 : 32 }}>
         {dossiers.length === 0 ? (
           <p>No dossiers yet. Create dossiers after importing content.</p>
         ) : (
