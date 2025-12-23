@@ -1,3 +1,5 @@
+import IntakeForm from "@/components/Intake/IntakeForm";
+
 const materialUrl = process.env.NEXT_PUBLIC_INTAKE_MATERIAL_URL || "";
 const pressureUrl = process.env.NEXT_PUBLIC_INTAKE_PRESSURE_URL || "";
 const fuelUrl = process.env.NEXT_PUBLIC_INTAKE_FUEL_URL || "";
@@ -31,7 +33,7 @@ export default function IntakePage() {
             <li>One sentence only, answering: What system does this expose?</li>
           </ul>
         </div>
-        <form className="intake-form" action={materialUrl} method="post">
+        <IntakeForm className="intake-form" action={materialUrl}>
           <label htmlFor="intake-name">Name or link</label>
           <input id="intake-name" name="name" type="text" required />
 
@@ -54,7 +56,7 @@ export default function IntakePage() {
               Set `NEXT_PUBLIC_INTAKE_MATERIAL_URL` to enable submissions.
             </p>
           )}
-        </form>
+        </IntakeForm>
         <p className="intake-copy intake-copySmall">
           Submissions are intake, not guarantees. Most material is rejected silently.
         </p>
@@ -75,7 +77,7 @@ export default function IntakePage() {
             <li>No moral language.</li>
           </ul>
         </div>
-        <form className="intake-form" action={pressureUrl} method="post">
+        <IntakeForm className="intake-form" action={pressureUrl}>
           <label htmlFor="pressure-source">Forge entry URL</label>
           <input id="pressure-source" name="source" type="url" required />
 
@@ -93,7 +95,7 @@ export default function IntakePage() {
               Set `NEXT_PUBLIC_INTAKE_PRESSURE_URL` to enable submissions.
             </p>
           )}
-        </form>
+        </IntakeForm>
         <p className="intake-copy intake-copySmall">
           Pressure is not debate. It is structural counter-force.
         </p>
