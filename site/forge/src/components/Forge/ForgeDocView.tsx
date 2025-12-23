@@ -538,21 +538,6 @@ export default function ForgeDocView({
         </section>
       )}
 
-      {Object.keys(cls).length > 0 && (
-        <div className={styles.endLogoWrap}>
-          <a href="/" className={styles.endLogoLink} aria-label="Back to The Forge">
-            <span className={styles.endFlame} aria-hidden="true" />
-            <img
-              className={styles.endLogo}
-              src="/img/theForge_logo.png"
-              alt="The Forge"
-              width={280}
-              height={280}
-            />
-          </a>
-        </div>
-      )}
-
       <section className="forge-newsletter forge-newsletterInline">
         <div className="forge-tag">THE FORGELETTER</div>
         <h3 className="forge-newsletterTitle">If this lit something in you, join us.</h3>
@@ -575,6 +560,21 @@ export default function ForgeDocView({
           <button type="submit">Join the Forgeletter</button>
         </form>
       </section>
+
+      {Object.keys(cls).length > 0 && (
+        <div className={styles.endLogoWrap}>
+          <a href="/" className={styles.endLogoLink} aria-label="Back to The Forge">
+            <span className={styles.endFlame} aria-hidden="true" />
+            <img
+              className={styles.endLogo}
+              src="/img/theForge_logo.png"
+              alt="The Forge"
+              width={280}
+              height={280}
+            />
+          </a>
+        </div>
+      )}
 
       {!isPerson && (justification || doc.hardMode) && (
         <section className={styles.hardMode}>
