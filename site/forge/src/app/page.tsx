@@ -22,7 +22,7 @@ export default function Home() {
             deserves to be remembered.
           </h1>
         </div>
-        <p className="forge-lead">
+        <p className={`forge-lead ${styles.heroLead}`}>
           THE FORGE is not a recommendation engine. It is a system for testing
           whether ideas, works, and lives leave behind structures that endure
           after charm is removed.

@@ -54,6 +54,10 @@
   margin: 0;
 }
 
+.heroLead {
+  margin-top: 9px;
+}
+
 .heroCard {
   border: 1px solid var(--forge-line);
   padding: 32px;
