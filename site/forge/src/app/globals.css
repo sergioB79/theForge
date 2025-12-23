@@ -41,6 +41,14 @@ body.forge-body {
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+}
+
+input,
+textarea,
+select,
+button {
+  user-select: text;
 }
 
 ::selection {
