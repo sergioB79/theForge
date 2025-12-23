@@ -379,6 +379,105 @@ a {
   color: var(--forge-text-dim);
 }
 
+.intake-lead {
+  max-width: 72ch;
+}
+
+.intake-card {
+  margin-top: 28px;
+}
+
+.intake-label {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--forge-amber);
+}
+
+.intake-title {
+  margin-top: 8px;
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.04em;
+  color: var(--forge-text);
+}
+
+.intake-copy {
+  margin-top: 10px;
+  color: var(--forge-text-muted);
+}
+
+.intake-copySmall {
+  font-size: 13px;
+}
+
+.intake-form {
+  margin-top: 16px;
+  display: grid;
+  gap: 12px;
+}
+
+.intake-form label {
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--forge-text-dim);
+}
+
+.intake-form input,
+.intake-form select,
+.intake-form textarea {
+  border-radius: 10px;
+  border: 1px solid var(--forge-line);
+  background: rgba(20, 24, 29, 0.9);
+  color: var(--forge-text);
+  padding: 12px 14px;
+  font-family: var(--font-forge-body), "Inter", sans-serif;
+}
+
+.intake-form textarea {
+  resize: vertical;
+}
+
+.intake-form input:focus,
+.intake-form select:focus,
+.intake-form textarea:focus {
+  outline: none;
+  border-color: rgba(231, 204, 116, 0.45);
+  box-shadow: 0 0 0 2px rgba(231, 204, 116, 0.12);
+}
+
+.intake-form button,
+.intake-button {
+  border-radius: 10px;
+  border: 1px solid rgba(231, 204, 116, 0.9);
+  background: var(--forge-amber);
+  color: #0e1114;
+  padding: 10px 18px;
+  font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(231, 204, 116, 0.16);
+  justify-self: start;
+  width: fit-content;
+}
+
+.intake-note {
+  color: var(--forge-text-dim);
+  font-size: 12px;
+}
+
+.intake-contact {
+  margin-top: 12px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
 .forge-status {
   font-family: var(--font-forge-sans), "Space Grotesk", sans-serif;
   font-size: 12px;

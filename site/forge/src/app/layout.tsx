@@ -47,6 +47,7 @@ export default function RootLayout({
             <a href="/indexer">Index</a>
             <a href="/how-the-forge-works">How the Forge Works</a>
             <a href="/manifesto">Manifesto</a>
+            <a href="/intake">Intake</a>
             <a href="/about">About</a>
           </nav>
         </header>
