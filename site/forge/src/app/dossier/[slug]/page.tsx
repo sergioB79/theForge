@@ -112,10 +112,38 @@ export default async function DossierDetailPage({
 
   return (
     <main className="forge-shell">
-      <span className="forge-eyebrow">{doc.label}</span>
-      <h1 className="forge-title">{doc.title}</h1>
       <div className="forge-card" style={{ marginTop: 32 }}>
         <div className="forge-prose" dangerouslySetInnerHTML={{ __html: doc.html }} />
+      </div>
+
+      <section className="forge-newsletter forge-newsletterInline">
+        <div className="forge-tag">THE FORGELETTER</div>
+        <h3 className="forge-newsletterTitle">If this lit something in you, join us.</h3>
+        <p className="forge-newsletterText">
+          New entries, rejected rites, and behind-the-anvil notes. No noise, just heat.
+        </p>
+        <form
+          className="forge-newsletterForm"
+          action="https://buttondown.email/api/emails/embed-subscribe/theforge"
+          method="post"
+          target="popupwindow"
+        >
+          <input
+            id="bd-email-dossier"
+            name="email"
+            type="email"
+            required
+            placeholder="you@example.com"
+          />
+          <button type="submit">Join the Forgeletter</button>
+        </form>
+      </section>
+
+      <div className="forge-end-logo">
+        <a href="/" aria-label="Back to The Forge">
+          <span className="forge-end-flame" aria-hidden="true" />
+          <img src="/img/theForge_logo.png" alt="The Forge" width={280} height={280} />
+        </a>
       </div>
     </main>
   );

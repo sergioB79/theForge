@@ -142,6 +142,16 @@ a {
   color: var(--forge-text);
 }
 
+.forge-prose .dossier-label {
+  color: var(--forge-amber);
+}
+
+.forge-prose h1,
+.forge-prose h2,
+.forge-prose h3 {
+  color: var(--forge-amber);
+}
+
 .forge-prose .dossier-rule p,
 .forge-prose .dossier-rule ul {
   margin-top: 8px;
@@ -471,6 +481,68 @@ a {
   cursor: pointer;
   box-shadow: 0 10px 24px rgba(231, 204, 116, 0.16);
   justify-self: center;
+}
+
+.forge-end-logo {
+  margin: 20px 0 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.forge-end-logo a {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  isolation: isolate;
+}
+
+.forge-end-flame {
+  position: absolute;
+  inset: 0;
+  background: url("/img/theForge_logo.png") center / contain no-repeat;
+  opacity: 0.7;
+  mix-blend-mode: screen;
+  filter: blur(1.2px) saturate(1.35) brightness(1.2)
+    drop-shadow(0 0 14px rgba(255, 156, 82, 0.7));
+  transform-origin: 50% 10%;
+  animation: dossierFlameFlicker 3.8s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 1;
+  clip-path: polygon(0 0, 100% 0, 100% 60%, 0 60%);
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 58%, rgba(0, 0, 0, 0) 78%);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 58%, rgba(0, 0, 0, 0) 78%);
+  will-change: transform, opacity, filter;
+}
+
+.forge-end-logo img {
+  height: 280px;
+  width: auto;
+  opacity: 0.85;
+  display: block;
+  position: relative;
+  z-index: 0;
+}
+
+@keyframes dossierFlameFlicker {
+  0% {
+    transform: scale(1) translateY(0) skewX(0deg);
+    opacity: 0.65;
+    filter: blur(1.2px) saturate(1.35) brightness(1.15)
+      drop-shadow(0 0 12px rgba(255, 156, 82, 0.6));
+  }
+  50% {
+    transform: scale(1.02) translateY(-1px) skewX(0.6deg);
+    opacity: 0.9;
+    filter: blur(1px) saturate(1.5) brightness(1.3)
+      drop-shadow(0 0 18px rgba(255, 156, 82, 0.85));
+  }
+  100% {
+    transform: scale(1) translateY(0) skewX(0deg);
+    opacity: 0.7;
+    filter: blur(1.2px) saturate(1.35) brightness(1.15)
+      drop-shadow(0 0 12px rgba(255, 156, 82, 0.65));
+  }
 }
 
 .forge-newsletterForm button:hover {
