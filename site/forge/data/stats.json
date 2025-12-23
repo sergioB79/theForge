@@ -1,24 +1,24 @@
 {
-  "generated_at": "2025-12-22T23:44:33+00:00",
+  "generated_at": "2025-12-23T22:35:57+00:00",
   "totals": {
-    "all": 199,
-    "passed": 123,
-    "rejected": 76
+    "all": 204,
+    "passed": 127,
+    "rejected": 77
   },
   "by_domain": {
-    "books": 30,
+    "books": 32,
+    "ideas": 28,
     "movies": 53,
-    "ideas": 27,
-    "others": 45,
-    "persons": 44
+    "others": 46,
+    "persons": 45
   },
   "by_status": {
-    "PASSED": 123,
-    "REJECTED": 76
+    "PASSED": 127,
+    "REJECTED": 77
   },
   "by_level": {
-    "II": 129,
-    "III": 70
+    "II": 131,
+    "III": 73
   },
   "top_categories": [
     [
@@ -66,6 +66,10 @@
       2
     ],
     [
+      "war drama",
+      2
+    ],
+    [
       "existential drama",
       2
     ],
@@ -87,6 +91,10 @@
     ],
     [
       "strategic treatise",
+      1
+    ],
+    [
+      "existential psychology",
       1
     ],
     [
@@ -112,24 +120,16 @@
     [
       "post-apocalyptic",
       1
-    ],
-    [
-      "philosophy-of-science",
-      1
-    ],
-    [
-      "political economy",
-      1
     ]
   ],
   "top_tags": [
     [
       "attention-economy",
-      10
+      11
     ],
     [
       "ethical-architecture",
-      5
+      6
     ],
     [
       "visible-failure",
@@ -169,6 +169,10 @@
     ],
     [
       "faith-and-doubt",
+      3
+    ],
+    [
+      "simulated-discipline",
       3
     ],
     [
@@ -309,10 +313,6 @@
     ],
     [
       "institutional-language",
-      2
-    ],
-    [
-      "simulated-discipline",
       2
     ],
     [

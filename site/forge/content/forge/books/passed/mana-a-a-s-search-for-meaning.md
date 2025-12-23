@@ -1,7 +1,7 @@
 ---
 CLASSIFICATION
 DOMAIN: books
-TITLE: ManÃ¢â‚¬â„¢s Search for Meaning
+TITLE: Man’s Search for Meaning
 CATEGORY: psychology-memoir
 FORGE STATUS: PASSED
 FORGE LEVEL: II

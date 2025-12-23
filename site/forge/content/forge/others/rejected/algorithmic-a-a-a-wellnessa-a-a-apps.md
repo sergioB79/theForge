@@ -1,7 +1,7 @@
 ---
 CLASSIFICATION
 DOMAIN: others
-TITLE: Algorithmic Ã¢â‚¬Å“wellnessÃ¢â‚¬Â apps
+TITLE: Algorithmic “wellness” apps
 CATEGORY: wellness tech
 FORGE STATUS: REJECTED
 ARCHIVE: Beautiful Comforts

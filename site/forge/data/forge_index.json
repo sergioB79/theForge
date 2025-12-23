@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T23:44:33+00:00",
-  "count": 123,
+  "generated_at": "2025-12-23T22:35:57+00:00",
+  "count": 127,
   "items": [
     {
       "id": "brave-new-world",
@@ -21,7 +21,7 @@
         "psychological-control",
         "pleasure-as-discipline"
       ],
-      "updated": 1766397034,
+      "updated": 1766454276,
       "sourcePath": "content/forge/books/passed/brave-new-world.md",
       "url": "/forge/books/brave-new-world",
       "heat": 0.48,
@@ -47,7 +47,7 @@
         "anti-passive-reading",
         "residue-of-suspicion"
       ],
-      "updated": 1766397168,
+      "updated": 1766454480,
       "sourcePath": "content/forge/books/passed/capital-marx.md",
       "url": "/forge/books/capital-marx",
       "heat": 0.72,
@@ -94,7 +94,7 @@
         "soft-despotism",
         "ethical-architecture"
       ],
-      "updated": 1766397106,
+      "updated": 1766454666,
       "sourcePath": "content/forge/books/passed/democracy-in-america.md",
       "url": "/forge/books/democracy-in-america",
       "heat": 0.48,
@@ -114,8 +114,15 @@
           ]
         },
         {
-          "to": "mana-a-a-s-search-for-meaning",
+          "to": "man-s-search-for-meaning",
           "weight": 0.1024,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "the-denial-of-death",
+          "weight": 0.094,
           "sharedTags": [
             "ethical-architecture"
           ]
@@ -148,7 +155,7 @@
         "normalization",
         "genealogical-method"
       ],
-      "updated": 1766373228,
+      "updated": 1766454762,
       "sourcePath": "content/forge/books/passed/discipline-and-punish.md",
       "url": "/forge/books/discipline-and-punish",
       "heat": 0.72,
@@ -173,7 +180,7 @@
         "ethics-under-pressure",
         "state-as-artificial-body"
       ],
-      "updated": 1766397086,
+      "updated": 1766457950,
       "sourcePath": "content/forge/books/passed/leviathan.md",
       "url": "/forge/books/leviathan",
       "heat": 0.72,
@@ -195,10 +202,10 @@
       ]
     },
     {
-      "id": "mana-a-a-s-search-for-meaning",
+      "id": "man-s-search-for-meaning",
       "domain": "books",
-      "title": "ManÃ¢â‚¬â„¢s Search for Meaning",
-      "slug": "mana-a-a-s-search-for-meaning",
+      "title": "Man’s Search for Meaning",
+      "slug": "man-s-search-for-meaning",
       "status": "PASSED",
       "year": null,
       "country": null,
@@ -213,9 +220,9 @@
         "witness-and-framework",
         "inner-freedom"
       ],
-      "updated": 1766375612,
+      "updated": 1766529208,
       "sourcePath": "content/forge/books/passed/mana-a-a-s-search-for-meaning.md",
-      "url": "/forge/books/mana-a-a-s-search-for-meaning",
+      "url": "/forge/books/man-s-search-for-meaning",
       "heat": 0.48,
       "edges": [
         {
@@ -247,6 +254,13 @@
           ]
         },
         {
+          "to": "the-denial-of-death",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
           "to": "geneva-conventions",
           "weight": 0.094,
           "sharedTags": [
@@ -274,7 +288,7 @@
         "impermanence-as-structure",
         "duty-over-desire"
       ],
-      "updated": 1766370184,
+      "updated": 1766457926,
       "sourcePath": "content/forge/books/passed/meditations.md",
       "url": "/forge/books/meditations",
       "heat": 0.48,
@@ -299,7 +313,7 @@
         "psychological-coercion",
         "ethical-fracture"
       ],
-      "updated": 1766397016,
+      "updated": 1766457952,
       "sourcePath": "content/forge/books/passed/nineteen-eighty-four.md",
       "url": "/forge/books/nineteen-eighty-four",
       "heat": 0.72,
@@ -324,7 +338,7 @@
         "disciplined-restraint",
         "deception-and-cost"
       ],
-      "updated": 1766375720,
+      "updated": 1766457932,
       "sourcePath": "content/forge/books/passed/the-art-of-war.md",
       "url": "/forge/books/the-art-of-war",
       "heat": 0.48,
@@ -341,6 +355,68 @@
           "weight": 0.1024,
           "sharedTags": [
             "systems-thinking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-denial-of-death",
+      "domain": "books",
+      "title": "The Denial of Death",
+      "slug": "the-denial-of-death",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "existential psychology",
+      "subtitle": "Bones Beneath the Costume",
+      "level": "III",
+      "tags": [
+        "death-consciousness",
+        "existential-psychology",
+        "ethical-architecture",
+        "religion-and-terror",
+        "hero-systems",
+        "psychological-wounding"
+      ],
+      "updated": 1766450062,
+      "sourcePath": "content/forge/books/passed/the-denial-of-death.md",
+      "url": "/forge/books/the-denial-of-death",
+      "heat": 0.72,
+      "edges": [
+        {
+          "to": "civic-virtue",
+          "weight": 0.0958,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "no-country-for-old-men",
+          "weight": 0.0958,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "democracy-in-america",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "man-s-search-for-meaning",
+          "weight": 0.094,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "geneva-conventions",
+          "weight": 0.0871,
+          "sharedTags": [
+            "ethical-architecture"
           ]
         }
       ]
@@ -364,7 +440,7 @@
         "witness-literature",
         "anti-euphemism"
       ],
-      "updated": 1766373208,
+      "updated": 1766457928,
       "sourcePath": "content/forge/books/passed/the-gulag-archipelago.md",
       "url": "/forge/books/the-gulag-archipelago",
       "heat": 0.72,
@@ -397,7 +473,7 @@
         "democratic-myths",
         "institutional-mechanics"
       ],
-      "updated": 1766375566,
+      "updated": 1766457934,
       "sourcePath": "content/forge/books/passed/the-machiavellians.md",
       "url": "/forge/books/the-machiavellians",
       "heat": 0.48,
@@ -437,7 +513,7 @@
         "legitimacy-and-control",
         "ethical-inversion"
       ],
-      "updated": 1766375704,
+      "updated": 1766457936,
       "sourcePath": "content/forge/books/passed/the-managerial-state.md",
       "url": "/forge/books/the-managerial-state",
       "heat": 0.48,
@@ -470,7 +546,7 @@
         "philosophical-rebellion",
         "meaning-without-myth"
       ],
-      "updated": 1766370222,
+      "updated": 1766457924,
       "sourcePath": "content/forge/books/passed/the-myth-of-sisyphus.md",
       "url": "/forge/books/the-myth-of-sisyphus",
       "heat": 0.72,
@@ -496,7 +572,7 @@
         "institutional-design",
         "intellectual-honesty"
       ],
-      "updated": 1766397216,
+      "updated": 1766457954,
       "sourcePath": "content/forge/books/passed/the-open-society-and-its-enemies.md",
       "url": "/forge/books/the-open-society-and-its-enemies",
       "heat": 0.72,
@@ -522,7 +598,7 @@
         "modernity-unmasked",
         "rights-and-statelessness"
       ],
-      "updated": 1766397052,
+      "updated": 1766457958,
       "sourcePath": "content/forge/books/passed/the-origins-of-totalitarianism.md",
       "url": "/forge/books/the-origins-of-totalitarianism",
       "heat": 0.72,
@@ -562,7 +638,7 @@
         "interaction-rituals",
         "quiet-demolition"
       ],
-      "updated": 1766393236,
+      "updated": 1766457948,
       "sourcePath": "content/forge/books/passed/the-presentation-of-self-in-everyday-life.md",
       "url": "/forge/books/the-presentation-of-self-in-everyday-life",
       "heat": 0.48,
@@ -609,7 +685,7 @@
         "ruthless-clarity",
         "illusion-stripping"
       ],
-      "updated": 1766397066,
+      "updated": 1766457960,
       "sourcePath": "content/forge/books/passed/the-prince.md",
       "url": "/forge/books/the-prince",
       "heat": 0.48,
@@ -663,7 +739,7 @@
         "political-psychology",
         "ideas-under-pressure"
       ],
-      "updated": 1766375584,
+      "updated": 1766457940,
       "sourcePath": "content/forge/books/passed/the-republic.md",
       "url": "/forge/books/the-republic",
       "heat": 0.72,
@@ -688,7 +764,7 @@
         "parental-vow",
         "tenderness-under-ruin"
       ],
-      "updated": 1766375642,
+      "updated": 1766457944,
       "sourcePath": "content/forge/books/passed/the-road.md",
       "url": "/forge/books/the-road",
       "heat": 0.72,
@@ -713,7 +789,7 @@
         "ethical-knowledge",
         "paradigm-critique"
       ],
-      "updated": 1766397190,
+      "updated": 1766457962,
       "sourcePath": "content/forge/books/passed/the-structure-of-scientific-revolutions.md",
       "url": "/forge/books/the-structure-of-scientific-revolutions",
       "heat": 0.72,
@@ -738,7 +814,7 @@
         "labor-and-degradation",
         "power-and-law"
       ],
-      "updated": 1766397134,
+      "updated": 1766457964,
       "sourcePath": "content/forge/books/passed/the-wealth-of-nations.md",
       "url": "/forge/books/the-wealth-of-nations",
       "heat": 0.48,
@@ -786,7 +862,7 @@
         "via-negativa",
         "barbell-strategy"
       ],
-      "updated": 1766370346,
+      "updated": 1766454766,
       "sourcePath": "content/forge/ideas/passed/antifragility.md",
       "url": "/forge/ideas/antifragility",
       "heat": 0.72,
@@ -811,7 +887,7 @@
         "conflict-by-design",
         "anti-fragile-governance"
       ],
-      "updated": 1766376124,
+      "updated": 1766457902,
       "sourcePath": "content/forge/ideas/passed/checks-and-balances.md",
       "url": "/forge/ideas/checks-and-balances",
       "heat": 0.48,
@@ -836,7 +912,7 @@
         "anti-naive-progress",
         "systems-thinking"
       ],
-      "updated": 1766397742,
+      "updated": 1766457914,
       "sourcePath": "content/forge/ideas/passed/chesterton-s-fence.md",
       "url": "/forge/ideas/chesterton-s-fence",
       "heat": 0.48,
@@ -890,7 +966,7 @@
         "restraint-and-power",
         "institutional-fragility"
       ],
-      "updated": 1766376200,
+      "updated": 1766457904,
       "sourcePath": "content/forge/ideas/passed/civic-virtue.md",
       "url": "/forge/ideas/civic-virtue",
       "heat": 0.72,
@@ -910,8 +986,15 @@
           ]
         },
         {
-          "to": "mana-a-a-s-search-for-meaning",
+          "to": "man-s-search-for-meaning",
           "weight": 0.1044,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "the-denial-of-death",
+          "weight": 0.0958,
           "sharedTags": [
             "ethical-architecture"
           ]
@@ -944,7 +1027,7 @@
         "manufactured-belonging",
         "symbolic-consumption"
       ],
-      "updated": 1766376230,
+      "updated": 1766457906,
       "sourcePath": "content/forge/ideas/passed/consumerism-as-identity.md",
       "url": "/forge/ideas/consumerism-as-identity",
       "heat": 0.48,
@@ -969,10 +1052,35 @@
         "anti-vanity",
         "time-accountability"
       ],
-      "updated": 1766376170,
+      "updated": 1766457910,
       "sourcePath": "content/forge/ideas/passed/memento-mori.md",
       "url": "/forge/ideas/memento-mori",
       "heat": 0.72,
+      "edges": []
+    },
+    {
+      "id": "moral-hazard",
+      "domain": "ideas",
+      "title": "Moral Hazard",
+      "slug": "moral-hazard",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "risk & responsibility",
+      "subtitle": "Sheltering Hands That Twist the World",
+      "level": "II",
+      "tags": [
+        "systemic-risk",
+        "incentives-and-ethics",
+        "responsibility-design",
+        "power-and-consequence",
+        "institutional-morality"
+      ],
+      "updated": 1766450114,
+      "sourcePath": "content/forge/ideas/passed/moral-hazard.md",
+      "url": "/forge/ideas/moral-hazard",
+      "heat": 0.48,
       "edges": []
     },
     {
@@ -994,7 +1102,7 @@
         "hypocrisy-diagnostics",
         "ethical-symmetry"
       ],
-      "updated": 1766373378,
+      "updated": 1766457898,
       "sourcePath": "content/forge/ideas/passed/moral-relativism-as-convenience.md",
       "url": "/forge/ideas/moral-relativism-as-convenience",
       "heat": 0.48,
@@ -1019,7 +1127,7 @@
         "intellectual-humility",
         "reality-alignment"
       ],
-      "updated": 1766397780,
+      "updated": 1766457918,
       "sourcePath": "content/forge/ideas/passed/occam-s-razor.md",
       "url": "/forge/ideas/occam-s-razor",
       "heat": 0.48,
@@ -1059,7 +1167,7 @@
         "epistemic-discipline",
         "attention-economy"
       ],
-      "updated": 1766376156,
+      "updated": 1766457910,
       "sourcePath": "content/forge/ideas/passed/propaganda-model.md",
       "url": "/forge/ideas/propaganda-model",
       "heat": 0.48,
@@ -1106,7 +1214,7 @@
         "long-termism",
         "design-principles"
       ],
-      "updated": 1766397710,
+      "updated": 1766457922,
       "sourcePath": "content/forge/ideas/passed/second-order-effects.md",
       "url": "/forge/ideas/second-order-effects",
       "heat": 0.48,
@@ -1160,7 +1268,7 @@
         "accountability",
         "asymmetry"
       ],
-      "updated": 1766370362,
+      "updated": 1766457896,
       "sourcePath": "content/forge/ideas/passed/skin-in-the-game.md",
       "url": "/forge/ideas/skin-in-the-game",
       "heat": 0.72,
@@ -1185,7 +1293,7 @@
         "resilience-without-numbness",
         "moral-architecture"
       ],
-      "updated": 1766376140,
+      "updated": 1766457912,
       "sourcePath": "content/forge/ideas/passed/stoicism.md",
       "url": "/forge/ideas/stoicism",
       "heat": 0.48,
@@ -1219,7 +1327,7 @@
         "anti-centralization",
         "protection-from-local-tyranny"
       ],
-      "updated": 1766373360,
+      "updated": 1766457900,
       "sourcePath": "content/forge/ideas/passed/subsidiarity.md",
       "url": "/forge/ideas/subsidiarity",
       "heat": 0.72,
@@ -1245,7 +1353,7 @@
         "prejudice-exposed",
         "ethical-procedure"
       ],
-      "updated": 1766396838,
+      "updated": 1766454770,
       "sourcePath": "content/forge/movies/passed/12-angry-men.md",
       "url": "/forge/movies/12-angry-men",
       "heat": 0.72,
@@ -1285,7 +1393,7 @@
         "private-vs-public-self",
         "love-under-pressure"
       ],
-      "updated": 1766396782,
+      "updated": 1766457816,
       "sourcePath": "content/forge/movies/passed/a-hidden-life.md",
       "url": "/forge/movies/a-hidden-life",
       "heat": 0.48,
@@ -1325,7 +1433,7 @@
         "historical-ethics",
         "interior-freedom"
       ],
-      "updated": 1766396816,
+      "updated": 1766457818,
       "sourcePath": "content/forge/movies/passed/a-man-for-all-seasons.md",
       "url": "/forge/movies/a-man-for-all-seasons",
       "heat": 0.48,
@@ -1358,7 +1466,7 @@
         "identity-and-exile",
         "structural-violence"
       ],
-      "updated": 1766394248,
+      "updated": 1766457786,
       "sourcePath": "content/forge/movies/passed/a-prophet.md",
       "url": "/forge/movies/a-prophet",
       "heat": 0.72,
@@ -1419,7 +1527,7 @@
         "unreliable-reality",
         "status-systems"
       ],
-      "updated": 1766375518,
+      "updated": 1766457758,
       "sourcePath": "content/forge/movies/passed/american-psycho.md",
       "url": "/forge/movies/american-psycho",
       "heat": 0.72,
@@ -1452,7 +1560,7 @@
         "slow-burning-dread",
         "power-and-erasure"
       ],
-      "updated": 1766395700,
+      "updated": 1766457806,
       "sourcePath": "content/forge/movies/passed/burning.md",
       "url": "/forge/movies/burning",
       "heat": 0.72,
@@ -1499,7 +1607,7 @@
         "consequence-architecture",
         "ethical-contagion"
       ],
-      "updated": 1766375460,
+      "updated": 1766457760,
       "sourcePath": "content/forge/movies/passed/cloud-atlas.md",
       "url": "/forge/movies/cloud-atlas",
       "heat": 0.48,
@@ -1524,7 +1632,7 @@
         "suburban-mythology",
         "madness-and-revelation"
       ],
-      "updated": 1766394414,
+      "updated": 1766457790,
       "sourcePath": "content/forge/movies/passed/donnie-darko.md",
       "url": "/forge/movies/donnie-darko",
       "heat": 0.48,
@@ -1558,7 +1666,7 @@
         "ethical-inversion",
         "modern-nihilism"
       ],
-      "updated": 1766375498,
+      "updated": 1766457762,
       "sourcePath": "content/forge/movies/passed/fight-club.md",
       "url": "/forge/movies/fight-club",
       "heat": 0.72,
@@ -1598,7 +1706,7 @@
         "civilization-as-illusion",
         "witness-and-complicity"
       ],
-      "updated": 1766395720,
+      "updated": 1766457808,
       "sourcePath": "content/forge/movies/passed/hard-to-be-a-god.md",
       "url": "/forge/movies/hard-to-be-a-god",
       "heat": 0.72,
@@ -1631,7 +1739,7 @@
         "digital-loneliness",
         "evolving-consciousness"
       ],
-      "updated": 1766395684,
+      "updated": 1766457764,
       "sourcePath": "content/forge/movies/passed/her.md",
       "url": "/forge/movies/her",
       "heat": 0.48,
@@ -1665,7 +1773,7 @@
         "slow-erosion",
         "psychological-endurance"
       ],
-      "updated": 1766396892,
+      "updated": 1766457820,
       "sourcePath": "content/forge/movies/passed/hunger.md",
       "url": "/forge/movies/hunger",
       "heat": 0.48,
@@ -1698,7 +1806,7 @@
         "folk-horror-ethics",
         "beauty-as-weapon"
       ],
-      "updated": 1766375358,
+      "updated": 1766457766,
       "sourcePath": "content/forge/movies/passed/midsommar.md",
       "url": "/forge/movies/midsommar",
       "heat": 0.48,
@@ -1723,7 +1831,7 @@
         "violence-as-revelation",
         "myth-decay"
       ],
-      "updated": 1766370164,
+      "updated": 1766457746,
       "sourcePath": "content/forge/movies/passed/no-country-for-old-men.md",
       "url": "/forge/movies/no-country-for-old-men",
       "heat": 0.72,
@@ -1743,8 +1851,15 @@
           ]
         },
         {
-          "to": "mana-a-a-s-search-for-meaning",
+          "to": "man-s-search-for-meaning",
           "weight": 0.1044,
+          "sharedTags": [
+            "ethical-architecture"
+          ]
+        },
+        {
+          "to": "the-denial-of-death",
+          "weight": 0.0958,
           "sharedTags": [
             "ethical-architecture"
           ]
@@ -1777,7 +1892,7 @@
         "domestic-labyrinth",
         "dream-and-delusion"
       ],
-      "updated": 1766393678,
+      "updated": 1766457774,
       "sourcePath": "content/forge/movies/passed/parasite.md",
       "url": "/forge/movies/parasite",
       "heat": 0.72,
@@ -1825,7 +1940,7 @@
         "masculine-remorse",
         "slow-burning-reckoning"
       ],
-      "updated": 1766396858,
+      "updated": 1766457826,
       "sourcePath": "content/forge/movies/passed/paris-texas.md",
       "url": "/forge/movies/paris-texas",
       "heat": 0.72,
@@ -1850,7 +1965,7 @@
         "scapegoating",
         "anti-war-architecture"
       ],
-      "updated": 1766373192,
+      "updated": 1766457750,
       "sourcePath": "content/forge/movies/passed/paths-of-glory.md",
       "url": "/forge/movies/paths-of-glory",
       "heat": 0.72,
@@ -1890,7 +2005,7 @@
         "psychological-ritual",
         "masks-and-silence"
       ],
-      "updated": 1766395834,
+      "updated": 1766457812,
       "sourcePath": "content/forge/movies/passed/persona.md",
       "url": "/forge/movies/persona",
       "heat": 0.72,
@@ -1915,7 +2030,7 @@
         "modernist-cinema",
         "perception-and-environment"
       ],
-      "updated": 1766393512,
+      "updated": 1766457778,
       "sourcePath": "content/forge/movies/passed/red-desert.md",
       "url": "/forge/movies/red-desert",
       "heat": 0.72,
@@ -1941,7 +2056,7 @@
         "modern-mythmaking",
         "psychological-descent"
       ],
-      "updated": 1766370142,
+      "updated": 1766457748,
       "sourcePath": "content/forge/movies/passed/requiem-for-a-dream.md",
       "url": "/forge/movies/requiem-for-a-dream",
       "heat": 0.72,
@@ -1966,7 +2081,7 @@
         "existential-transaction",
         "institutional-control"
       ],
-      "updated": 1766373148,
+      "updated": 1766457754,
       "sourcePath": "content/forge/movies/passed/seconds.md",
       "url": "/forge/movies/seconds",
       "heat": 0.72,
@@ -1999,7 +2114,7 @@
         "guilt-and-responsibility",
         "labor-as-crucible"
       ],
-      "updated": 1766394432,
+      "updated": 1766457792,
       "sourcePath": "content/forge/movies/passed/sorcerer.md",
       "url": "/forge/movies/sorcerer",
       "heat": 0.72,
@@ -2025,7 +2140,7 @@
         "slow-cinema",
         "post-religious-sacred"
       ],
-      "updated": 1766394230,
+      "updated": 1766457794,
       "sourcePath": "content/forge/movies/passed/stalker.md",
       "url": "/forge/movies/stalker",
       "heat": 0.72,
@@ -2054,6 +2169,31 @@
       ]
     },
     {
+      "id": "the-ascent",
+      "domain": "movies",
+      "title": "The Ascent",
+      "slug": "the-ascent",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "war drama",
+      "subtitle": "Snow, Betrayal, and the Weight of a Soul",
+      "level": "III",
+      "tags": [
+        "war-and-faith",
+        "moral-extremity",
+        "betrayal-and-sacrifice",
+        "spiritual-realism",
+        "austere-cinema"
+      ],
+      "updated": 1766450044,
+      "sourcePath": "content/forge/movies/passed/the-ascent.md",
+      "url": "/forge/movies/the-ascent",
+      "heat": 0.72,
+      "edges": []
+    },
+    {
       "id": "the-battle-of-algiers",
       "domain": "movies",
       "title": "The Battle of Algiers",
@@ -2072,7 +2212,7 @@
         "political-memory",
         "urban-warfare"
       ],
-      "updated": 1766396754,
+      "updated": 1766457828,
       "sourcePath": "content/forge/movies/passed/the-battle-of-algiers.md",
       "url": "/forge/movies/the-battle-of-algiers",
       "heat": 0.72,
@@ -2097,7 +2237,7 @@
         "privacy-and-exposure",
         "1970s-paranoia-transcended"
       ],
-      "updated": 1766393532,
+      "updated": 1766457780,
       "sourcePath": "content/forge/movies/passed/the-conversation.md",
       "url": "/forge/movies/the-conversation",
       "heat": 0.72,
@@ -2122,7 +2262,7 @@
         "consequence-ethics",
         "innocence-deconstructed"
       ],
-      "updated": 1766375426,
+      "updated": 1766457768,
       "sourcePath": "content/forge/movies/passed/the-innocents.md",
       "url": "/forge/movies/the-innocents",
       "heat": 0.48,
@@ -2147,7 +2287,7 @@
         "art-under-repression",
         "ethical-responsibility"
       ],
-      "updated": 1766393552,
+      "updated": 1766457782,
       "sourcePath": "content/forge/movies/passed/the-lives-of-others.md",
       "url": "/forge/movies/the-lives-of-others",
       "heat": 0.48,
@@ -2173,7 +2313,7 @@
         "coen-brothers",
         "moral-ambiguity"
       ],
-      "updated": 1766396974,
+      "updated": 1766457830,
       "sourcePath": "content/forge/movies/passed/the-man-who-wasn-t-there.md",
       "url": "/forge/movies/the-man-who-wasn-t-there",
       "heat": 0.48,
@@ -2198,7 +2338,7 @@
         "belief-and-doubt",
         "body-vs-machine"
       ],
-      "updated": 1766394210,
+      "updated": 1766457796,
       "sourcePath": "content/forge/movies/passed/the-matrix.md",
       "url": "/forge/movies/the-matrix",
       "heat": 0.72,
@@ -2223,7 +2363,7 @@
         "political-undercurrent",
         "observer-vs-participant"
       ],
-      "updated": 1766393700,
+      "updated": 1766457784,
       "sourcePath": "content/forge/movies/passed/the-passenger.md",
       "url": "/forge/movies/the-passenger",
       "heat": 0.48,
@@ -2248,7 +2388,7 @@
         "witness-and-memory",
         "art-under-terror"
       ],
-      "updated": 1766396932,
+      "updated": 1766457832,
       "sourcePath": "content/forge/movies/passed/the-pianist.md",
       "url": "/forge/movies/the-pianist",
       "heat": 0.48,
@@ -2281,7 +2421,7 @@
         "gothic-pastoral",
         "mythmaking-as-survival"
       ],
-      "updated": 1766375378,
+      "updated": 1766457770,
       "sourcePath": "content/forge/movies/passed/the-reflecting-skin.md",
       "url": "/forge/movies/the-reflecting-skin",
       "heat": 0.72,
@@ -2314,7 +2454,7 @@
         "ethics-under-fear",
         "symbolic-austerity"
       ],
-      "updated": 1766375480,
+      "updated": 1766457772,
       "sourcePath": "content/forge/movies/passed/the-seventh-seal.md",
       "url": "/forge/movies/the-seventh-seal",
       "heat": 0.72,
@@ -2354,7 +2494,7 @@
         "elemental-ethics",
         "existential-parable"
       ],
-      "updated": 1766394334,
+      "updated": 1766457798,
       "sourcePath": "content/forge/movies/passed/the-turin-horse.md",
       "url": "/forge/movies/the-turin-horse",
       "heat": 0.72,
@@ -2379,7 +2519,7 @@
         "obsession-and-grief",
         "knowledge-as-curse"
       ],
-      "updated": 1766395866,
+      "updated": 1766457814,
       "sourcePath": "content/forge/movies/passed/the-vanishing.md",
       "url": "/forge/movies/the-vanishing",
       "heat": 0.48,
@@ -2412,7 +2552,7 @@
         "fear-as-structure",
         "ethical-pressure"
       ],
-      "updated": 1766396908,
+      "updated": 1766457834,
       "sourcePath": "content/forge/movies/passed/the-wages-of-fear.md",
       "url": "/forge/movies/the-wages-of-fear",
       "heat": 0.72,
@@ -2445,7 +2585,7 @@
         "american-myth-deconstruction",
         "psychological-excavation"
       ],
-      "updated": 1766394370,
+      "updated": 1766457800,
       "sourcePath": "content/forge/movies/passed/there-will-be-blood.md",
       "url": "/forge/movies/there-will-be-blood",
       "heat": 0.72,
@@ -2470,7 +2610,7 @@
         "ethical-horror",
         "psychological-sci-fi"
       ],
-      "updated": 1766396732,
+      "updated": 1766457836,
       "sourcePath": "content/forge/movies/passed/under-the-skin.md",
       "url": "/forge/movies/under-the-skin",
       "heat": 0.72,
@@ -2503,7 +2643,7 @@
         "ethics-of-revolution",
         "language-and-control"
       ],
-      "updated": 1766373170,
+      "updated": 1766457756,
       "sourcePath": "content/forge/movies/passed/v-for-vendetta.md",
       "url": "/forge/movies/v-for-vendetta",
       "heat": 0.48,
@@ -2528,7 +2668,7 @@
         "ethical-collapse",
         "ritualized-violence"
       ],
-      "updated": 1766394296,
+      "updated": 1766457802,
       "sourcePath": "content/forge/movies/passed/wake-in-fright.md",
       "url": "/forge/movies/wake-in-fright",
       "heat": 0.48,
@@ -2561,7 +2701,7 @@
         "austere-psychology",
         "ritual-without-belief"
       ],
-      "updated": 1766394316,
+      "updated": 1766457804,
       "sourcePath": "content/forge/movies/passed/winter-light.md",
       "url": "/forge/movies/winter-light",
       "heat": 0.72,
@@ -2587,7 +2727,7 @@
         "social-control",
         "crowd-psychology"
       ],
-      "updated": 1766395942,
+      "updated": 1766454774,
       "sourcePath": "content/forge/others/passed/cancellation-rituals.md",
       "url": "/forge/others/cancellation-rituals",
       "heat": 0.48,
@@ -2612,7 +2752,7 @@
         "debt-as-discipline",
         "institutional-drift"
       ],
-      "updated": 1766376042,
+      "updated": 1766457718,
       "sourcePath": "content/forge/others/passed/credential-inflation.md",
       "url": "/forge/others/credential-inflation",
       "heat": 0.48,
@@ -2637,7 +2777,7 @@
         "failure-as-teacher",
         "infrastructure-and-mortality"
       ],
-      "updated": 1766397570,
+      "updated": 1766457738,
       "sourcePath": "content/forge/others/passed/disaster-drills.md",
       "url": "/forge/others/disaster-drills",
       "heat": 0.48,
@@ -2663,7 +2803,7 @@
         "human-floor",
         "ethical-architecture"
       ],
-      "updated": 1766375980,
+      "updated": 1766457720,
       "sourcePath": "content/forge/others/passed/geneva-conventions.md",
       "url": "/forge/others/geneva-conventions",
       "heat": 0.72,
@@ -2697,7 +2837,7 @@
           ]
         },
         {
-          "to": "mana-a-a-s-search-for-meaning",
+          "to": "man-s-search-for-meaning",
           "weight": 0.094,
           "sharedTags": [
             "ethical-architecture"
@@ -2731,7 +2871,7 @@
         "temporal-strata",
         "ethics-of-stewardship"
       ],
-      "updated": 1766394666,
+      "updated": 1766457730,
       "sourcePath": "content/forge/others/passed/legacy-software-systems.md",
       "url": "/forge/others/legacy-software-systems",
       "heat": 0.48,
@@ -2757,7 +2897,7 @@
         "visible-failure",
         "collective-body"
       ],
-      "updated": 1766397530,
+      "updated": 1766457740,
       "sourcePath": "content/forge/others/passed/polio-vaccine-salk.md",
       "url": "/forge/others/polio-vaccine",
       "heat": 0.72,
@@ -2811,7 +2951,7 @@
         "identity-as-performance",
         "visible-failure-modes"
       ],
-      "updated": 1766376108,
+      "updated": 1766457722,
       "sourcePath": "content/forge/others/passed/reality-tv-confessional-editing.md",
       "url": "/forge/others/reality-tv-confessional-editing",
       "heat": 0.48,
@@ -2844,7 +2984,7 @@
         "crisis-revelation",
         "complexity-as-weapon"
       ],
-      "updated": 1766375930,
+      "updated": 1766457724,
       "sourcePath": "content/forge/others/passed/supply-chain-opacity.md",
       "url": "/forge/others/supply-chain-opacity",
       "heat": 0.72,
@@ -2869,7 +3009,7 @@
         "digital-gaze",
         "coerced-consent"
       ],
-      "updated": 1766394686,
+      "updated": 1766457734,
       "sourcePath": "content/forge/others/passed/surveillance-ad-tech.md",
       "url": "/forge/others/surveillance-ad-tech",
       "heat": 0.72,
@@ -2894,7 +3034,7 @@
         "distance-and-latency",
         "communication-discipline"
       ],
-      "updated": 1766397638,
+      "updated": 1766457742,
       "sourcePath": "content/forge/others/passed/tcp-ip.md",
       "url": "/forge/others/tcp-ip",
       "heat": 0.48,
@@ -2920,7 +3060,7 @@
         "visible-failure",
         "engineered-awe"
       ],
-      "updated": 1766376090,
+      "updated": 1766457726,
       "sourcePath": "content/forge/others/passed/the-apollo-program.md",
       "url": "/forge/others/the-apollo-program",
       "heat": 0.72,
@@ -2975,7 +3115,7 @@
         "engineered-trust",
         "uncertainty-discipline"
       ],
-      "updated": 1766394578,
+      "updated": 1766457736,
       "sourcePath": "content/forge/others/passed/the-enigma-machine.md",
       "url": "/forge/others/the-enigma-machine",
       "heat": 0.48,
@@ -3029,7 +3169,7 @@
         "irreversible-thresholds",
         "ethics-of-power"
       ],
-      "updated": 1766397506,
+      "updated": 1766457744,
       "sourcePath": "content/forge/others/passed/the-manhattan-project.md",
       "url": "/forge/others/the-manhattan-project",
       "heat": 0.72,
@@ -3069,7 +3209,7 @@
         "institutional-discipline",
         "visible-failure-modes"
       ],
-      "updated": 1766373326,
+      "updated": 1766457716,
       "sourcePath": "content/forge/others/passed/the-marshall-plan.md",
       "url": "/forge/others/the-marshall-plan",
       "heat": 0.72,
@@ -3102,7 +3242,7 @@
         "visible-failure",
         "altered-trust"
       ],
-      "updated": 1766393334,
+      "updated": 1766457728,
       "sourcePath": "content/forge/others/passed/the-printing-press.md",
       "url": "/forge/others/the-printing-press",
       "heat": 0.72,
@@ -3157,7 +3297,7 @@
         "warning-parable",
         "ideology-and-ruin"
       ],
-      "updated": 1766395746,
+      "updated": 1766454776,
       "sourcePath": "content/forge/persons/passed/adolf-hitler.md",
       "url": "/forge/persons/adolf-hitler",
       "heat": 0.72,
@@ -3182,7 +3322,7 @@
         "charisma-as-weapon",
         "wound-to-mandate"
       ],
-      "updated": 1766375914,
+      "updated": 1766457546,
       "sourcePath": "content/forge/persons/passed/ahab.md",
       "url": "/forge/persons/ahab",
       "heat": 0.72,
@@ -3207,7 +3347,7 @@
         "irreversible-idea",
         "punished-difference"
       ],
-      "updated": 1766373280,
+      "updated": 1766457538,
       "sourcePath": "content/forge/persons/passed/alan-turing.md",
       "url": "/forge/persons/alan-turing",
       "heat": 0.72,
@@ -3232,7 +3372,7 @@
         "cultural-gatekeeping",
         "irreversible-revision"
       ],
-      "updated": 1766375764,
+      "updated": 1766457548,
       "sourcePath": "content/forge/persons/passed/anton-ego.md",
       "url": "/forge/persons/anton-ego",
       "heat": 0.48,
@@ -3257,7 +3397,7 @@
         "systemic-complicity",
         "irreversible-ruin"
       ],
-      "updated": 1766375750,
+      "updated": 1766457550,
       "sourcePath": "content/forge/persons/passed/bernie-madoff.md",
       "url": "/forge/persons/bernie-madoff",
       "heat": 0.72,
@@ -3270,6 +3410,32 @@
           ]
         }
       ]
+    },
+    {
+      "id": "carl-jung",
+      "domain": "persons",
+      "title": "Carl Jung",
+      "slug": "carl-jung",
+      "status": "PASSED",
+      "year": null,
+      "country": null,
+      "creator": null,
+      "category": "depth psychologist",
+      "subtitle": "Architect of inner cathedrals who mistook his blueprint for the whole earth.",
+      "level": "III",
+      "tags": [
+        "analytical-psychology",
+        "mythic-structure",
+        "spiritualized-science",
+        "dangerous-insight",
+        "inner-cathedrals",
+        "visionary-overreach"
+      ],
+      "updated": 1766450090,
+      "sourcePath": "content/forge/persons/passed/carl-jung.md",
+      "url": "/forge/persons/carl-jung",
+      "heat": 0.72,
+      "edges": []
     },
     {
       "id": "diogenes",
@@ -3290,7 +3456,7 @@
         "contempt-as-weapon",
         "public-philosophy"
       ],
-      "updated": 1766397300,
+      "updated": 1766457594,
       "sourcePath": "content/forge/persons/passed/diogenes.md",
       "url": "/forge/persons/diogenes",
       "heat": 0.72,
@@ -3315,7 +3481,7 @@
         "spiritual-economy",
         "complicity-and-conversion"
       ],
-      "updated": 1766393300,
+      "updated": 1766457566,
       "sourcePath": "content/forge/persons/passed/e-f-schumacher.md",
       "url": "/forge/persons/e-f-schumacher",
       "heat": 0.48,
@@ -3340,7 +3506,7 @@
         "movement-costs",
         "ethics-of-means"
       ],
-      "updated": 1766395908,
+      "updated": 1766457590,
       "sourcePath": "content/forge/persons/passed/emmeline-pankhurst.md",
       "url": "/forge/persons/emmeline-pankhurst",
       "heat": 0.48,
@@ -3365,7 +3531,7 @@
         "exile-and-belonging",
         "myth-deconstruction"
       ],
-      "updated": 1766395884,
+      "updated": 1766457592,
       "sourcePath": "content/forge/persons/passed/ethan-edwards.md",
       "url": "/forge/persons/ethan-edwards",
       "heat": 0.72,
@@ -3398,7 +3564,7 @@
         "reform-through-method",
         "necessity-over-virtue"
       ],
-      "updated": 1766375794,
+      "updated": 1766457554,
       "sourcePath": "content/forge/persons/passed/florence-nightingale.md",
       "url": "/forge/persons/florence-nightingale",
       "heat": 0.72,
@@ -3423,7 +3589,7 @@
         "fatal-integrity",
         "systemic-indifference"
       ],
-      "updated": 1766393582,
+      "updated": 1766457572,
       "sourcePath": "content/forge/persons/passed/frank-grimes.md",
       "url": "/forge/persons/frank-grimes",
       "heat": 0.48,
@@ -3448,7 +3614,7 @@
         "faith-under-erasure",
         "prison-of-consciousness"
       ],
-      "updated": 1766397256,
+      "updated": 1766457596,
       "sourcePath": "content/forge/persons/passed/fyodor-dostoevsky.md",
       "url": "/forge/persons/fyodor-dostoevsky",
       "heat": 0.72,
@@ -3473,7 +3639,7 @@
         "ideological-exhaustion",
         "witness-under-erasure"
       ],
-      "updated": 1766397236,
+      "updated": 1766457600,
       "sourcePath": "content/forge/persons/passed/george-orwell.md",
       "url": "/forge/persons/george-orwell",
       "heat": 0.48,
@@ -3498,7 +3664,7 @@
         "masculine-fragility",
         "tragic-professionalism"
       ],
-      "updated": 1766394534,
+      "updated": 1766457578,
       "sourcePath": "content/forge/persons/passed/gittes.md",
       "url": "/forge/persons/gittes",
       "heat": 0.72,
@@ -3539,7 +3705,7 @@
         "judgment-and-error",
         "postwar-modernity"
       ],
-      "updated": 1766394554,
+      "updated": 1766457580,
       "sourcePath": "content/forge/persons/passed/hannah-arendt.md",
       "url": "/forge/persons/hannah-arendt",
       "heat": 0.72,
@@ -3586,7 +3752,7 @@
         "collision-with-empire",
         "obsession-and-void"
       ],
-      "updated": 1766394516,
+      "updated": 1766457582,
       "sourcePath": "content/forge/persons/passed/herman-melville.md",
       "url": "/forge/persons/herman-melville",
       "heat": 0.72,
@@ -3611,7 +3777,7 @@
         "professionalized-morality",
         "convivial-tools"
       ],
-      "updated": 1766373262,
+      "updated": 1766457542,
       "sourcePath": "content/forge/persons/passed/ivan-illich.md",
       "url": "/forge/persons/ivan-illich",
       "heat": 0.48,
@@ -3636,7 +3802,7 @@
         "emergent-order",
         "civic-observation"
       ],
-      "updated": 1766375840,
+      "updated": 1766457556,
       "sourcePath": "content/forge/persons/passed/jane-jacobs.md",
       "url": "/forge/persons/jane-jacobs",
       "heat": 0.48,
@@ -3662,7 +3828,7 @@
         "structural-violence",
         "unfinished-reckoning"
       ],
-      "updated": 1766397374,
+      "updated": 1766457602,
       "sourcePath": "content/forge/persons/passed/karl-marx.md",
       "url": "/forge/persons/karl-marx",
       "heat": 0.72,
@@ -3709,7 +3875,7 @@
         "invisible-damage",
         "devotion-and-fanaticism"
       ],
-      "updated": 1766393314,
+      "updated": 1766457570,
       "sourcePath": "content/forge/persons/passed/marie-curie.md",
       "url": "/forge/persons/marie-curie",
       "heat": 0.48,
@@ -3734,7 +3900,7 @@
         "market-as-alibi",
         "public-villainy"
       ],
-      "updated": 1766375882,
+      "updated": 1766457560,
       "sourcePath": "content/forge/persons/passed/martin-shkreli.md",
       "url": "/forge/persons/martin-shkreli",
       "heat": 0.48,
@@ -3759,7 +3925,7 @@
         "disenchantment",
         "dangerous-clarity"
       ],
-      "updated": 1766397332,
+      "updated": 1766457604,
       "sourcePath": "content/forge/persons/passed/niccolo-machiavelli.md",
       "url": "/forge/persons/niccolo-machiavelli",
       "heat": 0.72,
@@ -3814,7 +3980,7 @@
         "privacy-violation",
         "cultural-prototype"
       ],
-      "updated": 1766370238,
+      "updated": 1766457536,
       "sourcePath": "content/forge/persons/passed/paris-hilton.md",
       "url": "/forge/persons/paris-hilton",
       "heat": 0.48,
@@ -3847,17 +4013,17 @@
         "confession-without-absolution",
         "consequence-as-terrain"
       ],
-      "updated": 1766370258,
+      "updated": 1766457530,
       "sourcePath": "content/forge/persons/passed/raskolnikov.md",
       "url": "/forge/persons/raskolnikov",
       "heat": 0.72,
       "edges": []
     },
     {
-      "id": "rena-a-girard",
+      "id": "rene-girard",
       "domain": "persons",
-      "title": "RenÃƒÂ© Girard",
-      "slug": "rena-a-girard",
+      "title": "René Girard",
+      "slug": "rene-girard",
       "status": "PASSED",
       "year": null,
       "country": null,
@@ -3872,9 +4038,9 @@
         "demythologized-sacred",
         "structural-guilt"
       ],
-      "updated": 1766394500,
+      "updated": 1766529218,
       "sourcePath": "content/forge/persons/passed/rena-a-girard.md",
-      "url": "/forge/persons/rena-a-girard",
+      "url": "/forge/persons/rene-girard",
       "heat": 0.72,
       "edges": []
     },
@@ -3897,7 +4063,7 @@
         "anti-redemption-arc",
         "ethical-paradox"
       ],
-      "updated": 1766393618,
+      "updated": 1766457574,
       "sourcePath": "content/forge/persons/passed/samurai-jack.md",
       "url": "/forge/persons/samurai-jack",
       "heat": 0.72,
@@ -3922,7 +4088,7 @@
         "fear-as-governance",
         "survival-doctrine"
       ],
-      "updated": 1766375810,
+      "updated": 1766457562,
       "sourcePath": "content/forge/persons/passed/sergeant-barnes.md",
       "url": "/forge/persons/sergeant-barnes",
       "heat": 0.72,
@@ -3956,7 +4122,7 @@
         "anti-idolatry",
         "dangerous-examples"
       ],
-      "updated": 1766397276,
+      "updated": 1766457606,
       "sourcePath": "content/forge/persons/passed/simone-weil.md",
       "url": "/forge/persons/simone-weil",
       "heat": 0.72,
@@ -3981,7 +4147,7 @@
         "tragic-integrity",
         "dangerous-questions"
       ],
-      "updated": 1766397318,
+      "updated": 1766457608,
       "sourcePath": "content/forge/persons/passed/socrates.md",
       "url": "/forge/persons/socrates",
       "heat": 0.72,
@@ -4007,7 +4173,7 @@
         "style-as-weapon",
         "scarred-spectatorship"
       ],
-      "updated": 1766397420,
+      "updated": 1766457610,
       "sourcePath": "content/forge/persons/passed/susan-sontag.md",
       "url": "/forge/persons/susan-sontag",
       "heat": 0.72,
@@ -4032,17 +4198,17 @@
         "anti-romantic-humanism",
         "state-as-monster"
       ],
-      "updated": 1766397354,
+      "updated": 1766457612,
       "sourcePath": "content/forge/persons/passed/thomas-hobbes.md",
       "url": "/forge/persons/thomas-hobbes",
       "heat": 0.48,
       "edges": []
     },
     {
-      "id": "va-a-clav-havel",
+      "id": "vaclav-havel",
       "domain": "persons",
-      "title": "VÃƒÂ¡clav Havel",
-      "slug": "va-a-clav-havel",
+      "title": "Václav Havel",
+      "slug": "vaclav-havel",
       "status": "PASSED",
       "year": null,
       "country": null,
@@ -4058,9 +4224,9 @@
         "symbolic-burden",
         "fragile-truth"
       ],
-      "updated": 1766394458,
+      "updated": 1766529226,
       "sourcePath": "content/forge/persons/passed/va-a-clav-havel.md",
-      "url": "/forge/persons/va-a-clav-havel",
+      "url": "/forge/persons/vaclav-havel",
       "heat": 0.48,
       "edges": []
     },
@@ -4083,13 +4249,13 @@
         "anti-nihilism",
         "trauma-and-philosophy"
       ],
-      "updated": 1766370276,
+      "updated": 1766457534,
       "sourcePath": "content/forge/persons/passed/viktor-frankl.md",
       "url": "/forge/persons/viktor-frankl",
       "heat": 0.48,
       "edges": [
         {
-          "to": "mana-a-a-s-search-for-meaning",
+          "to": "man-s-search-for-meaning",
           "weight": 0.1024,
           "sharedTags": [
             "inner-freedom"

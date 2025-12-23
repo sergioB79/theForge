@@ -1,7 +1,7 @@
 ---
 CLASSIFICATION
 DOMAIN: persons
-TITLE: VÃƒÂ¡clav Havel
+TITLE: Václav Havel
 CATEGORY: dissident statesman
 FORGE STATUS: PASSED
 FORGE LEVEL: II

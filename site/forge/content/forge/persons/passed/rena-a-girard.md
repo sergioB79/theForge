@@ -1,7 +1,7 @@
 ---
 CLASSIFICATION
 DOMAIN: persons
-TITLE: RenÃƒÂ© Girard
+TITLE: René Girard
 CATEGORY: scapegoat theorist
 FORGE STATUS: PASSED
 FORGE LEVEL: III
