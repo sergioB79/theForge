@@ -5,11 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "vercel-build": "npm run normalize:dossiers && next build",
     "start": "next start",
     "lint": "eslint",
     "import:out": "python scripts/import_from_out.py --out ..\\..\\out --mode copy",
     "build:indexes": "python scripts/build_indexes.py",
-    "pipeline": "npm run import:out && npm run build:indexes"
+    "pipeline": "npm run import:out && npm run build:indexes",
+    "normalize:dossiers": "node scripts/normalize_dossiers.js"
   },
   "dependencies": {
     "next": "16.1.0",
