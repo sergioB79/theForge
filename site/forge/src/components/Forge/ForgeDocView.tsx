@@ -357,6 +357,7 @@ export default function ForgeDocView({
 
       {info && (
         <section className={styles.intro}>
+          <h2 className={styles.sectionTitle}>POINT OF ENTRY</h2>
           <div className={styles.sectionBody}>{renderInline(info)}</div>
         </section>
       )}
