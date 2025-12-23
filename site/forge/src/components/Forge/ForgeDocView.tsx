@@ -498,6 +498,14 @@ export default function ForgeDocView({
         </section>
       )}
 
+      {doc.inscription && (
+        <section className={styles.inscriptionBanner}>
+          <div className={styles.inscriptionLine}>
+            <p className={styles.inscriptionText}>{renderInline(doc.inscription)}</p>
+          </div>
+        </section>
+      )}
+
       <section className="forge-newsletter forge-newsletterInline">
         <div className="forge-tag">THE FORGELETTER</div>
         <h3 className="forge-newsletterTitle">If this lit something in you, join us.</h3>
@@ -520,15 +528,6 @@ export default function ForgeDocView({
           <button type="submit">Join the Forgeletter</button>
         </form>
       </section>
-
-      {!isPerson && doc.inscription && (
-        <section className={styles.inscription}>
-          <h2 className={styles.inscriptionTitle}>INSCRIPTION</h2>
-          <p className={styles.inscriptionText}>
-            <em>{doc.inscription}</em>
-          </p>
-        </section>
-      )}
 
       {!isPerson && mechanism && (
         <section className={styles.hardMode}>
