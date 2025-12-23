@@ -135,6 +135,62 @@ function normalizeForgeMarkdown(md: string) {
     text = text.replace(pattern, `\n\n## ${label}\n`);
   };
 
+  const canonicalize = (value: string) =>
+    value.replace(/[^A-Z0-9]/gi, "").toUpperCase();
+
+  const noisyLabels = [
+    "INVOCATION",
+    "PRE-FORGE EVALUATION",
+    "PALLADIN LAYER",
+    "WHAT MAKES IT FORGE MATERIAL?",
+    "WHAT MAKES THIS FILM FORGE MATERIAL?",
+    "WHAT MAKES THIS BOOK FORGE MATERIAL?",
+    "WHAT MAKES THIS LIFE FORGE MATERIAL?",
+    "WHAT MAKES THIS SYSTEM FORGE MATERIAL?",
+    "FORGE COMPONENTS",
+    "FORGE COMPONENTS (4-5)",
+    "FORGE COMPONENTS (4-6)",
+    "INSTRUCTIONS FOR VIEWING",
+    "INSTRUCTIONS FOR OBSERVATION",
+    "FORGE RITUAL - HOW TO WATCH",
+    "FORGE RITUAL - HOW TO READ",
+    "FORGE RITUAL - HOW TO OBSERVE A LIFE",
+    "FORGE RITUAL - HOW TO ENCOUNTER THIS SYSTEM",
+    "LEGACY IN THE FORGE",
+    "WHY THIS FILM DOES NOT BELONG IN THE FORGE",
+    "WHY THIS BOOK DOES NOT BELONG IN THE FORGE",
+    "WHY THIS LIFE DOES NOT BELONG IN THE FORGE",
+    "WHY THIS SYSTEM DOES NOT BELONG IN THE FORGE",
+    "WHY THIS IDEA DOES NOT BELONG IN THE FORGE",
+    "WHY THIS WORK DOES NOT BELONG IN THE FORGE",
+    "WHY THIS DOES NOT BELONG IN THE FORGE",
+    "WHY IT FEELS WORTHY",
+    "WHY IT FAILS THE FORGE",
+    "VERDICT",
+    "ARCHIVE",
+    "INSCRIPTION",
+    "CLASSIFICATION",
+    "INFO",
+  ];
+
+  const noisyLabelMap = noisyLabels.map((label) => ({
+    label,
+    canon: canonicalize(label),
+    length: label.length,
+  }));
+
+  text = text.replace(/^.*$/gm, (line) => {
+    const trimmed = line.trim();
+    if (!trimmed) return line;
+    const canonLine = canonicalize(trimmed);
+    for (const item of noisyLabelMap) {
+      if (trimmed.length > item.length + 30) continue;
+      if (!canonLine.endsWith(item.canon)) continue;
+      return `## ${item.label}`;
+    }
+    return line;
+  });
+
   text = text.replace(/^[^\n]*WHY IT FEELS WORTHY\s*:\s*(.+)$/gim, "## WHY IT FEELS WORTHY\n$1");
   text = text.replace(/^[^\n]*WHY IT FAILS THE FORGE\s*:\s*(.+)$/gim, "## WHY IT FAILS THE FORGE\n$1");
   text = text.replace(/^[^\n]*VERDICT\s*:\s*(.+)$/gim, "## VERDICT\n$1");
