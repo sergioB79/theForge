@@ -12,6 +12,7 @@ type ForgeItem = {
   level: string;
   subtitle?: string | null;
   tags?: string[];
+  updated?: number | null;
 };
 
 const domainOrder = ["movies", "books", "persons", "others", "ideas"];
@@ -25,15 +26,43 @@ export default function CrucibleView({
 }) {
   const [query, setQuery] = useState("");
   const [tagQuery, setTagQuery] = useState("");
+  const [sortMode, setSortMode] = useState<"recent" | "alpha" | "random">("recent");
+  const [randomSeed] = useState(() => Math.random());
   const normalizedQuery = query.trim().toLowerCase();
 
+  const sortItems = (list: ForgeItem[]) => {
+    if (sortMode === "alpha") {
+      return [...list].sort((a, b) => a.title.localeCompare(b.title));
+    }
+    if (sortMode === "random") {
+      const hash = (value: string) => {
+        let h = 0;
+        for (let i = 0; i < value.length; i += 1) {
+          h = (h << 5) - h + value.charCodeAt(i);
+          h |= 0;
+        }
+        return h;
+      };
+      return [...list].sort((a, b) => {
+        const ra = Math.abs(Math.sin(hash(a.id) + randomSeed) * 10000) % 1;
+        const rb = Math.abs(Math.sin(hash(b.id) + randomSeed) * 10000) % 1;
+        return ra - rb;
+      });
+    }
+    return [...list].sort(
+      (a, b) => (b.updated || 0) - (a.updated || 0)
+    );
+  };
+
+  const sortedItems = useMemo(() => sortItems(items), [items, sortMode, randomSeed]);
+
   const byDomain = useMemo(() => {
-    return items.reduce<Record<string, ForgeItem[]>>((acc, item) => {
+    return sortedItems.reduce<Record<string, ForgeItem[]>>((acc, item) => {
       acc[item.domain] = acc[item.domain] || [];
       acc[item.domain].push(item);
       return acc;
     }, {});
-  }, [items]);
+  }, [sortedItems]);
 
   const tagOptions = useMemo(() => {
     const set = new Set<string>();
@@ -47,7 +76,7 @@ export default function CrucibleView({
     const q = normalizedQuery;
     const t = tagQuery.trim().toLowerCase();
     if (!q && !t) return [];
-    return items.filter((item) => {
+    const filtered = sortedItems.filter((item) => {
       const haystack = `${item.title} ${item.subtitle || ""} ${item.category || ""}`
         .toLowerCase()
         .trim();
@@ -56,7 +85,8 @@ export default function CrucibleView({
       const matchesTag = t ? tags.includes(t) : true;
       return matchesText && matchesTag;
     });
-  }, [items, normalizedQuery, tagQuery]);
+    return sortItems(filtered);
+  }, [sortedItems, normalizedQuery, tagQuery, sortMode, randomSeed]);
 
   return (
     <>
@@ -100,6 +130,21 @@ export default function CrucibleView({
               {tag}
             </option>
           ))}
+        </select>
+        <label className={styles.searchLabel} htmlFor="crucible-sort">
+          Sort
+        </label>
+        <select
+          id="crucible-sort"
+          className={styles.searchSelect}
+          value={sortMode}
+          onChange={(e) =>
+            setSortMode(e.target.value as "recent" | "alpha" | "random")
+          }
+        >
+          <option value="recent">Most recent</option>
+          <option value="alpha">A–Z</option>
+          <option value="random">Random</option>
         </select>
       </div>
 

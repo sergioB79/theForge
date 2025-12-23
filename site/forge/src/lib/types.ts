@@ -10,6 +10,7 @@ export type ForgeItem = {
   category: string;
   subtitle?: string | null;
   tags: string[];
+  updated?: number | null;
   year?: number | null;
   country?: string | null;
   creator?: string | null;
