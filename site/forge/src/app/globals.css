@@ -87,6 +87,115 @@ a {
   color: var(--forge-text-dim);
 }
 
+.forge-prose .dossier-feature {
+  border: 1px solid var(--forge-line);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.03), transparent 55%),
+    rgba(20, 24, 29, 0.7);
+  border-radius: 18px;
+  padding: 28px 26px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+  margin-bottom: 28px;
+}
+
+.forge-prose .dossier-feature h1 {
+  margin: 10px 0 10px;
+  font-size: 32px;
+  line-height: 1.15;
+}
+
+.forge-prose .dossier-lead {
+  margin: 0;
+  color: var(--forge-text-muted);
+  max-width: 68ch;
+  font-size: 15.5px;
+}
+
+.forge-prose .dossier-rule {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  gap: 14px 16px;
+  padding: 18px 18px;
+  border: 1px solid var(--forge-line);
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+
+.forge-prose .dossier-num {
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(231, 204, 116, 0.14);
+  border: 1px solid rgba(231, 204, 116, 0.35);
+  color: var(--forge-amber);
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.forge-prose .dossier-rule h2 {
+  margin: 0;
+  font-size: 18px;
+  letter-spacing: 0.01em;
+  color: var(--forge-text);
+}
+
+.forge-prose .dossier-rule p,
+.forge-prose .dossier-rule ul {
+  margin-top: 8px;
+  color: var(--forge-text-muted);
+}
+
+.forge-prose .dossier-rule ul {
+  margin-left: 18px;
+}
+
+.forge-prose .dossier-final {
+  margin-top: 26px;
+  border-left: 3px solid rgba(231, 204, 116, 0.7);
+  padding: 16px 18px;
+  background: rgba(231, 204, 116, 0.08);
+  border-radius: 14px;
+  border: 1px solid rgba(231, 204, 116, 0.18);
+}
+
+.forge-prose .dossier-final h3 {
+  margin: 0 0 6px;
+  font-size: 16px;
+  color: var(--forge-text);
+}
+
+.forge-prose .dossier-final p {
+  margin: 8px 0 0;
+  color: var(--forge-text);
+}
+
+.forge-prose .dossier-footer {
+  margin-top: 28px;
+  color: var(--forge-text-muted);
+  font-size: 12.5px;
+  border-top: 1px solid var(--forge-line);
+  padding-top: 16px;
+}
+
+.forge-prose .dossier-sig {
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1px solid var(--forge-line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.02);
+  margin-right: 8px;
+  color: var(--forge-text-muted);
+}
+
+@media (max-width: 720px) {
+  .forge-prose .dossier-rule {
+    grid-template-columns: 1fr;
+  }
+}
+
 .forge-header {
   display: flex;
   justify-content: space-between;
