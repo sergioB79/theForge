@@ -384,13 +384,6 @@ export default function ForgeDocView({
         </section>
       )}
 
-      {whatMakes && !isRejected && !info && (
-        <section className={styles.tldr}>
-          <div className={styles.tldrLabel}>FORGE VERDICT</div>
-          <p className={styles.sectionBody}>{renderInline(firstSentences(whatMakes, 3))}</p>
-        </section>
-      )}
-
       {isRejected && rejectWhy && (
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>WHY THIS DOES NOT BELONG IN THE FORGE</h2>
@@ -487,6 +480,13 @@ export default function ForgeDocView({
           ) : (
             <div className={styles.sectionBody}>{renderInline(instructions)}</div>
           )}
+        </section>
+      )}
+
+      {whatMakes && !isRejected && (
+        <section className={styles.tldr}>
+          <div className={styles.tldrLabel}>FORGE VERDICT</div>
+          <p className={styles.sectionBody}>{renderInline(firstSentences(whatMakes, 3))}</p>
         </section>
       )}
 
