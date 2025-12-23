@@ -11,14 +11,8 @@ type DossierEntry = {
   fileName: string;
 };
 
-type DossierDoc = {
-  label: string;
-  title: string;
-  html: string;
-  fileName: string;
-};
-
 const FEATURED_DOSSIER = "how-to-read-a-forge-dossier.html";
+const FEATURED_TITLE = "How to Read a Forge Dossier";
 
 function slugify(text: string): string {
   return text
@@ -94,7 +88,7 @@ function getDossiers(): DossierEntry[] {
   });
 }
 
-function getFeaturedDossier(): DossierDoc | null {
+function getFeaturedDossierSlug(): string | null {
   const dossierDir = resolveDossierDir();
   if (!dossierDir || !fs.existsSync(dossierDir)) {
     return null;
@@ -103,15 +97,13 @@ function getFeaturedDossier(): DossierDoc | null {
   if (!fs.existsSync(featuredPath)) {
     return null;
   }
-  const html = fs.readFileSync(featuredPath, "utf-8");
-  const label = extractClass(html, "dossier-label") || "DOSSIER";
-  const title = extractTag(html, "h1") || extractTag(html, "h2") || "Dossier";
-  return { label, title, html, fileName: FEATURED_DOSSIER };
+  const base = FEATURED_DOSSIER.replace(/\.md\.html$/i, "").replace(/\.html$/i, "");
+  return slugify(base);
 }
 
 export default function DossierPage() {
   const dossiers = getDossiers();
-  const featured = getFeaturedDossier();
+  const featuredSlug = getFeaturedDossierSlug();
 
   return (
     <main className="forge-shell">
@@ -122,13 +114,20 @@ export default function DossierPage() {
         mechanisms that do not fit inside a full Forge review.
       </p>
 
-      {featured && (
+      {featuredSlug && (
         <section className="forge-card" style={{ marginTop: 32 }}>
-          <div className="forge-prose" dangerouslySetInnerHTML={{ __html: featured.html }} />
+          <p className="forge-eyebrow">ENTRY GUIDE</p>
+          <h2 className="forge-section-title">{FEATURED_TITLE}</h2>
+          <p className="forge-lead" style={{ marginTop: 8 }}>
+            A short orientation for reading a Forge dossier without drifting into taste or sentiment.
+          </p>
+          <a className="forge-link" href={`/dossier/${featuredSlug}`} style={{ marginTop: 12, display: "inline-block" }}>
+            Read the guide
+          </a>
         </section>
       )}
 
-      <section className="forge-card" style={{ marginTop: featured ? 28 : 32 }}>
+      <section className="forge-card" style={{ marginTop: featuredSlug ? 28 : 32 }}>
         {dossiers.length === 0 ? (
           <p>No dossiers yet. Create dossiers after importing content.</p>
         ) : (
