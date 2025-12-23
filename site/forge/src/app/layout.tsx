@@ -72,6 +72,14 @@ export default function RootLayout({
             {" "} &middot;{" "}
             <a href="https://buttondown.email/theforge">Join the Forgeletter</a>
           </div>
+          <a
+            className="forge-footerMark"
+            href="https://sergiob79.github.io/Noctarion_page/#"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Noctarion
+          </a>
         </footer>
       </body>
     </html>
