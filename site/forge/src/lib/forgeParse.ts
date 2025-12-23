@@ -323,10 +323,81 @@ function extractTagsBlock(md: string): string | undefined {
   return tags.join(", ");
 }
 
+function extractInscription(md: string): string | undefined {
+  const lines = md.split("\n");
+  let tagStart = -1;
+  for (let i = 0; i < lines.length; i += 1) {
+    if (/^TAGS\b/i.test(lines[i].trim())) {
+      tagStart = i + 1;
+      break;
+    }
+  }
+  if (tagStart === -1) return undefined;
+
+  let i = tagStart;
+  for (; i < lines.length; i += 1) {
+    const line = lines[i].trim();
+    if (!line) continue;
+    if (/^[-*+]\s+/.test(line)) continue;
+    // first non-bullet line after tags
+    return line;
+  }
+  // Fallback: use last non-empty line if it doesn't look like a heading.
+  for (let j = lines.length - 1; j >= 0; j -= 1) {
+    const line = lines[j].trim();
+    if (!line) continue;
+    if (/^[-*+]\s+/.test(line)) continue;
+    if (/^(#{1,6}\s+|[A-Z0-9][A-Z0-9\s\-()?]+)$/.test(line)) continue;
+    if (/^CLASSIFICATION\b/i.test(line)) continue;
+    if (/^SUBTITLE\b/i.test(line)) continue;
+    if (/^INFO\b/i.test(line)) continue;
+    return line;
+  }
+  return undefined;
+}
+
+function stripTagsAndInscription(md: string, inscription?: string): string {
+  const lines = md.split("\n");
+  let i = 0;
+  const out: string[] = [];
+  while (i < lines.length) {
+    const line = lines[i];
+    if (/^TAGS\b/i.test(line.trim())) {
+      i += 1;
+      // skip tag bullets and empty lines
+      while (i < lines.length) {
+        const curr = lines[i].trim();
+        if (!curr) {
+          i += 1;
+          continue;
+        }
+        if (/^[-*+]\s+/.test(curr)) {
+          i += 1;
+          continue;
+        }
+        if (inscription && curr === inscription) {
+          i += 1;
+        }
+        break;
+      }
+      continue;
+    }
+    if (inscription && line.trim() === inscription) {
+      i += 1;
+      continue;
+    }
+    out.push(line);
+    i += 1;
+  }
+  return out.join("\n");
+}
+
 export function parseForgeMarkdown(md: string): ForgeDoc {
   const normalized = normalizeForgeMarkdown(md);
-  let working = normalized;
+  const inscription = extractInscription(md);
+  let working = stripTagsAndInscription(normalized, inscription);
   const out: ForgeDoc = { sections: {}, classification: {} };
+  if (inscription) out.inscription = inscription;
 
   const invocationHeader = /^\s*INVOCATION\s*$/m;
   const headerMatch = invocationHeader.exec(normalized);
@@ -467,6 +538,18 @@ export function parseForgeMarkdown(md: string): ForgeDoc {
   if (!out.classification.TAGS) {
     const tags = extractTagsBlock(md);
     if (tags) out.classification.TAGS = tags;
+  }
+
+  if (out.inscription) {
+    for (const key of Object.keys(out.sections)) {
+      const content = out.sections[key];
+      const lines = content.split("\n").map((l) => l.trim()).filter(Boolean);
+      if (!lines.length) continue;
+      const last = lines[lines.length - 1];
+      if (last === out.inscription) {
+        out.sections[key] = lines.slice(0, -1).join("\n").trim();
+      }
+    }
   }
 
   return out;
