@@ -152,6 +152,26 @@ a {
   margin-left: 18px;
 }
 
+.forge-prose .dossier-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 0;
+  padding: 0;
+}
+
+.forge-prose .dossier-tags li {
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: lowercase;
+  border: 1px solid rgba(231, 204, 116, 0.35);
+  color: var(--forge-amber);
+  background: rgba(231, 204, 116, 0.08);
+}
+
 .forge-prose .dossier-final {
   margin-top: 26px;
   border-left: 3px solid rgba(231, 204, 116, 0.7);
